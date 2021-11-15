@@ -1,0 +1,168 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:14-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=065",
+      "rows": 39
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": null
+    },
+    {
+      "code": "0002",
+      "value_represented": "Banning-Allesandro"
+    },
+    {
+      "code": "0003",
+      "value_represented": "Norco"
+    },
+    {
+      "code": "0004",
+      "value_represented": "Mira Loma (Bellegrave)"
+    },
+    {
+      "code": "0005",
+      "value_represented": null
+    },
+    {
+      "code": "0006",
+      "value_represented": null
+    },
+    {
+      "code": "0007",
+      "value_represented": "Blythe-449 W. Murphy St."
+    },
+    {
+      "code": "0008",
+      "value_represented": "Joshua Tree NP - Cottonwood"
+    },
+    {
+      "code": "0009",
+      "value_represented": "Pechanga"
+    },
+    {
+      "code": "0010",
+      "value_represented": "Joshua Tree NP - Cottonwood Visitor Center"
+    },
+    {
+      "code": "0012",
+      "value_represented": "Banning Airport"
+    },
+    {
+      "code": "0016",
+      "value_represented": "Temecula"
+    },
+    {
+      "code": "0101",
+      "value_represented": null
+    },
+    {
+      "code": "0500",
+      "value_represented": "29 Palms"
+    },
+    {
+      "code": "1001",
+      "value_represented": null
+    },
+    {
+      "code": "1002",
+      "value_represented": null
+    },
+    {
+      "code": "1003",
+      "value_represented": "Riverside (Magnolia)"
+    },
+    {
+      "code": "1004",
+      "value_represented": "Joshua Tree NP - Pinto Wells"
+    },
+    {
+      "code": "1010",
+      "value_represented": "Cabazon Resource Recovery Park Station"
+    },
+    {
+      "code": "1016",
+      "value_represented": "Morongo Air Monitoring Station"
+    },
+    {
+      "code": "1999",
+      "value_represented": "Torres Martinez Administration Site"
+    },
+    {
+      "code": "2001",
+      "value_represented": null
+    },
+    {
+      "code": "2002",
+      "value_represented": "Indio"
+    },
+    {
+      "code": "2003",
+      "value_represented": "College of the Desert"
+    },
+    {
+      "code": "2005",
+      "value_represented": "Mecca (Saul Martinez)"
+    },
+    {
+      "code": "3001",
+      "value_represented": null
+    },
+    {
+      "code": "3002",
+      "value_represented": null
+    },
+    {
+      "code": "3011",
+      "value_represented": "SAN JACINTO TOXICS SITE #1 MOUNTAIN VIEW HIGH SCHOOL"
+    },
+    {
+      "code": "3012",
+      "value_represented": "SAN JACINTO TOXIC SITE #2 SCHOOL DISTRICT HEADQUARTERS"
+    },
+    {
+      "code": "4001",
+      "value_represented": null
+    },
+    {
+      "code": "5001",
+      "value_represented": "Palm Springs"
+    },
+    {
+      "code": "6001",
+      "value_represented": "Perris"
+    },
+    {
+      "code": "7001",
+      "value_represented": null
+    },
+    {
+      "code": "8001",
+      "value_represented": "Rubidoux"
+    },
+    {
+      "code": "8005",
+      "value_represented": "Mira Loma (Van Buren)"
+    },
+    {
+      "code": "9000",
+      "value_represented": "Aqua Tibia Wilderness"
+    },
+    {
+      "code": "9001",
+      "value_represented": "Lake Elsinore"
+    },
+    {
+      "code": "9002",
+      "value_represented": "Joshua Tree NM - Lost Horse"
+    },
+    {
+      "code": "9003",
+      "value_represented": "Blythe-445 W Murphy Street"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:23-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=107",
+      "rows": 17
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": null
+    },
+    {
+      "code": "0002",
+      "value_represented": "Sequoia NP-Lower Kaweah"
+    },
+    {
+      "code": "0003",
+      "value_represented": "Sequoia NP-Lodgepole Chlorinator"
+    },
+    {
+      "code": "0005",
+      "value_represented": "Sequoia & Kings Canyon NPs - Ash Mountain"
+    },
+    {
+      "code": "0006",
+      "value_represented": "Sequoia & Kings Canyon NPs - Lower Kaweah"
+    },
+    {
+      "code": "0007",
+      "value_represented": "Sequoia & Kings Canyon NPs - Grant Grove"
+    },
+    {
+      "code": "0008",
+      "value_represented": "Sequoia NP-Lookout Point Ranger Station"
+    },
+    {
+      "code": "0009",
+      "value_represented": "Sequoia & Kings Canyon NPs - Ash Mountain"
+    },
+    {
+      "code": "1001",
+      "value_represented": "Sequoia NP-Ash Mountain"
+    },
+    {
+      "code": "1002",
+      "value_represented": null
+    },
+    {
+      "code": "1003",
+      "value_represented": "Sequoia NP-Generals HWY"
+    },
+    {
+      "code": "2001",
+      "value_represented": null
+    },
+    {
+      "code": "2002",
+      "value_represented": "Visalia-Church"
+    },
+    {
+      "code": "2010",
+      "value_represented": "Porterville"
+    },
+    {
+      "code": "3000",
+      "value_represented": "Visalia-Airport"
+    },
+    {
+      "code": "3001",
+      "value_represented": null
+    },
+    {
+      "code": "4001",
+      "value_represented": null
+    }
+  ]
+}

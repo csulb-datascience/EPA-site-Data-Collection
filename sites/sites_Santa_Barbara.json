@@ -1,0 +1,256 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:18-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=083",
+      "rows": 61
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": null
+    },
+    {
+      "code": "0002",
+      "value_represented": null
+    },
+    {
+      "code": "0003",
+      "value_represented": null
+    },
+    {
+      "code": "0004",
+      "value_represented": null
+    },
+    {
+      "code": "0005",
+      "value_represented": null
+    },
+    {
+      "code": "0007",
+      "value_represented": null
+    },
+    {
+      "code": "0008",
+      "value_represented": "El Capitan"
+    },
+    {
+      "code": "0009",
+      "value_represented": null
+    },
+    {
+      "code": "0010",
+      "value_represented": "Santa Barbara-W. Carrillo St."
+    },
+    {
+      "code": "0011",
+      "value_represented": "Santa Barbara"
+    },
+    {
+      "code": "1001",
+      "value_represented": null
+    },
+    {
+      "code": "1002",
+      "value_represented": null
+    },
+    {
+      "code": "1006",
+      "value_represented": "Santa Maria-S. McClelland St."
+    },
+    {
+      "code": "1007",
+      "value_represented": "Santa Maria-500 S. Broadway"
+    },
+    {
+      "code": "1008",
+      "value_represented": "Santa Maria"
+    },
+    {
+      "code": "1009",
+      "value_represented": null
+    },
+    {
+      "code": "1010",
+      "value_represented": null
+    },
+    {
+      "code": "1011",
+      "value_represented": null
+    },
+    {
+      "code": "1012",
+      "value_represented": null
+    },
+    {
+      "code": "1013",
+      "value_represented": "Lompoc HSP"
+    },
+    {
+      "code": "1014",
+      "value_represented": "Paradise Road"
+    },
+    {
+      "code": "1015",
+      "value_represented": null
+    },
+    {
+      "code": "1016",
+      "value_represented": null
+    },
+    {
+      "code": "1017",
+      "value_represented": null
+    },
+    {
+      "code": "1018",
+      "value_represented": "Nojoqui"
+    },
+    {
+      "code": "1019",
+      "value_represented": null
+    },
+    {
+      "code": "1020",
+      "value_represented": "UCSB West Campus"
+    },
+    {
+      "code": "1021",
+      "value_represented": "Carpinteria"
+    },
+    {
+      "code": "1022",
+      "value_represented": "Lompoc Odor"
+    },
+    {
+      "code": "1023",
+      "value_represented": null
+    },
+    {
+      "code": "1024",
+      "value_represented": null
+    },
+    {
+      "code": "1025",
+      "value_represented": "Los Flores Canyon #1"
+    },
+    {
+      "code": "1026",
+      "value_represented": null
+    },
+    {
+      "code": "1027",
+      "value_represented": null
+    },
+    {
+      "code": "1028",
+      "value_represented": null
+    },
+    {
+      "code": "1029",
+      "value_represented": null
+    },
+    {
+      "code": "1030",
+      "value_represented": null
+    },
+    {
+      "code": "1033",
+      "value_represented": "CarpMet"
+    },
+    {
+      "code": "1037",
+      "value_represented": "Las Flores Canyon Odor"
+    },
+    {
+      "code": "1038",
+      "value_represented": null
+    },
+    {
+      "code": "1039",
+      "value_represented": null
+    },
+    {
+      "code": "1040",
+      "value_represented": null
+    },
+    {
+      "code": "2001",
+      "value_represented": null
+    },
+    {
+      "code": "2002",
+      "value_represented": null
+    },
+    {
+      "code": "2003",
+      "value_represented": null
+    },
+    {
+      "code": "2004",
+      "value_represented": "Lompoc H Street"
+    },
+    {
+      "code": "2005",
+      "value_represented": null
+    },
+    {
+      "code": "2008",
+      "value_represented": null
+    },
+    {
+      "code": "2009",
+      "value_represented": null
+    },
+    {
+      "code": "2010",
+      "value_represented": null
+    },
+    {
+      "code": "2011",
+      "value_represented": "Goleta"
+    },
+    {
+      "code": "2012",
+      "value_represented": "SANTA ROSA ISLAND - BECHER'S BAY - CHANNEL ISLANDS NATIONAL PARK"
+    },
+    {
+      "code": "2015",
+      "value_represented": "PAMS PROBE LOCATED ON ROOF ABOVE LAB OF SBCAPCD OFFICE BUILDING"
+    },
+    {
+      "code": "3001",
+      "value_represented": "Santa Ynez"
+    },
+    {
+      "code": "3002",
+      "value_represented": null
+    },
+    {
+      "code": "4001",
+      "value_represented": null
+    },
+    {
+      "code": "4002",
+      "value_represented": null
+    },
+    {
+      "code": "4003",
+      "value_represented": "VAFB South Base"
+    },
+    {
+      "code": "4004",
+      "value_represented": "Pt. Arguello"
+    },
+    {
+      "code": "5001",
+      "value_represented": null
+    },
+    {
+      "code": "9000",
+      "value_represented": "San Rafael Wilderness"
+    }
+  ]
+}

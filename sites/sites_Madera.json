@@ -1,0 +1,36 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:08-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=039",
+      "rows": 6
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": "Madera-Library"
+    },
+    {
+      "code": "0002",
+      "value_represented": "Madera-Health Dept"
+    },
+    {
+      "code": "0003",
+      "value_represented": "Madera-Avenue 15"
+    },
+    {
+      "code": "0004",
+      "value_represented": "Madera-Pump Yard"
+    },
+    {
+      "code": "0500",
+      "value_represented": "Picayune Rancheria"
+    },
+    {
+      "code": "2010",
+      "value_represented": "Madera-City"
+    }
+  ]
+}

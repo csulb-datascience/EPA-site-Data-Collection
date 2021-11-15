@@ -1,0 +1,56 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:09-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=043",
+      "rows": 11
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": null
+    },
+    {
+      "code": "0003",
+      "value_represented": "Yosemite NP - Turtleback Dome"
+    },
+    {
+      "code": "0004",
+      "value_represented": "Yosemite National Park - Wawona Valley"
+    },
+    {
+      "code": "0005",
+      "value_represented": "Yosemite National Park - Headquarters"
+    },
+    {
+      "code": "0006",
+      "value_represented": "Jerseydale"
+    },
+    {
+      "code": "0033",
+      "value_represented": "Yosemite National Park - Merced River Site"
+    },
+    {
+      "code": "1001",
+      "value_represented": "Yosemite NP-Yosemite Village Vistor Center"
+    },
+    {
+      "code": "1002",
+      "value_represented": "Yosemite National Park - Mobile 1"
+    },
+    {
+      "code": "1003",
+      "value_represented": "Yosemite National Park - Mobile 2"
+    },
+    {
+      "code": "1004",
+      "value_represented": "Yosemite National Park - School Yard"
+    },
+    {
+      "code": "1005",
+      "value_represented": "Yosemite National Park - Glacier Point"
+    }
+  ]
+}

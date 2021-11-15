@@ -1,0 +1,60 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:25:34-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/parametersByClass?email=david.eaton@student.csulb.edu&key=orangeswift34&pc=IMPROVE%20CARBON",
+      "rows": 12
+    }
+  ],
+  "Data": [
+    {
+      "code": "88320",
+      "value_represented": "OC PM2.5 LC TOR"
+    },
+    {
+      "code": "88321",
+      "value_represented": "EC PM2.5 LC TOR"
+    },
+    {
+      "code": "88322",
+      "value_represented": "OCH PM2.5 LC TOT"
+    },
+    {
+      "code": "88323",
+      "value_represented": "EH IMPROVE PM2.5 LC"
+    },
+    {
+      "code": "88324",
+      "value_represented": "OC1 PM2.5 LC"
+    },
+    {
+      "code": "88325",
+      "value_represented": "OC2 PM2.5 LC"
+    },
+    {
+      "code": "88326",
+      "value_represented": "OC3 PM2.5 LC"
+    },
+    {
+      "code": "88327",
+      "value_represented": "OC4 PM2.5 LC"
+    },
+    {
+      "code": "88328",
+      "value_represented": "OP PM2.5 LC TOR"
+    },
+    {
+      "code": "88329",
+      "value_represented": "EC1 PM2.5 LC"
+    },
+    {
+      "code": "88330",
+      "value_represented": "EC2 PM2.5 LC"
+    },
+    {
+      "code": "88331",
+      "value_represented": "EC3 PM2.5 LC"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:03-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=013",
+      "rows": 28
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": "Concord - 991 Treat Blvd."
+    },
+    {
+      "code": "0002",
+      "value_represented": "Concord"
+    },
+    {
+      "code": "0003",
+      "value_represented": "Richmond-13th St."
+    },
+    {
+      "code": "0004",
+      "value_represented": "North Richmond"
+    },
+    {
+      "code": "0005",
+      "value_represented": "Pt. Richmond"
+    },
+    {
+      "code": "0006",
+      "value_represented": "Richmond - 7th St."
+    },
+    {
+      "code": "0007",
+      "value_represented": "Rodeo"
+    },
+    {
+      "code": "0008",
+      "value_represented": null
+    },
+    {
+      "code": "0010",
+      "value_represented": null
+    },
+    {
+      "code": "1001",
+      "value_represented": "Crockett - Kendall Ave"
+    },
+    {
+      "code": "1002",
+      "value_represented": "Bethel Island"
+    },
+    {
+      "code": "1003",
+      "value_represented": "San Pablo - El Portal Center"
+    },
+    {
+      "code": "1004",
+      "value_represented": "San Pablo"
+    },
+    {
+      "code": "2001",
+      "value_represented": "Martinez - Jones St."
+    },
+    {
+      "code": "2002",
+      "value_represented": "Richmond-Nevin Ave."
+    },
+    {
+      "code": "2003",
+      "value_represented": "Antioch"
+    },
+    {
+      "code": "2004",
+      "value_represented": "Martinez - Pacheco Blvd."
+    },
+    {
+      "code": "2005",
+      "value_represented": "Walnut Creek"
+    },
+    {
+      "code": "2006",
+      "value_represented": "Concord - Arnold Industrial Way"
+    },
+    {
+      "code": "2007",
+      "value_represented": "San Ramon"
+    },
+    {
+      "code": "3001",
+      "value_represented": "Pittsburg - W 10th St."
+    },
+    {
+      "code": "4001",
+      "value_represented": "Pleasant Hill-Geary Rd."
+    },
+    {
+      "code": "5001",
+      "value_represented": "Richmond-County Building"
+    },
+    {
+      "code": "6001",
+      "value_represented": "Concord"
+    },
+    {
+      "code": "6002",
+      "value_represented": "Kregor Peak"
+    },
+    {
+      "code": "6003",
+      "value_represented": "Pt. San Pablo"
+    },
+    {
+      "code": "6004",
+      "value_represented": "UC Richmond"
+    },
+    {
+      "code": "6005",
+      "value_represented": "San Ramon"
+    }
+  ]
+}

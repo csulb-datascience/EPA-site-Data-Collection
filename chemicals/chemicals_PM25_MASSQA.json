@@ -1,0 +1,52 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:25:38-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/parametersByClass?email=david.eaton@student.csulb.edu&key=orangeswift34&pc=PM2.5%20MASS/QA",
+      "rows": 10
+    }
+  ],
+  "Data": [
+    {
+      "code": "68101",
+      "value_represented": "Sample Flow Rate- CV"
+    },
+    {
+      "code": "68102",
+      "value_represented": "Sample Volume"
+    },
+    {
+      "code": "68103",
+      "value_represented": "Ambient Min Temperature"
+    },
+    {
+      "code": "68104",
+      "value_represented": "Ambient Max Temperature"
+    },
+    {
+      "code": "68105",
+      "value_represented": "Average Ambient Temperature"
+    },
+    {
+      "code": "68106",
+      "value_represented": "Sample Min Baro Pressure"
+    },
+    {
+      "code": "68107",
+      "value_represented": "Sample Max Baro Pressure"
+    },
+    {
+      "code": "68108",
+      "value_represented": "Average Ambient Pressure"
+    },
+    {
+      "code": "68109",
+      "value_represented": "Elapsed Sample Time"
+    },
+    {
+      "code": "88101",
+      "value_represented": "PM2.5 - Local Conditions"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:14-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=067",
+      "rows": 22
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": null
+    },
+    {
+      "code": "0002",
+      "value_represented": "North Highlands-Blackfoot"
+    },
+    {
+      "code": "0003",
+      "value_represented": null
+    },
+    {
+      "code": "0004",
+      "value_represented": null
+    },
+    {
+      "code": "0005",
+      "value_represented": null
+    },
+    {
+      "code": "0006",
+      "value_represented": "Sacramento-Del Paso Manor"
+    },
+    {
+      "code": "0007",
+      "value_represented": null
+    },
+    {
+      "code": "0010",
+      "value_represented": "Sacramento-1309 T Street"
+    },
+    {
+      "code": "0011",
+      "value_represented": "Elk Grove-Bruceville"
+    },
+    {
+      "code": "0012",
+      "value_represented": "Folsom-Natoma St."
+    },
+    {
+      "code": "0013",
+      "value_represented": "LOCATED APPROXIMATELY 1 MILE NORTH OF I-5 AND I-80 FREEWAYS"
+    },
+    {
+      "code": "0014",
+      "value_represented": "Sacramento-Goldenland Ct."
+    },
+    {
+      "code": "0015",
+      "value_represented": "Sacramento-Bercut Drive"
+    },
+    {
+      "code": "0283",
+      "value_represented": null
+    },
+    {
+      "code": "0284",
+      "value_represented": "Sacramento-Branch Center #2"
+    },
+    {
+      "code": "1001",
+      "value_represented": null
+    },
+    {
+      "code": "1002",
+      "value_represented": null
+    },
+    {
+      "code": "3001",
+      "value_represented": null
+    },
+    {
+      "code": "4001",
+      "value_represented": "Sacramento Health Department-Stockton Blvd."
+    },
+    {
+      "code": "5001",
+      "value_represented": null
+    },
+    {
+      "code": "5002",
+      "value_represented": "Sacramento-Earhart Dr."
+    },
+    {
+      "code": "5003",
+      "value_represented": "Sloughhouse"
+    }
+  ]
+}

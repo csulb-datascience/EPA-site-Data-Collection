@@ -1,0 +1,72 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:21-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=095",
+      "rows": 15
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": "Benicia"
+    },
+    {
+      "code": "0002",
+      "value_represented": "Fairfield - Gregory"
+    },
+    {
+      "code": "0003",
+      "value_represented": "Vallejo-400 Tuolumne St."
+    },
+    {
+      "code": "0004",
+      "value_represented": "Vallejo"
+    },
+    {
+      "code": "0005",
+      "value_represented": "Fairfield"
+    },
+    {
+      "code": "0006",
+      "value_represented": "Benicia - VIP"
+    },
+    {
+      "code": "1001",
+      "value_represented": "Fairfield-Lambie Rd."
+    },
+    {
+      "code": "1002",
+      "value_represented": null
+    },
+    {
+      "code": "2001",
+      "value_represented": "Rio Vista"
+    },
+    {
+      "code": "2002",
+      "value_represented": "Vallejo-321 Tuolumne St."
+    },
+    {
+      "code": "3001",
+      "value_represented": "Vacaville-Merchant Street"
+    },
+    {
+      "code": "3002",
+      "value_represented": "SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT)"
+    },
+    {
+      "code": "3003",
+      "value_represented": "Vacaville-Ulatis Drive"
+    },
+    {
+      "code": "4001",
+      "value_represented": "Vallejo-228 Broadway"
+    },
+    {
+      "code": "6001",
+      "value_represented": "Rio Vista"
+    }
+  ]
+}

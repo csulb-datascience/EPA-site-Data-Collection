@@ -1,0 +1,88 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:17-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=077",
+      "rows": 19
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": null
+    },
+    {
+      "code": "0002",
+      "value_represented": null
+    },
+    {
+      "code": "0003",
+      "value_represented": null
+    },
+    {
+      "code": "0004",
+      "value_represented": null
+    },
+    {
+      "code": "0005",
+      "value_represented": null
+    },
+    {
+      "code": "0006",
+      "value_represented": null
+    },
+    {
+      "code": "0007",
+      "value_represented": null
+    },
+    {
+      "code": "0008",
+      "value_represented": null
+    },
+    {
+      "code": "0009",
+      "value_represented": null
+    },
+    {
+      "code": "1001",
+      "value_represented": null
+    },
+    {
+      "code": "1002",
+      "value_represented": "Stockton-Hazelton"
+    },
+    {
+      "code": "1003",
+      "value_represented": "Stockton - University Park"
+    },
+    {
+      "code": "2001",
+      "value_represented": null
+    },
+    {
+      "code": "2010",
+      "value_represented": "Manteca"
+    },
+    {
+      "code": "3001",
+      "value_represented": null
+    },
+    {
+      "code": "3002",
+      "value_represented": "FLAT AGRICULTURAL TERRAIN. INSIDE PG&E GAS PIPELINE MAINTENANCE_YARD"
+    },
+    {
+      "code": "3003",
+      "value_represented": "Tracy-Holden farm"
+    },
+    {
+      "code": "3005",
+      "value_represented": "Tracy-Airport"
+    },
+    {
+      "code": "3010",
+      "value_represented": " STOCKTON-WAGNER/HOLT"
+    }
+  ]
+}

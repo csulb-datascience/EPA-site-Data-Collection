@@ -1,0 +1,36 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:12-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=055",
+      "rows": 6
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": "Napa-1st St."
+    },
+    {
+      "code": "0002",
+      "value_represented": null
+    },
+    {
+      "code": "0003",
+      "value_represented": "Napa"
+    },
+    {
+      "code": "0004",
+      "value_represented": "Napa Valley College"
+    },
+    {
+      "code": "0101",
+      "value_represented": "Angwin-Pacific Union College"
+    },
+    {
+      "code": "6001",
+      "value_represented": "Napa College"
+    }
+  ]
+}

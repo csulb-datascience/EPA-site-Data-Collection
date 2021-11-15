@@ -1,0 +1,320 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:25:36-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/parametersByClass?email=david.eaton@student.csulb.edu&key=orangeswift34&pc=PAMS",
+      "rows": 77
+    }
+  ],
+  "Data": [
+    {
+      "code": "42600",
+      "value_represented": "Reactive oxides of nitrogen (NOy)"
+    },
+    {
+      "code": "42601",
+      "value_represented": "Nitric oxide (NO)"
+    },
+    {
+      "code": "42602",
+      "value_represented": "Nitrogen dioxide (NO2)"
+    },
+    {
+      "code": "42603",
+      "value_represented": "Oxides of nitrogen (NOx)"
+    },
+    {
+      "code": "43000",
+      "value_represented": "Sum of PAMS target compounds"
+    },
+    {
+      "code": "43102",
+      "value_represented": "Total NMOC (non-methane organic compound)"
+    },
+    {
+      "code": "43202",
+      "value_represented": "Ethane"
+    },
+    {
+      "code": "43203",
+      "value_represented": "Ethylene"
+    },
+    {
+      "code": "43204",
+      "value_represented": "Propane"
+    },
+    {
+      "code": "43205",
+      "value_represented": "Propylene"
+    },
+    {
+      "code": "43206",
+      "value_represented": "Acetylene"
+    },
+    {
+      "code": "43212",
+      "value_represented": "n-Butane"
+    },
+    {
+      "code": "43214",
+      "value_represented": "Isobutane"
+    },
+    {
+      "code": "43216",
+      "value_represented": "trans-2-Butene"
+    },
+    {
+      "code": "43217",
+      "value_represented": "cis-2-Butene"
+    },
+    {
+      "code": "43220",
+      "value_represented": "n-Pentane"
+    },
+    {
+      "code": "43221",
+      "value_represented": "Isopentane"
+    },
+    {
+      "code": "43224",
+      "value_represented": "1-Pentene"
+    },
+    {
+      "code": "43226",
+      "value_represented": "trans-2-Pentene"
+    },
+    {
+      "code": "43227",
+      "value_represented": "cis-2-Pentene"
+    },
+    {
+      "code": "43230",
+      "value_represented": "3-Methylpentane"
+    },
+    {
+      "code": "43231",
+      "value_represented": "n-Hexane"
+    },
+    {
+      "code": "43232",
+      "value_represented": "n-Heptane"
+    },
+    {
+      "code": "43233",
+      "value_represented": "n-Octane"
+    },
+    {
+      "code": "43235",
+      "value_represented": "n-Nonane"
+    },
+    {
+      "code": "43238",
+      "value_represented": "n-Decane"
+    },
+    {
+      "code": "43242",
+      "value_represented": "Cyclopentane"
+    },
+    {
+      "code": "43243",
+      "value_represented": "Isoprene"
+    },
+    {
+      "code": "43244",
+      "value_represented": "2,2-Dimethylbutane"
+    },
+    {
+      "code": "43247",
+      "value_represented": "2,4-Dimethylpentane"
+    },
+    {
+      "code": "43248",
+      "value_represented": "Cyclohexane"
+    },
+    {
+      "code": "43249",
+      "value_represented": "3-Methylhexane"
+    },
+    {
+      "code": "43250",
+      "value_represented": "2,2,4-Trimethylpentane"
+    },
+    {
+      "code": "43252",
+      "value_represented": "2,3,4-Trimethylpentane"
+    },
+    {
+      "code": "43253",
+      "value_represented": "3-Methylheptane"
+    },
+    {
+      "code": "43261",
+      "value_represented": "Methylcyclohexane"
+    },
+    {
+      "code": "43262",
+      "value_represented": "Methylcyclopentane"
+    },
+    {
+      "code": "43263",
+      "value_represented": "2-Methylhexane"
+    },
+    {
+      "code": "43280",
+      "value_represented": "1-Butene"
+    },
+    {
+      "code": "43284",
+      "value_represented": "2,3-Dimethylbutane"
+    },
+    {
+      "code": "43285",
+      "value_represented": "2-Methylpentane"
+    },
+    {
+      "code": "43291",
+      "value_represented": "2,3-Dimethylpentane"
+    },
+    {
+      "code": "43502",
+      "value_represented": "Formaldehyde"
+    },
+    {
+      "code": "43503",
+      "value_represented": "Acetaldehyde"
+    },
+    {
+      "code": "43551",
+      "value_represented": "Acetone"
+    },
+    {
+      "code": "43954",
+      "value_represented": "n-Undecane"
+    },
+    {
+      "code": "43960",
+      "value_represented": "2-Methylheptane"
+    },
+    {
+      "code": "44201",
+      "value_represented": "Ozone"
+    },
+    {
+      "code": "45109",
+      "value_represented": "m/p Xylene"
+    },
+    {
+      "code": "45201",
+      "value_represented": "Benzene"
+    },
+    {
+      "code": "45202",
+      "value_represented": "Toluene"
+    },
+    {
+      "code": "45203",
+      "value_represented": "Ethylbenzene"
+    },
+    {
+      "code": "45204",
+      "value_represented": "o-Xylene"
+    },
+    {
+      "code": "45207",
+      "value_represented": "1,3,5-Trimethylbenzene"
+    },
+    {
+      "code": "45208",
+      "value_represented": "1,2,4-Trimethylbenzene"
+    },
+    {
+      "code": "45209",
+      "value_represented": "n-Propylbenzene"
+    },
+    {
+      "code": "45210",
+      "value_represented": "Isopropylbenzene"
+    },
+    {
+      "code": "45211",
+      "value_represented": "o-Ethyltoluene"
+    },
+    {
+      "code": "45212",
+      "value_represented": "m-Ethyltoluene"
+    },
+    {
+      "code": "45213",
+      "value_represented": "p-Ethyltoluene"
+    },
+    {
+      "code": "45218",
+      "value_represented": "m-Diethylbenzene"
+    },
+    {
+      "code": "45219",
+      "value_represented": "p-Diethylbenzene"
+    },
+    {
+      "code": "45220",
+      "value_represented": "Styrene"
+    },
+    {
+      "code": "45225",
+      "value_represented": "1,2,3-Trimethylbenzene"
+    },
+    {
+      "code": "61101",
+      "value_represented": "Wind Speed - Scalar"
+    },
+    {
+      "code": "61102",
+      "value_represented": "Wind Direction - Scalar"
+    },
+    {
+      "code": "61103",
+      "value_represented": "Wind Speed - Resultant"
+    },
+    {
+      "code": "61104",
+      "value_represented": "Wind Direction - Resultant"
+    },
+    {
+      "code": "61112",
+      "value_represented": "Vert Wind Direction"
+    },
+    {
+      "code": "62101",
+      "value_represented": "Outdoor Temperature"
+    },
+    {
+      "code": "62103",
+      "value_represented": "Dew Point"
+    },
+    {
+      "code": "62201",
+      "value_represented": "Relative Humidity "
+    },
+    {
+      "code": "63301",
+      "value_represented": "Solar radiation"
+    },
+    {
+      "code": "63302",
+      "value_represented": "Ultraviolet radiation"
+    },
+    {
+      "code": "63304",
+      "value_represented": "Ultraviolet radiation (type B)"
+    },
+    {
+      "code": "64101",
+      "value_represented": "Barometric pressure"
+    },
+    {
+      "code": "65102",
+      "value_represented": "Rain/melt precipitation"
+    }
+  ]
+}

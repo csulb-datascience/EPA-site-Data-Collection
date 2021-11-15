@@ -1,0 +1,392 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:08-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=037",
+      "rows": 95
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": null
+    },
+    {
+      "code": "0002",
+      "value_represented": "Azusa"
+    },
+    {
+      "code": "0003",
+      "value_represented": null
+    },
+    {
+      "code": "0004",
+      "value_represented": null
+    },
+    {
+      "code": "0005",
+      "value_represented": null
+    },
+    {
+      "code": "0008",
+      "value_represented": null
+    },
+    {
+      "code": "0009",
+      "value_represented": null
+    },
+    {
+      "code": "0016",
+      "value_represented": "Glendora"
+    },
+    {
+      "code": "0017",
+      "value_represented": null
+    },
+    {
+      "code": "0018",
+      "value_represented": "El Monte"
+    },
+    {
+      "code": "0019",
+      "value_represented": null
+    },
+    {
+      "code": "0022",
+      "value_represented": null
+    },
+    {
+      "code": "0030",
+      "value_represented": "SB25 trailer at Hollenbeck School"
+    },
+    {
+      "code": "0031",
+      "value_represented": "Wilmington-N. Mahar Ave"
+    },
+    {
+      "code": "0102",
+      "value_represented": null
+    },
+    {
+      "code": "0103",
+      "value_represented": null
+    },
+    {
+      "code": "0113",
+      "value_represented": "West Los Angeles"
+    },
+    {
+      "code": "0201",
+      "value_represented": "Carson"
+    },
+    {
+      "code": "0202",
+      "value_represented": "Commerce-Ayers Ave"
+    },
+    {
+      "code": "0203",
+      "value_represented": "City of Industry-Volkswagon"
+    },
+    {
+      "code": "0204",
+      "value_represented": "City of Industry-Whitco"
+    },
+    {
+      "code": "0205",
+      "value_represented": "Commerce-AT&SF RR"
+    },
+    {
+      "code": "0206",
+      "value_represented": "SITE IS LOCATED ONE HALF MILE EAST OF THE I-57/I-60 INTERCHANGE"
+    },
+    {
+      "code": "1001",
+      "value_represented": null
+    },
+    {
+      "code": "1002",
+      "value_represented": "Burbank"
+    },
+    {
+      "code": "1003",
+      "value_represented": null
+    },
+    {
+      "code": "1004",
+      "value_represented": null
+    },
+    {
+      "code": "1101",
+      "value_represented": "UNKNOWN COORDINATE LOCATION"
+    },
+    {
+      "code": "1102",
+      "value_represented": "ON BUILDING"
+    },
+    {
+      "code": "1103",
+      "value_represented": "Los Angeles-North Main Street"
+    },
+    {
+      "code": "1104",
+      "value_represented": null
+    },
+    {
+      "code": "1105",
+      "value_represented": "West Los Angeles-Robertson Blvd"
+    },
+    {
+      "code": "1106",
+      "value_represented": null
+    },
+    {
+      "code": "1201",
+      "value_represented": "Reseda"
+    },
+    {
+      "code": "1301",
+      "value_represented": "Lynwood"
+    },
+    {
+      "code": "1302",
+      "value_represented": "Compton"
+    },
+    {
+      "code": "1401",
+      "value_represented": null
+    },
+    {
+      "code": "1402",
+      "value_represented": "Van Nuys Airport"
+    },
+    {
+      "code": "1403",
+      "value_represented": "Uddelholm (Trojan Battery)"
+    },
+    {
+      "code": "1404",
+      "value_represented": "Closet World (Quemetco)"
+    },
+    {
+      "code": "1405",
+      "value_represented": "Rehrig (Exide)"
+    },
+    {
+      "code": "1406",
+      "value_represented": "ATSF (Exide)"
+    },
+    {
+      "code": "1501",
+      "value_represented": null
+    },
+    {
+      "code": "1601",
+      "value_represented": null
+    },
+    {
+      "code": "1602",
+      "value_represented": "Pico Rivera #2"
+    },
+    {
+      "code": "1701",
+      "value_represented": "Pomona"
+    },
+    {
+      "code": "1801",
+      "value_represented": null
+    },
+    {
+      "code": "1901",
+      "value_represented": null
+    },
+    {
+      "code": "1902",
+      "value_represented": null
+    },
+    {
+      "code": "2001",
+      "value_represented": null
+    },
+    {
+      "code": "2002",
+      "value_represented": null
+    },
+    {
+      "code": "2005",
+      "value_represented": "Pasadena"
+    },
+    {
+      "code": "2101",
+      "value_represented": null
+    },
+    {
+      "code": "2103",
+      "value_represented": null
+    },
+    {
+      "code": "2201",
+      "value_represented": null
+    },
+    {
+      "code": "2301",
+      "value_represented": null
+    },
+    {
+      "code": "2401",
+      "value_represented": null
+    },
+    {
+      "code": "3001",
+      "value_represented": null
+    },
+    {
+      "code": "3002",
+      "value_represented": null
+    },
+    {
+      "code": "3101",
+      "value_represented": null
+    },
+    {
+      "code": "4001",
+      "value_represented": null
+    },
+    {
+      "code": "4002",
+      "value_represented": "Long Beach (North)"
+    },
+    {
+      "code": "4004",
+      "value_represented": "Long Beach (South)"
+    },
+    {
+      "code": "4006",
+      "value_represented": "Long Beach (Hudson)"
+    },
+    {
+      "code": "4008",
+      "value_represented": "Long Beach-Route 710 Near Road"
+    },
+    {
+      "code": "4009",
+      "value_represented": "Signal Hill (LBSH)"
+    },
+    {
+      "code": "4010",
+      "value_represented": "North Hollywood (NOHO)"
+    },
+    {
+      "code": "4101",
+      "value_represented": "Santa Clarita-Honby St."
+    },
+    {
+      "code": "5001",
+      "value_represented": "Hawthorne"
+    },
+    {
+      "code": "5002",
+      "value_represented": null
+    },
+    {
+      "code": "5005",
+      "value_represented": "LAX Hastings"
+    },
+    {
+      "code": "5501",
+      "value_represented": "Felton Elementary School"
+    },
+    {
+      "code": "5502",
+      "value_represented": "Santa Anita Christian Academy"
+    },
+    {
+      "code": "5503",
+      "value_represented": "Soto Street Elementary School"
+    },
+    {
+      "code": "6001",
+      "value_represented": null
+    },
+    {
+      "code": "6002",
+      "value_represented": null
+    },
+    {
+      "code": "6012",
+      "value_represented": "Santa Clarita"
+    },
+    {
+      "code": "7001",
+      "value_represented": "Lancaster-N. Beech St."
+    },
+    {
+      "code": "7002",
+      "value_represented": null
+    },
+    {
+      "code": "8001",
+      "value_represented": null
+    },
+    {
+      "code": "8002",
+      "value_represented": null
+    },
+    {
+      "code": "9000",
+      "value_represented": "Wrightwood"
+    },
+    {
+      "code": "9001",
+      "value_represented": null
+    },
+    {
+      "code": "9002",
+      "value_represented": "Lancaster-Ponderosa St."
+    },
+    {
+      "code": "9003",
+      "value_represented": "SAN DIMAS (US FORESTRY) EXPERIMENTAL FOREST"
+    },
+    {
+      "code": "9004",
+      "value_represented": "AIR RESOURCES BOARD BUILDING, EL MONTE"
+    },
+    {
+      "code": "9005",
+      "value_represented": "EL MONTE AIRPORT - PROFILER FOR SCOS97"
+    },
+    {
+      "code": "9006",
+      "value_represented": "Palmdale-East Ave S"
+    },
+    {
+      "code": "9033",
+      "value_represented": "Lancaster-Division Street"
+    },
+    {
+      "code": "9034",
+      "value_represented": "Lebec"
+    },
+    {
+      "code": "9401",
+      "value_represented": null
+    },
+    {
+      "code": "9403",
+      "value_represented": null
+    },
+    {
+      "code": "9405",
+      "value_represented": null
+    },
+    {
+      "code": "9407",
+      "value_represented": null
+    },
+    {
+      "code": "9934",
+      "value_represented": "San Gabriel Wilderness"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:19-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=089",
+      "rows": 17
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": null
+    },
+    {
+      "code": "0002",
+      "value_represented": null
+    },
+    {
+      "code": "0004",
+      "value_represented": "Redding - Health Department"
+    },
+    {
+      "code": "0005",
+      "value_represented": null
+    },
+    {
+      "code": "0006",
+      "value_represented": null
+    },
+    {
+      "code": "0007",
+      "value_represented": "Anderson - North Street"
+    },
+    {
+      "code": "0008",
+      "value_represented": "Shasta Lake-La Mesa"
+    },
+    {
+      "code": "0009",
+      "value_represented": "Shasta Lake - Lake Blvd"
+    },
+    {
+      "code": "1001",
+      "value_represented": null
+    },
+    {
+      "code": "1002",
+      "value_represented": null
+    },
+    {
+      "code": "2001",
+      "value_represented": null
+    },
+    {
+      "code": "2002",
+      "value_represented": null
+    },
+    {
+      "code": "3001",
+      "value_represented": null
+    },
+    {
+      "code": "3002",
+      "value_represented": null
+    },
+    {
+      "code": "3003",
+      "value_represented": "Lassen Volcanic NP - Manzanita Lake Fire Station"
+    },
+    {
+      "code": "3004",
+      "value_represented": "Redding - Buckeye"
+    },
+    {
+      "code": "3005",
+      "value_represented": "Redding - Toyon"
+    }
+  ]
+}

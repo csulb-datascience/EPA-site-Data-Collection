@@ -1,0 +1,100 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:13-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=059",
+      "rows": 22
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": "Anaheim (1010 Harbor Blvd)"
+    },
+    {
+      "code": "0002",
+      "value_represented": null
+    },
+    {
+      "code": "0004",
+      "value_represented": null
+    },
+    {
+      "code": "0007",
+      "value_represented": "Anaheim"
+    },
+    {
+      "code": "0008",
+      "value_represented": "Anaheim Near-Road"
+    },
+    {
+      "code": "0101",
+      "value_represented": "11581 FAYE AVE"
+    },
+    {
+      "code": "0104",
+      "value_represented": "9901 BIXBY AVE"
+    },
+    {
+      "code": "0105",
+      "value_represented": "12122 DIANE ST"
+    },
+    {
+      "code": "1001",
+      "value_represented": null
+    },
+    {
+      "code": "1002",
+      "value_represented": "Costa Mesa"
+    },
+    {
+      "code": "1003",
+      "value_represented": "Costa Mesa"
+    },
+    {
+      "code": "2001",
+      "value_represented": "El Toro"
+    },
+    {
+      "code": "2002",
+      "value_represented": null
+    },
+    {
+      "code": "2022",
+      "value_represented": "Mission Viejo"
+    },
+    {
+      "code": "3001",
+      "value_represented": null
+    },
+    {
+      "code": "3002",
+      "value_represented": null
+    },
+    {
+      "code": "4001",
+      "value_represented": null
+    },
+    {
+      "code": "4002",
+      "value_represented": null
+    },
+    {
+      "code": "5001",
+      "value_represented": "La Habra"
+    },
+    {
+      "code": "6001",
+      "value_represented": null
+    },
+    {
+      "code": "8001",
+      "value_represented": "Santa Ana"
+    },
+    {
+      "code": "8002",
+      "value_represented": "ROOF OF THE CITY LIBRARY"
+    }
+  ]
+}

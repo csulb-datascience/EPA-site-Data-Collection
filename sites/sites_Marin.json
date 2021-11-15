@@ -1,0 +1,40 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:09-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=041",
+      "rows": 7
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": "San Rafael"
+    },
+    {
+      "code": "0002",
+      "value_represented": "Point Reyes NS Ranger Station"
+    },
+    {
+      "code": "0003",
+      "value_represented": "POINT REYES IMPROV SITE."
+    },
+    {
+      "code": "0004",
+      "value_represented": "Ft. Cronkhite"
+    },
+    {
+      "code": "2001",
+      "value_represented": "Forest Knolls"
+    },
+    {
+      "code": "6001",
+      "value_represented": "Mt. Tamalpais"
+    },
+    {
+      "code": "6002",
+      "value_represented": "Valley Ford"
+    }
+  ]
+}

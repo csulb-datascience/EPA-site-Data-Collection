@@ -1,0 +1,6140 @@
+[
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Berkeley",
+    "site_code": "0001"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Fremont-Union St.",
+    "site_code": "0002"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Livermore - Old 1st St.",
+    "site_code": "0003"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Oakland-Jackson St.",
+    "site_code": "0004"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Oakland - Alice",
+    "site_code": "0005"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "San Leandro",
+    "site_code": "0006"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Livermore",
+    "site_code": "0007"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Oakland - Filbert St.",
+    "site_code": "0008"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Oakland",
+    "site_code": "0009"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Oakland-International Blvd.",
+    "site_code": "0010"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Oakland West",
+    "site_code": "0011"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Laney College",
+    "site_code": "0012"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Berkeley Aquatic Park",
+    "site_code": "0013"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Pleasanton - Owens Ct",
+    "site_code": "0015"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Fremont - Chapel Way",
+    "site_code": "1001"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Livermore - Railroad Ave.",
+    "site_code": "1002"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Oakland-17th St.",
+    "site_code": "1003"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Hayward",
+    "site_code": "2001"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": null,
+    "site_code": "2002"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Piedmont",
+    "site_code": "2003"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Berkeley",
+    "site_code": "2004"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Patterson Pass",
+    "site_code": "2005"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": null,
+    "site_code": "3001"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Oakland-City HQ",
+    "site_code": "4001"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "San Leandro-Thornton Ave.",
+    "site_code": "5001"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "ROOF OF THE UC BERKELEY SPACE SCIENCE BUILDING",
+    "site_code": "5002"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Chabot",
+    "site_code": "6001"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Sunol",
+    "site_code": "6002"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Pleasanton",
+    "site_code": "6003"
+  },
+  {
+    "county": "Alameda",
+    "county_code": "001",
+    "site_name": "Patterson Pass",
+    "site_code": "6004"
+  },
+  {
+    "county": "Alpine",
+    "county_code": "003",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Amador",
+    "county_code": "005",
+    "site_name": "Jackson-Clinton Road",
+    "site_code": "0002"
+  },
+  {
+    "county": "Amador",
+    "county_code": "005",
+    "site_name": "Jackson-Buena Vista Rd.",
+    "site_code": "0010"
+  },
+  {
+    "county": "Amador",
+    "county_code": "005",
+    "site_name": "Jackson-5730 Buena Vista Rd.",
+    "site_code": "0011"
+  },
+  {
+    "county": "Amador",
+    "county_code": "005",
+    "site_name": "Kirkwood",
+    "site_code": "1033"
+  },
+  {
+    "county": "Butte",
+    "county_code": "007",
+    "site_name": "Chico-Oleander Ave.",
+    "site_code": "0001"
+  },
+  {
+    "county": "Butte",
+    "county_code": "007",
+    "site_name": "Chico-Manzanita Ave.",
+    "site_code": "0002"
+  },
+  {
+    "county": "Butte",
+    "county_code": "007",
+    "site_name": "Chico-Holt Hall, CSU Chico",
+    "site_code": "0003"
+  },
+  {
+    "county": "Butte",
+    "county_code": "007",
+    "site_name": "GRIDLEY - 608 COWEE AVENUE",
+    "site_code": "0004"
+  },
+  {
+    "county": "Butte",
+    "county_code": "007",
+    "site_name": "Chico-Salem St.",
+    "site_code": "0005"
+  },
+  {
+    "county": "Butte",
+    "county_code": "007",
+    "site_name": "PARADISE ROVER STUDY",
+    "site_code": "0006"
+  },
+  {
+    "county": "Butte",
+    "county_code": "007",
+    "site_name": "Paradise - Airport",
+    "site_code": "0007"
+  },
+  {
+    "county": "Butte",
+    "county_code": "007",
+    "site_name": "Chico-East Avenue",
+    "site_code": "0008"
+  },
+  {
+    "county": "Butte",
+    "county_code": "007",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Butte",
+    "county_code": "007",
+    "site_name": "Paradise-Birch St.",
+    "site_code": "2001"
+  },
+  {
+    "county": "Butte",
+    "county_code": "007",
+    "site_name": "Paradise - Theater",
+    "site_code": "2002"
+  },
+  {
+    "county": "Butte",
+    "county_code": "007",
+    "site_name": "Biggs",
+    "site_code": "3001"
+  },
+  {
+    "county": "Butte",
+    "county_code": "007",
+    "site_name": "TRAFFIC, RURAL PAVED ROAD",
+    "site_code": "4001"
+  },
+  {
+    "county": "Calaveras",
+    "county_code": "009",
+    "site_name": "San Andreas-Gold Strike Road",
+    "site_code": "0001"
+  },
+  {
+    "county": "Colusa",
+    "county_code": "011",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Colusa",
+    "county_code": "011",
+    "site_name": "Colusa Fairgrounds",
+    "site_code": "0002"
+  },
+  {
+    "county": "Colusa",
+    "county_code": "011",
+    "site_name": "Cortina Indian Rancheria",
+    "site_code": "0007"
+  },
+  {
+    "county": "Colusa",
+    "county_code": "011",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Colusa",
+    "county_code": "011",
+    "site_name": "Colusa-Sunrise Blvd",
+    "site_code": "1002"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "Concord - 991 Treat Blvd.",
+    "site_code": "0001"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "Concord",
+    "site_code": "0002"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "Richmond-13th St.",
+    "site_code": "0003"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "North Richmond",
+    "site_code": "0004"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "Pt. Richmond",
+    "site_code": "0005"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "Richmond - 7th St.",
+    "site_code": "0006"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "Rodeo",
+    "site_code": "0007"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": null,
+    "site_code": "0008"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": null,
+    "site_code": "0010"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "Crockett - Kendall Ave",
+    "site_code": "1001"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "Bethel Island",
+    "site_code": "1002"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "San Pablo - El Portal Center",
+    "site_code": "1003"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "San Pablo",
+    "site_code": "1004"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "Martinez - Jones St.",
+    "site_code": "2001"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "Richmond-Nevin Ave.",
+    "site_code": "2002"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "Antioch",
+    "site_code": "2003"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "Martinez - Pacheco Blvd.",
+    "site_code": "2004"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "Walnut Creek",
+    "site_code": "2005"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "Concord - Arnold Industrial Way",
+    "site_code": "2006"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "San Ramon",
+    "site_code": "2007"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "Pittsburg - W 10th St.",
+    "site_code": "3001"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "Pleasant Hill-Geary Rd.",
+    "site_code": "4001"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "Richmond-County Building",
+    "site_code": "5001"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "Concord",
+    "site_code": "6001"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "Kregor Peak",
+    "site_code": "6002"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "Pt. San Pablo",
+    "site_code": "6003"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "UC Richmond",
+    "site_code": "6004"
+  },
+  {
+    "county": "Contra Costa",
+    "county_code": "013",
+    "site_name": "San Ramon",
+    "site_code": "6005"
+  },
+  {
+    "county": "Del Norte",
+    "county_code": "015",
+    "site_name": "Crescent City",
+    "site_code": "0001"
+  },
+  {
+    "county": "Del Norte",
+    "county_code": "015",
+    "site_name": "Redwood NP",
+    "site_code": "0002"
+  },
+  {
+    "county": "Del Norte",
+    "county_code": "015",
+    "site_name": "Gasquet",
+    "site_code": "0003"
+  },
+  {
+    "county": "Del Norte",
+    "county_code": "015",
+    "site_name": "4 BLKS NO OF OLD SITE/MAJOR INFLUENCES-TRAFFIC,WOOD HEATING,SEA SALT",
+    "site_code": "0004"
+  },
+  {
+    "county": "Del Norte",
+    "county_code": "015",
+    "site_name": "OPEN AREA NEXT TO FOREST, AT GASQUEST RANGER DISTRICT OFFICE",
+    "site_code": "0005"
+  },
+  {
+    "county": "Del Norte",
+    "county_code": "015",
+    "site_name": "CRESCENT CITY-NORTHCREST",
+    "site_code": "0006"
+  },
+  {
+    "county": "Del Norte",
+    "county_code": "015",
+    "site_name": "Crescent City-Crescent Elk School",
+    "site_code": "0007"
+  },
+  {
+    "county": "Del Norte",
+    "county_code": "015",
+    "site_name": "Klamath Glen E-BAM",
+    "site_code": "2003"
+  },
+  {
+    "county": "El Dorado",
+    "county_code": "017",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "El Dorado",
+    "county_code": "017",
+    "site_name": "Placerville Library",
+    "site_code": "0002"
+  },
+  {
+    "county": "El Dorado",
+    "county_code": "017",
+    "site_name": null,
+    "site_code": "0004"
+  },
+  {
+    "county": "El Dorado",
+    "county_code": "017",
+    "site_name": null,
+    "site_code": "0005"
+  },
+  {
+    "county": "El Dorado",
+    "county_code": "017",
+    "site_name": null,
+    "site_code": "0006"
+  },
+  {
+    "county": "El Dorado",
+    "county_code": "017",
+    "site_name": null,
+    "site_code": "0007"
+  },
+  {
+    "county": "El Dorado",
+    "county_code": "017",
+    "site_name": null,
+    "site_code": "0008"
+  },
+  {
+    "county": "El Dorado",
+    "county_code": "017",
+    "site_name": "South Lake Tahoe-Tahoe Blvd",
+    "site_code": "0009"
+  },
+  {
+    "county": "El Dorado",
+    "county_code": "017",
+    "site_name": "Placerville-Gold Nugget Way",
+    "site_code": "0010"
+  },
+  {
+    "county": "El Dorado",
+    "county_code": "017",
+    "site_name": "South Lake Tahoe-Sandy Way",
+    "site_code": "0011"
+  },
+  {
+    "county": "El Dorado",
+    "county_code": "017",
+    "site_name": "Echo Summit",
+    "site_code": "0012"
+  },
+  {
+    "county": "El Dorado",
+    "county_code": "017",
+    "site_name": "South Lake Tahoe-Airport",
+    "site_code": "0013"
+  },
+  {
+    "county": "El Dorado",
+    "county_code": "017",
+    "site_name": "Cool",
+    "site_code": "0020"
+  },
+  {
+    "county": "El Dorado",
+    "county_code": "017",
+    "site_name": null,
+    "site_code": "1002"
+  },
+  {
+    "county": "El Dorado",
+    "county_code": "017",
+    "site_name": "Shingle Springs-Ponderosa HS",
+    "site_code": "2002"
+  },
+  {
+    "county": "El Dorado",
+    "county_code": "017",
+    "site_name": null,
+    "site_code": "2003"
+  },
+  {
+    "county": "El Dorado",
+    "county_code": "017",
+    "site_name": "Bliss SP",
+    "site_code": "9000"
+  },
+  {
+    "county": "El Dorado",
+    "county_code": "017",
+    "site_name": "Lake Tahoe Community College",
+    "site_code": "9001"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": "Huron",
+    "site_code": "0002"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": null,
+    "site_code": "0003"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": null,
+    "site_code": "0004"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": "Fresno-Olive St.",
+    "site_code": "0005"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": "Fresno-Herndon",
+    "site_code": "0006"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": "Fresno-Drummond",
+    "site_code": "0007"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": "3425 N FIRST ST, FRESNO",
+    "site_code": "0008"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": "FORMERLY FRESNO-OLIVE - LOCATED AT OLIVE AND FISHER STREETS",
+    "site_code": "0009"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": "SHAVER LAKE SUMMMER OZONE SITE",
+    "site_code": "0010"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": "Fresno - Garland",
+    "site_code": "0011"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": null,
+    "site_code": "0239"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": null,
+    "site_code": "0240"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": "Fresno-Cal State#2",
+    "site_code": "0241"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": "Fresno-Sky Park",
+    "site_code": "0242"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": null,
+    "site_code": "0243"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": null,
+    "site_code": "0244"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": "Table Mountain Air Monitoring Site",
+    "site_code": "0500"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": "Five Points",
+    "site_code": "1002"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": null,
+    "site_code": "1003"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": null,
+    "site_code": "2001"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": "Huron",
+    "site_code": "2008"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": "Tranquillity",
+    "site_code": "2009"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": "Fresno-Foundry",
+    "site_code": "2016"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": null,
+    "site_code": "3001"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": "PARLIER",
+    "site_code": "3002"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": "Parlier",
+    "site_code": "4001"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": "Clovis-Villa",
+    "site_code": "5001"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": "Fresno-Pacific",
+    "site_code": "5025"
+  },
+  {
+    "county": "Fresno",
+    "county_code": "019",
+    "site_name": "Kaiser Wilderness",
+    "site_code": "9000"
+  },
+  {
+    "county": "Glenn",
+    "county_code": "021",
+    "site_name": "Willows-N. Villa Ave",
+    "site_code": "0001"
+  },
+  {
+    "county": "Glenn",
+    "county_code": "021",
+    "site_name": "420 E. LAUREL ST.",
+    "site_code": "0002"
+  },
+  {
+    "county": "Glenn",
+    "county_code": "021",
+    "site_name": "Willows-Colusa Street",
+    "site_code": "0003"
+  },
+  {
+    "county": "Humboldt",
+    "county_code": "023",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Humboldt",
+    "county_code": "023",
+    "site_name": null,
+    "site_code": "0002"
+  },
+  {
+    "county": "Humboldt",
+    "county_code": "023",
+    "site_name": null,
+    "site_code": "0003"
+  },
+  {
+    "county": "Humboldt",
+    "county_code": "023",
+    "site_name": "Eureka-Union St.",
+    "site_code": "0005"
+  },
+  {
+    "county": "Humboldt",
+    "county_code": "023",
+    "site_name": "Hoopa Valley Reservation",
+    "site_code": "0006"
+  },
+  {
+    "county": "Humboldt",
+    "county_code": "023",
+    "site_name": "Blue Lake",
+    "site_code": "0010"
+  },
+  {
+    "county": "Humboldt",
+    "county_code": "023",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Humboldt",
+    "county_code": "023",
+    "site_name": "Eureka I Street",
+    "site_code": "1002"
+  },
+  {
+    "county": "Humboldt",
+    "county_code": "023",
+    "site_name": "Trinidad",
+    "site_code": "1003"
+  },
+  {
+    "county": "Humboldt",
+    "county_code": "023",
+    "site_name": "Jacobs",
+    "site_code": "1004"
+  },
+  {
+    "county": "Humboldt",
+    "county_code": "023",
+    "site_name": "Humboldt Hill",
+    "site_code": "1005"
+  },
+  {
+    "county": "Humboldt",
+    "county_code": "023",
+    "site_name": null,
+    "site_code": "2001"
+  },
+  {
+    "county": "Humboldt",
+    "county_code": "023",
+    "site_name": "Weitchpec E-BAM",
+    "site_code": "2002"
+  },
+  {
+    "county": "Humboldt",
+    "county_code": "023",
+    "site_name": "Blue Lake Rancheria",
+    "site_code": "7001"
+  },
+  {
+    "county": "Imperial",
+    "county_code": "025",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Imperial",
+    "county_code": "025",
+    "site_name": null,
+    "site_code": "0002"
+  },
+  {
+    "county": "Imperial",
+    "county_code": "025",
+    "site_name": "Brawley-401 Main St.",
+    "site_code": "0003"
+  },
+  {
+    "county": "Imperial",
+    "county_code": "025",
+    "site_name": "Calexico-Grant Street",
+    "site_code": "0004"
+  },
+  {
+    "county": "Imperial",
+    "county_code": "025",
+    "site_name": "Calexico-Ethel Street",
+    "site_code": "0005"
+  },
+  {
+    "county": "Imperial",
+    "county_code": "025",
+    "site_name": "PORT OF ENTRY BETWEEN MEXICO AND USA. SCHEDULED TO OPEN 8/96",
+    "site_code": "0006"
+  },
+  {
+    "county": "Imperial",
+    "county_code": "025",
+    "site_name": "Brawley-220 Main Street",
+    "site_code": "0007"
+  },
+  {
+    "county": "Imperial",
+    "county_code": "025",
+    "site_name": null,
+    "site_code": "0010"
+  },
+  {
+    "county": "Imperial",
+    "county_code": "025",
+    "site_name": "Calexico Fire Station",
+    "site_code": "1001"
+  },
+  {
+    "county": "Imperial",
+    "county_code": "025",
+    "site_name": null,
+    "site_code": "1002"
+  },
+  {
+    "county": "Imperial",
+    "county_code": "025",
+    "site_name": "El Centro-9th Street",
+    "site_code": "1003"
+  },
+  {
+    "county": "Imperial",
+    "county_code": "025",
+    "site_name": null,
+    "site_code": "2001"
+  },
+  {
+    "county": "Imperial",
+    "county_code": "025",
+    "site_name": "El Centro-Broadway",
+    "site_code": "3001"
+  },
+  {
+    "county": "Imperial",
+    "county_code": "025",
+    "site_name": null,
+    "site_code": "4001"
+  },
+  {
+    "county": "Imperial",
+    "county_code": "025",
+    "site_name": "Winterhaven",
+    "site_code": "4002"
+  },
+  {
+    "county": "Imperial",
+    "county_code": "025",
+    "site_name": "Westmorland",
+    "site_code": "4003"
+  },
+  {
+    "county": "Imperial",
+    "county_code": "025",
+    "site_name": "Niland-English Road",
+    "site_code": "4004"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "White Mountain Research Center - Owens Valley Lab",
+    "site_code": "0002"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Darwin-4th Avenue",
+    "site_code": "0003"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Lone Pine PM",
+    "site_code": "0004"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Independnece-DWP#77",
+    "site_code": "0005"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": null,
+    "site_code": "0006"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": null,
+    "site_code": "0007"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": null,
+    "site_code": "0008"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": null,
+    "site_code": "0009"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": null,
+    "site_code": "0010"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Big Pine-Steward's Ranch",
+    "site_code": "0011"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Olancha-Post Office",
+    "site_code": "0012"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Bishop-125 S. Main St.",
+    "site_code": "0014"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Bishop-157 Short Street",
+    "site_code": "0015"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Olancha-661 Fall Road",
+    "site_code": "0016"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Bishop-351 N. Main St.",
+    "site_code": "0017"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "LOCATED BEHIND RESIDENCE ABOUT 100 METERS FROM PEARSON ROAD.",
+    "site_code": "0018"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Lone Pine MET",
+    "site_code": "0019"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Coso Gate",
+    "site_code": "0020"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Olancha",
+    "site_code": "0021"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Dirty Socks",
+    "site_code": "0022"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Olancha-Well 404",
+    "site_code": "0023"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Flat Rock",
+    "site_code": "0024"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Shell Cut",
+    "site_code": "0025"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Bill Stanley",
+    "site_code": "0026"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Laws-Joe Smith Road",
+    "site_code": "0027"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Lizard Tail",
+    "site_code": "0028"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "North Beach",
+    "site_code": "0029"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Mill Site",
+    "site_code": "0030"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Lone Pine",
+    "site_code": "0031"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Death Valley NP - Park Village",
+    "site_code": "0101"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Coso Junction",
+    "site_code": "1001"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": null,
+    "site_code": "1002"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Keeler",
+    "site_code": "1003"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": null,
+    "site_code": "1004"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": null,
+    "site_code": "1014"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Lone Pine Paiute-Shoshone Reservation",
+    "site_code": "1018"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Bishop Tribe EMO",
+    "site_code": "1023"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Fort Independence Indian Community",
+    "site_code": "1028"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Stn.1 Big Pine Paiute site",
+    "site_code": "1033"
+  },
+  {
+    "county": "Inyo",
+    "county_code": "027",
+    "site_name": "Big Pine Paiute Stn. 2",
+    "site_code": "2000"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": null,
+    "site_code": "0002"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Bakersfield-Health Dept.",
+    "site_code": "0003"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Bakersfield-Chester Ave.",
+    "site_code": "0004"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": null,
+    "site_code": "0005"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "McKittrick",
+    "site_code": "0006"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Edison",
+    "site_code": "0007"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Maricopa",
+    "site_code": "0008"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": null,
+    "site_code": "0009"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Bakersfield-Golden / M St",
+    "site_code": "0010"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Mojave",
+    "site_code": "0011"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Ridgecrest",
+    "site_code": "0012"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "LOCATED SOUTHEAST OF INYOKERN AIRPORT.",
+    "site_code": "0013"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Bakersfield-California",
+    "site_code": "0014"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Ridgecrest-California Ave",
+    "site_code": "0015"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Bakersfield-Airport (Planz)",
+    "site_code": "0016"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Canebrake",
+    "site_code": "0017"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Ridgecrest-Ward",
+    "site_code": "0018"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Mojave - CA 58 Business",
+    "site_code": "0019"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Oildale-Universe Ave",
+    "site_code": "0230"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Oildale-3021 Manor St.",
+    "site_code": "0231"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Oildale",
+    "site_code": "0232"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "China Lake",
+    "site_code": "1001"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": null,
+    "site_code": "1002"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": null,
+    "site_code": "1003"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": null,
+    "site_code": "1004"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "SPECIAL OZONE STUDY - TEHACHAPI CA - (WEST OF CABLE TV ANTENNAS)",
+    "site_code": "1005"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Kern Wildlife Refuge",
+    "site_code": "2001"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Taft-10th St",
+    "site_code": "2003"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Taft-College",
+    "site_code": "2004"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Lebec",
+    "site_code": "2009"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Bakersfield-Muni",
+    "site_code": "2012"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Bakersfield-Westwind",
+    "site_code": "2019"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Mojave-Kern Co Fire Dept",
+    "site_code": "3001"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Mojave - Airport Bldg 58",
+    "site_code": "3002"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": null,
+    "site_code": "4001"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Arvin-Bear Mtn",
+    "site_code": "5001"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Arvin-Di Giorgio",
+    "site_code": "5002"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Shafter",
+    "site_code": "6001"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Boron",
+    "site_code": "9000"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Lebec-Peace Valley/Frazier Park Roads",
+    "site_code": "9001"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Lebec-Peace Valley Road",
+    "site_code": "9002"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": null,
+    "site_code": "9901"
+  },
+  {
+    "county": "Kern",
+    "county_code": "029",
+    "site_name": "Dome Lands Wilderness",
+    "site_code": "9902"
+  },
+  {
+    "county": "Kings",
+    "county_code": "031",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Kings",
+    "county_code": "031",
+    "site_name": null,
+    "site_code": "0002"
+  },
+  {
+    "county": "Kings",
+    "county_code": "031",
+    "site_name": "Corcoran-Van Dorsten Ave",
+    "site_code": "0003"
+  },
+  {
+    "county": "Kings",
+    "county_code": "031",
+    "site_name": "Corcoran-Patterson",
+    "site_code": "0004"
+  },
+  {
+    "county": "Kings",
+    "county_code": "031",
+    "site_name": "AGRICULTURAL SITE APPROX 150 YDS FROM INTERSECTION ARB SITE #16-718",
+    "site_code": "0100"
+  },
+  {
+    "county": "Kings",
+    "county_code": "031",
+    "site_name": "Santa Rosa Rancheria",
+    "site_code": "0500"
+  },
+  {
+    "county": "Kings",
+    "county_code": "031",
+    "site_name": "Hanford-Lacy Blvd",
+    "site_code": "1001"
+  },
+  {
+    "county": "Kings",
+    "county_code": "031",
+    "site_name": "Kettleman City-Brown Ave",
+    "site_code": "1002"
+  },
+  {
+    "county": "Kings",
+    "county_code": "031",
+    "site_name": "Kettleman City-Caltrans",
+    "site_code": "1003"
+  },
+  {
+    "county": "Kings",
+    "county_code": "031",
+    "site_name": "Hanford-Irwin",
+    "site_code": "1004"
+  },
+  {
+    "county": "Kings",
+    "county_code": "031",
+    "site_name": "Hanford- Weather Station",
+    "site_code": "1007"
+  },
+  {
+    "county": "Kings",
+    "county_code": "031",
+    "site_name": null,
+    "site_code": "2001"
+  },
+  {
+    "county": "Lake",
+    "county_code": "033",
+    "site_name": null,
+    "site_code": "0002"
+  },
+  {
+    "county": "Lake",
+    "county_code": "033",
+    "site_name": null,
+    "site_code": "0003"
+  },
+  {
+    "county": "Lake",
+    "county_code": "033",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Lake",
+    "county_code": "033",
+    "site_name": "Lakeport-Forbes St.",
+    "site_code": "2001"
+  },
+  {
+    "county": "Lake",
+    "county_code": "033",
+    "site_name": "Lakeport-Lakeport Blvd.",
+    "site_code": "3001"
+  },
+  {
+    "county": "Lake",
+    "county_code": "033",
+    "site_name": "Lakeport-S. Main Street",
+    "site_code": "3002"
+  },
+  {
+    "county": "Lake",
+    "county_code": "033",
+    "site_name": "ANDERSON SPRINGS",
+    "site_code": "3010"
+  },
+  {
+    "county": "Lake",
+    "county_code": "033",
+    "site_name": "GLENBROOK",
+    "site_code": "3011"
+  },
+  {
+    "county": "Lake",
+    "county_code": "033",
+    "site_name": "HOBERG-PINE SUMMIT",
+    "site_code": "3012"
+  },
+  {
+    "county": "Lake",
+    "county_code": "033",
+    "site_name": "TRAILER AT RESIDENCE.  RURAL COMMUNITY.",
+    "site_code": "3013"
+  },
+  {
+    "county": "Lassen",
+    "county_code": "035",
+    "site_name": "Susanville",
+    "site_code": "1001"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Azusa",
+    "site_code": "0002"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "0003"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "0004"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "0005"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "0008"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "0009"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Glendora",
+    "site_code": "0016"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "0017"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "El Monte",
+    "site_code": "0018"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "0019"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "0022"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "SB25 trailer at Hollenbeck School",
+    "site_code": "0030"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Wilmington-N. Mahar Ave",
+    "site_code": "0031"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "0102"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "0103"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "West Los Angeles",
+    "site_code": "0113"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Carson",
+    "site_code": "0201"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Commerce-Ayers Ave",
+    "site_code": "0202"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "City of Industry-Volkswagon",
+    "site_code": "0203"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "City of Industry-Whitco",
+    "site_code": "0204"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Commerce-AT&SF RR",
+    "site_code": "0205"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "SITE IS LOCATED ONE HALF MILE EAST OF THE I-57/I-60 INTERCHANGE",
+    "site_code": "0206"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Burbank",
+    "site_code": "1002"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "1003"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "1004"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "UNKNOWN COORDINATE LOCATION",
+    "site_code": "1101"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "ON BUILDING",
+    "site_code": "1102"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Los Angeles-North Main Street",
+    "site_code": "1103"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "1104"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "West Los Angeles-Robertson Blvd",
+    "site_code": "1105"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "1106"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Reseda",
+    "site_code": "1201"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Lynwood",
+    "site_code": "1301"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Compton",
+    "site_code": "1302"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "1401"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Van Nuys Airport",
+    "site_code": "1402"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Uddelholm (Trojan Battery)",
+    "site_code": "1403"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Closet World (Quemetco)",
+    "site_code": "1404"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Rehrig (Exide)",
+    "site_code": "1405"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "ATSF (Exide)",
+    "site_code": "1406"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "1501"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "1601"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Pico Rivera #2",
+    "site_code": "1602"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Pomona",
+    "site_code": "1701"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "1801"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "1901"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "1902"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "2001"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "2002"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Pasadena",
+    "site_code": "2005"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "2101"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "2103"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "2201"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "2301"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "2401"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "3001"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "3002"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "3101"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "4001"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Long Beach (North)",
+    "site_code": "4002"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Long Beach (South)",
+    "site_code": "4004"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Long Beach (Hudson)",
+    "site_code": "4006"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Long Beach-Route 710 Near Road",
+    "site_code": "4008"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Signal Hill (LBSH)",
+    "site_code": "4009"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "North Hollywood (NOHO)",
+    "site_code": "4010"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Santa Clarita-Honby St.",
+    "site_code": "4101"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Hawthorne",
+    "site_code": "5001"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "5002"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "LAX Hastings",
+    "site_code": "5005"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Felton Elementary School",
+    "site_code": "5501"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Santa Anita Christian Academy",
+    "site_code": "5502"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Soto Street Elementary School",
+    "site_code": "5503"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "6001"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "6002"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Santa Clarita",
+    "site_code": "6012"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Lancaster-N. Beech St.",
+    "site_code": "7001"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "7002"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "8001"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "8002"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Wrightwood",
+    "site_code": "9000"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "9001"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Lancaster-Ponderosa St.",
+    "site_code": "9002"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "SAN DIMAS (US FORESTRY) EXPERIMENTAL FOREST",
+    "site_code": "9003"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "AIR RESOURCES BOARD BUILDING, EL MONTE",
+    "site_code": "9004"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "EL MONTE AIRPORT - PROFILER FOR SCOS97",
+    "site_code": "9005"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Palmdale-East Ave S",
+    "site_code": "9006"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Lancaster-Division Street",
+    "site_code": "9033"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "Lebec",
+    "site_code": "9034"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "9401"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "9403"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "9405"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": null,
+    "site_code": "9407"
+  },
+  {
+    "county": "Los Angeles",
+    "county_code": "037",
+    "site_name": "San Gabriel Wilderness",
+    "site_code": "9934"
+  },
+  {
+    "county": "Madera",
+    "county_code": "039",
+    "site_name": "Madera-Library",
+    "site_code": "0001"
+  },
+  {
+    "county": "Madera",
+    "county_code": "039",
+    "site_name": "Madera-Health Dept",
+    "site_code": "0002"
+  },
+  {
+    "county": "Madera",
+    "county_code": "039",
+    "site_name": "Madera-Avenue 15",
+    "site_code": "0003"
+  },
+  {
+    "county": "Madera",
+    "county_code": "039",
+    "site_name": "Madera-Pump Yard",
+    "site_code": "0004"
+  },
+  {
+    "county": "Madera",
+    "county_code": "039",
+    "site_name": "Picayune Rancheria",
+    "site_code": "0500"
+  },
+  {
+    "county": "Madera",
+    "county_code": "039",
+    "site_name": "Madera-City",
+    "site_code": "2010"
+  },
+  {
+    "county": "Marin",
+    "county_code": "041",
+    "site_name": "San Rafael",
+    "site_code": "0001"
+  },
+  {
+    "county": "Marin",
+    "county_code": "041",
+    "site_name": "Point Reyes NS Ranger Station",
+    "site_code": "0002"
+  },
+  {
+    "county": "Marin",
+    "county_code": "041",
+    "site_name": "POINT REYES IMPROV SITE.",
+    "site_code": "0003"
+  },
+  {
+    "county": "Marin",
+    "county_code": "041",
+    "site_name": "Ft. Cronkhite",
+    "site_code": "0004"
+  },
+  {
+    "county": "Marin",
+    "county_code": "041",
+    "site_name": "Forest Knolls",
+    "site_code": "2001"
+  },
+  {
+    "county": "Marin",
+    "county_code": "041",
+    "site_name": "Mt. Tamalpais",
+    "site_code": "6001"
+  },
+  {
+    "county": "Marin",
+    "county_code": "041",
+    "site_name": "Valley Ford",
+    "site_code": "6002"
+  },
+  {
+    "county": "Mariposa",
+    "county_code": "043",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Mariposa",
+    "county_code": "043",
+    "site_name": "Yosemite NP - Turtleback Dome",
+    "site_code": "0003"
+  },
+  {
+    "county": "Mariposa",
+    "county_code": "043",
+    "site_name": "Yosemite National Park - Wawona Valley",
+    "site_code": "0004"
+  },
+  {
+    "county": "Mariposa",
+    "county_code": "043",
+    "site_name": "Yosemite National Park - Headquarters",
+    "site_code": "0005"
+  },
+  {
+    "county": "Mariposa",
+    "county_code": "043",
+    "site_name": "Jerseydale",
+    "site_code": "0006"
+  },
+  {
+    "county": "Mariposa",
+    "county_code": "043",
+    "site_name": "Yosemite National Park - Merced River Site",
+    "site_code": "0033"
+  },
+  {
+    "county": "Mariposa",
+    "county_code": "043",
+    "site_name": "Yosemite NP-Yosemite Village Vistor Center",
+    "site_code": "1001"
+  },
+  {
+    "county": "Mariposa",
+    "county_code": "043",
+    "site_name": "Yosemite National Park - Mobile 1",
+    "site_code": "1002"
+  },
+  {
+    "county": "Mariposa",
+    "county_code": "043",
+    "site_name": "Yosemite National Park - Mobile 2",
+    "site_code": "1003"
+  },
+  {
+    "county": "Mariposa",
+    "county_code": "043",
+    "site_name": "Yosemite National Park - School Yard",
+    "site_code": "1004"
+  },
+  {
+    "county": "Mariposa",
+    "county_code": "043",
+    "site_name": "Yosemite National Park - Glacier Point",
+    "site_code": "1005"
+  },
+  {
+    "county": "Mendocino",
+    "county_code": "045",
+    "site_name": "Fort Bragg-S. Main",
+    "site_code": "0001"
+  },
+  {
+    "county": "Mendocino",
+    "county_code": "045",
+    "site_name": "Fort Bragg-North Franklin Street",
+    "site_code": "0002"
+  },
+  {
+    "county": "Mendocino",
+    "county_code": "045",
+    "site_name": null,
+    "site_code": "0003"
+  },
+  {
+    "county": "Mendocino",
+    "county_code": "045",
+    "site_name": null,
+    "site_code": "0004"
+  },
+  {
+    "county": "Mendocino",
+    "county_code": "045",
+    "site_name": null,
+    "site_code": "0005"
+  },
+  {
+    "county": "Mendocino",
+    "county_code": "045",
+    "site_name": "Ukiah-Library",
+    "site_code": "0006"
+  },
+  {
+    "county": "Mendocino",
+    "county_code": "045",
+    "site_name": null,
+    "site_code": "0007"
+  },
+  {
+    "county": "Mendocino",
+    "county_code": "045",
+    "site_name": "Ukiah-Gobbi Street",
+    "site_code": "0008"
+  },
+  {
+    "county": "Mendocino",
+    "county_code": "045",
+    "site_name": "Willits-899 South Main Street",
+    "site_code": "0009"
+  },
+  {
+    "county": "Mendocino",
+    "county_code": "045",
+    "site_name": "Fort Bragg-300 Dana Street",
+    "site_code": "0010"
+  },
+  {
+    "county": "Mendocino",
+    "county_code": "045",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Mendocino",
+    "county_code": "045",
+    "site_name": null,
+    "site_code": "1002"
+  },
+  {
+    "county": "Mendocino",
+    "county_code": "045",
+    "site_name": null,
+    "site_code": "2001"
+  },
+  {
+    "county": "Mendocino",
+    "county_code": "045",
+    "site_name": "Willits-125 East Commercial Street",
+    "site_code": "2002"
+  },
+  {
+    "county": "Mendocino",
+    "county_code": "045",
+    "site_name": "Willits Unified School District",
+    "site_code": "2003"
+  },
+  {
+    "county": "Merced",
+    "county_code": "047",
+    "site_name": "Los Banos",
+    "site_code": "0001"
+  },
+  {
+    "county": "Merced",
+    "county_code": "047",
+    "site_name": null,
+    "site_code": "0002"
+  },
+  {
+    "county": "Merced",
+    "county_code": "047",
+    "site_name": "Merced-Coffee",
+    "site_code": "0003"
+  },
+  {
+    "county": "Merced",
+    "county_code": "047",
+    "site_name": "Merced-18th St.",
+    "site_code": "0004"
+  },
+  {
+    "county": "Merced",
+    "county_code": "047",
+    "site_name": "SITE @ MERCED COUNTY ADULT CORRECTIONAL FACILITY-NW CORNER OF JAIL",
+    "site_code": "0100"
+  },
+  {
+    "county": "Merced",
+    "county_code": "047",
+    "site_name": "Merced-1205 18th St.",
+    "site_code": "1001"
+  },
+  {
+    "county": "Merced",
+    "county_code": "047",
+    "site_name": "Merced-1st St.",
+    "site_code": "1002"
+  },
+  {
+    "county": "Merced",
+    "county_code": "047",
+    "site_name": "Merced-15th St.",
+    "site_code": "1003"
+  },
+  {
+    "county": "Merced",
+    "county_code": "047",
+    "site_name": null,
+    "site_code": "2001"
+  },
+  {
+    "county": "Merced",
+    "county_code": "047",
+    "site_name": "Merced-M St",
+    "site_code": "2510"
+  },
+  {
+    "county": "Modoc",
+    "county_code": "049",
+    "site_name": "Alturas-Fourth St.",
+    "site_code": "0001"
+  },
+  {
+    "county": "Modoc",
+    "county_code": "049",
+    "site_name": null,
+    "site_code": "0002"
+  },
+  {
+    "county": "Modoc",
+    "county_code": "049",
+    "site_name": "Alturas-Main St.",
+    "site_code": "0003"
+  },
+  {
+    "county": "Modoc",
+    "county_code": "049",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Mono",
+    "county_code": "051",
+    "site_name": "Mammoth",
+    "site_code": "0001"
+  },
+  {
+    "county": "Mono",
+    "county_code": "051",
+    "site_name": null,
+    "site_code": "0002"
+  },
+  {
+    "county": "Mono",
+    "county_code": "051",
+    "site_name": null,
+    "site_code": "0003"
+  },
+  {
+    "county": "Mono",
+    "county_code": "051",
+    "site_name": null,
+    "site_code": "0004"
+  },
+  {
+    "county": "Mono",
+    "county_code": "051",
+    "site_name": "Lee Vining",
+    "site_code": "0005"
+  },
+  {
+    "county": "Mono",
+    "county_code": "051",
+    "site_name": null,
+    "site_code": "0006"
+  },
+  {
+    "county": "Mono",
+    "county_code": "051",
+    "site_name": "Simis Ranch",
+    "site_code": "0007"
+  },
+  {
+    "county": "Mono",
+    "county_code": "051",
+    "site_name": null,
+    "site_code": "0008"
+  },
+  {
+    "county": "Mono",
+    "county_code": "051",
+    "site_name": "Mono Lake-East Shore",
+    "site_code": "0009"
+  },
+  {
+    "county": "Mono",
+    "county_code": "051",
+    "site_name": "PLES-HWY 395",
+    "site_code": "0010"
+  },
+  {
+    "county": "Mono",
+    "county_code": "051",
+    "site_name": "Mono Shore",
+    "site_code": "0011"
+  },
+  {
+    "county": "Mono",
+    "county_code": "051",
+    "site_name": "Meadowlark Farm",
+    "site_code": "0012"
+  },
+  {
+    "county": "Mono",
+    "county_code": "051",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Mono",
+    "county_code": "051",
+    "site_name": null,
+    "site_code": "1002"
+  },
+  {
+    "county": "Mono",
+    "county_code": "051",
+    "site_name": "Hoover Wilderness",
+    "site_code": "9000"
+  },
+  {
+    "county": "Monterey",
+    "county_code": "053",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Monterey",
+    "county_code": "053",
+    "site_name": "Carmel Valley",
+    "site_code": "0002"
+  },
+  {
+    "county": "Monterey",
+    "county_code": "053",
+    "site_name": null,
+    "site_code": "0004"
+  },
+  {
+    "county": "Monterey",
+    "county_code": "053",
+    "site_name": "KING CITY AMS",
+    "site_code": "0005"
+  },
+  {
+    "county": "Monterey",
+    "county_code": "053",
+    "site_name": "MONTEREY AMS",
+    "site_code": "0006"
+  },
+  {
+    "county": "Monterey",
+    "county_code": "053",
+    "site_name": "MOSS LANDING HARBOR AREA",
+    "site_code": "0007"
+  },
+  {
+    "county": "Monterey",
+    "county_code": "053",
+    "site_name": "King City 2",
+    "site_code": "0008"
+  },
+  {
+    "county": "Monterey",
+    "county_code": "053",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Monterey",
+    "county_code": "053",
+    "site_name": "Salinas-Natividad Rd.",
+    "site_code": "1002"
+  },
+  {
+    "county": "Monterey",
+    "county_code": "053",
+    "site_name": "Salinas 3",
+    "site_code": "1003"
+  },
+  {
+    "county": "Monterey",
+    "county_code": "053",
+    "site_name": null,
+    "site_code": "2001"
+  },
+  {
+    "county": "Monterey",
+    "county_code": "053",
+    "site_name": "Salinas-Alisal St.",
+    "site_code": "3001"
+  },
+  {
+    "county": "Napa",
+    "county_code": "055",
+    "site_name": "Napa-1st St.",
+    "site_code": "0001"
+  },
+  {
+    "county": "Napa",
+    "county_code": "055",
+    "site_name": null,
+    "site_code": "0002"
+  },
+  {
+    "county": "Napa",
+    "county_code": "055",
+    "site_name": "Napa",
+    "site_code": "0003"
+  },
+  {
+    "county": "Napa",
+    "county_code": "055",
+    "site_name": "Napa Valley College",
+    "site_code": "0004"
+  },
+  {
+    "county": "Napa",
+    "county_code": "055",
+    "site_name": "Angwin-Pacific Union College",
+    "site_code": "0101"
+  },
+  {
+    "county": "Napa",
+    "county_code": "055",
+    "site_name": "Napa College",
+    "site_code": "6001"
+  },
+  {
+    "county": "Nevada",
+    "county_code": "057",
+    "site_name": "Grass Valley-Henderson St.",
+    "site_code": "0001"
+  },
+  {
+    "county": "Nevada",
+    "county_code": "057",
+    "site_name": "Nevada City",
+    "site_code": "0002"
+  },
+  {
+    "county": "Nevada",
+    "county_code": "057",
+    "site_name": null,
+    "site_code": "0003"
+  },
+  {
+    "county": "Nevada",
+    "county_code": "057",
+    "site_name": null,
+    "site_code": "0004"
+  },
+  {
+    "county": "Nevada",
+    "county_code": "057",
+    "site_name": "Grass Valley-Litton Building",
+    "site_code": "0005"
+  },
+  {
+    "county": "Nevada",
+    "county_code": "057",
+    "site_name": "Grass Valley-Brunswick Road",
+    "site_code": "0006"
+  },
+  {
+    "county": "Nevada",
+    "county_code": "057",
+    "site_name": "White Cloud",
+    "site_code": "0007"
+  },
+  {
+    "county": "Nevada",
+    "county_code": "057",
+    "site_name": "Truckee-Fire Station",
+    "site_code": "1001"
+  },
+  {
+    "county": "Nevada",
+    "county_code": "057",
+    "site_name": "WET DEP SAMPLER LOCATED ON 40 FOOT TOWER",
+    "site_code": "1002"
+  },
+  {
+    "county": "Orange",
+    "county_code": "059",
+    "site_name": "Anaheim (1010 Harbor Blvd)",
+    "site_code": "0001"
+  },
+  {
+    "county": "Orange",
+    "county_code": "059",
+    "site_name": null,
+    "site_code": "0002"
+  },
+  {
+    "county": "Orange",
+    "county_code": "059",
+    "site_name": null,
+    "site_code": "0004"
+  },
+  {
+    "county": "Orange",
+    "county_code": "059",
+    "site_name": "Anaheim",
+    "site_code": "0007"
+  },
+  {
+    "county": "Orange",
+    "county_code": "059",
+    "site_name": "Anaheim Near-Road",
+    "site_code": "0008"
+  },
+  {
+    "county": "Orange",
+    "county_code": "059",
+    "site_name": "11581 FAYE AVE",
+    "site_code": "0101"
+  },
+  {
+    "county": "Orange",
+    "county_code": "059",
+    "site_name": "9901 BIXBY AVE",
+    "site_code": "0104"
+  },
+  {
+    "county": "Orange",
+    "county_code": "059",
+    "site_name": "12122 DIANE ST",
+    "site_code": "0105"
+  },
+  {
+    "county": "Orange",
+    "county_code": "059",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Orange",
+    "county_code": "059",
+    "site_name": "Costa Mesa",
+    "site_code": "1002"
+  },
+  {
+    "county": "Orange",
+    "county_code": "059",
+    "site_name": "Costa Mesa",
+    "site_code": "1003"
+  },
+  {
+    "county": "Orange",
+    "county_code": "059",
+    "site_name": "El Toro",
+    "site_code": "2001"
+  },
+  {
+    "county": "Orange",
+    "county_code": "059",
+    "site_name": null,
+    "site_code": "2002"
+  },
+  {
+    "county": "Orange",
+    "county_code": "059",
+    "site_name": "Mission Viejo",
+    "site_code": "2022"
+  },
+  {
+    "county": "Orange",
+    "county_code": "059",
+    "site_name": null,
+    "site_code": "3001"
+  },
+  {
+    "county": "Orange",
+    "county_code": "059",
+    "site_name": null,
+    "site_code": "3002"
+  },
+  {
+    "county": "Orange",
+    "county_code": "059",
+    "site_name": null,
+    "site_code": "4001"
+  },
+  {
+    "county": "Orange",
+    "county_code": "059",
+    "site_name": null,
+    "site_code": "4002"
+  },
+  {
+    "county": "Orange",
+    "county_code": "059",
+    "site_name": "La Habra",
+    "site_code": "5001"
+  },
+  {
+    "county": "Orange",
+    "county_code": "059",
+    "site_name": null,
+    "site_code": "6001"
+  },
+  {
+    "county": "Orange",
+    "county_code": "059",
+    "site_name": "Santa Ana",
+    "site_code": "8001"
+  },
+  {
+    "county": "Orange",
+    "county_code": "059",
+    "site_name": "ROOF OF THE CITY LIBRARY",
+    "site_code": "8002"
+  },
+  {
+    "county": "Placer",
+    "county_code": "061",
+    "site_name": "Auburn-Dewitt-C Avenue",
+    "site_code": "0001"
+  },
+  {
+    "county": "Placer",
+    "county_code": "061",
+    "site_name": "Auburn - Dewitt - C Avenue",
+    "site_code": "0002"
+  },
+  {
+    "county": "Placer",
+    "county_code": "061",
+    "site_name": "Auburn-Atwood",
+    "site_code": "0003"
+  },
+  {
+    "county": "Placer",
+    "county_code": "061",
+    "site_name": "Colfax-City Hall",
+    "site_code": "0004"
+  },
+  {
+    "county": "Placer",
+    "county_code": "061",
+    "site_name": "LOCATE ON THE SOUTH CORNER OF THE HWY 89 & HWY 28 INTERSECTION.",
+    "site_code": "0005"
+  },
+  {
+    "county": "Placer",
+    "county_code": "061",
+    "site_name": "Roseville-N Sunrise Ave",
+    "site_code": "0006"
+  },
+  {
+    "county": "Placer",
+    "county_code": "061",
+    "site_name": null,
+    "site_code": "0007"
+  },
+  {
+    "county": "Placer",
+    "county_code": "061",
+    "site_name": "Rocklin-Sierra College",
+    "site_code": "0810"
+  },
+  {
+    "county": "Placer",
+    "county_code": "061",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Placer",
+    "county_code": "061",
+    "site_name": "Tahoe City-300 N. Lake Blvd",
+    "site_code": "1002"
+  },
+  {
+    "county": "Placer",
+    "county_code": "061",
+    "site_name": "Colfax-10 W. Church St.",
+    "site_code": "1003"
+  },
+  {
+    "county": "Placer",
+    "county_code": "061",
+    "site_name": "Tahoe City-Fairway Drive",
+    "site_code": "1004"
+  },
+  {
+    "county": "Placer",
+    "county_code": "061",
+    "site_name": "NEIGHBORHOOD AREA SURROUNDED BY FOREST - SNOWY IN WINTER.....",
+    "site_code": "1005"
+  },
+  {
+    "county": "Placer",
+    "county_code": "061",
+    "site_name": "Lincoln-L Street",
+    "site_code": "2001"
+  },
+  {
+    "county": "Placer",
+    "county_code": "061",
+    "site_name": "Lincoln-1st Street",
+    "site_code": "2002"
+  },
+  {
+    "county": "Placer",
+    "county_code": "061",
+    "site_name": "Lincoln-2885 Moore Road",
+    "site_code": "2003"
+  },
+  {
+    "county": "Placer",
+    "county_code": "061",
+    "site_name": "Rocklin",
+    "site_code": "3001"
+  },
+  {
+    "county": "Plumas",
+    "county_code": "063",
+    "site_name": null,
+    "site_code": "0002"
+  },
+  {
+    "county": "Plumas",
+    "county_code": "063",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Plumas",
+    "county_code": "063",
+    "site_name": null,
+    "site_code": "1003"
+  },
+  {
+    "county": "Plumas",
+    "county_code": "063",
+    "site_name": "Quincy-W Main St.",
+    "site_code": "1004"
+  },
+  {
+    "county": "Plumas",
+    "county_code": "063",
+    "site_name": "Quincy-N Church Street",
+    "site_code": "1006"
+  },
+  {
+    "county": "Plumas",
+    "county_code": "063",
+    "site_name": "Chester-222 First Ave",
+    "site_code": "1007"
+  },
+  {
+    "county": "Plumas",
+    "county_code": "063",
+    "site_name": "MONITOR ON TOP OF PRIMETIME PIZZA BUSINESS",
+    "site_code": "1008"
+  },
+  {
+    "county": "Plumas",
+    "county_code": "063",
+    "site_name": "Portola-161 Nevada Street",
+    "site_code": "1009"
+  },
+  {
+    "county": "Plumas",
+    "county_code": "063",
+    "site_name": "Portola",
+    "site_code": "1010"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Banning-Allesandro",
+    "site_code": "0002"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Norco",
+    "site_code": "0003"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Mira Loma (Bellegrave)",
+    "site_code": "0004"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": null,
+    "site_code": "0005"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": null,
+    "site_code": "0006"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Blythe-449 W. Murphy St.",
+    "site_code": "0007"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Joshua Tree NP - Cottonwood",
+    "site_code": "0008"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Pechanga",
+    "site_code": "0009"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Joshua Tree NP - Cottonwood Visitor Center",
+    "site_code": "0010"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Banning Airport",
+    "site_code": "0012"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Temecula",
+    "site_code": "0016"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": null,
+    "site_code": "0101"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "29 Palms",
+    "site_code": "0500"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": null,
+    "site_code": "1002"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Riverside (Magnolia)",
+    "site_code": "1003"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Joshua Tree NP - Pinto Wells",
+    "site_code": "1004"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Cabazon Resource Recovery Park Station",
+    "site_code": "1010"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Morongo Air Monitoring Station",
+    "site_code": "1016"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Torres Martinez Administration Site",
+    "site_code": "1999"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": null,
+    "site_code": "2001"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Indio",
+    "site_code": "2002"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "College of the Desert",
+    "site_code": "2003"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Mecca (Saul Martinez)",
+    "site_code": "2005"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": null,
+    "site_code": "3001"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": null,
+    "site_code": "3002"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "SAN JACINTO TOXICS SITE #1 MOUNTAIN VIEW HIGH SCHOOL",
+    "site_code": "3011"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "SAN JACINTO TOXIC SITE #2 SCHOOL DISTRICT HEADQUARTERS",
+    "site_code": "3012"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": null,
+    "site_code": "4001"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Palm Springs",
+    "site_code": "5001"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Perris",
+    "site_code": "6001"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": null,
+    "site_code": "7001"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Rubidoux",
+    "site_code": "8001"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Mira Loma (Van Buren)",
+    "site_code": "8005"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Aqua Tibia Wilderness",
+    "site_code": "9000"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Lake Elsinore",
+    "site_code": "9001"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Joshua Tree NM - Lost Horse",
+    "site_code": "9002"
+  },
+  {
+    "county": "Riverside",
+    "county_code": "065",
+    "site_name": "Blythe-445 W Murphy Street",
+    "site_code": "9003"
+  },
+  {
+    "county": "Sacramento",
+    "county_code": "067",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Sacramento",
+    "county_code": "067",
+    "site_name": "North Highlands-Blackfoot",
+    "site_code": "0002"
+  },
+  {
+    "county": "Sacramento",
+    "county_code": "067",
+    "site_name": null,
+    "site_code": "0003"
+  },
+  {
+    "county": "Sacramento",
+    "county_code": "067",
+    "site_name": null,
+    "site_code": "0004"
+  },
+  {
+    "county": "Sacramento",
+    "county_code": "067",
+    "site_name": null,
+    "site_code": "0005"
+  },
+  {
+    "county": "Sacramento",
+    "county_code": "067",
+    "site_name": "Sacramento-Del Paso Manor",
+    "site_code": "0006"
+  },
+  {
+    "county": "Sacramento",
+    "county_code": "067",
+    "site_name": null,
+    "site_code": "0007"
+  },
+  {
+    "county": "Sacramento",
+    "county_code": "067",
+    "site_name": "Sacramento-1309 T Street",
+    "site_code": "0010"
+  },
+  {
+    "county": "Sacramento",
+    "county_code": "067",
+    "site_name": "Elk Grove-Bruceville",
+    "site_code": "0011"
+  },
+  {
+    "county": "Sacramento",
+    "county_code": "067",
+    "site_name": "Folsom-Natoma St.",
+    "site_code": "0012"
+  },
+  {
+    "county": "Sacramento",
+    "county_code": "067",
+    "site_name": "LOCATED APPROXIMATELY 1 MILE NORTH OF I-5 AND I-80 FREEWAYS",
+    "site_code": "0013"
+  },
+  {
+    "county": "Sacramento",
+    "county_code": "067",
+    "site_name": "Sacramento-Goldenland Ct.",
+    "site_code": "0014"
+  },
+  {
+    "county": "Sacramento",
+    "county_code": "067",
+    "site_name": "Sacramento-Bercut Drive",
+    "site_code": "0015"
+  },
+  {
+    "county": "Sacramento",
+    "county_code": "067",
+    "site_name": null,
+    "site_code": "0283"
+  },
+  {
+    "county": "Sacramento",
+    "county_code": "067",
+    "site_name": "Sacramento-Branch Center #2",
+    "site_code": "0284"
+  },
+  {
+    "county": "Sacramento",
+    "county_code": "067",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Sacramento",
+    "county_code": "067",
+    "site_name": null,
+    "site_code": "1002"
+  },
+  {
+    "county": "Sacramento",
+    "county_code": "067",
+    "site_name": null,
+    "site_code": "3001"
+  },
+  {
+    "county": "Sacramento",
+    "county_code": "067",
+    "site_name": "Sacramento Health Department-Stockton Blvd.",
+    "site_code": "4001"
+  },
+  {
+    "county": "Sacramento",
+    "county_code": "067",
+    "site_name": null,
+    "site_code": "5001"
+  },
+  {
+    "county": "Sacramento",
+    "county_code": "067",
+    "site_name": "Sacramento-Earhart Dr.",
+    "site_code": "5002"
+  },
+  {
+    "county": "Sacramento",
+    "county_code": "067",
+    "site_name": "Sloughhouse",
+    "site_code": "5003"
+  },
+  {
+    "county": "San Benito",
+    "county_code": "069",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "San Benito",
+    "county_code": "069",
+    "site_name": "Hollister",
+    "site_code": "0002"
+  },
+  {
+    "county": "San Benito",
+    "county_code": "069",
+    "site_name": "Pinnacles NP - Southwest of East Entrance Station",
+    "site_code": "0003"
+  },
+  {
+    "county": "San Benito",
+    "county_code": "069",
+    "site_name": "San Juan Bautista",
+    "site_code": "0004"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Barstow",
+    "site_code": "0001"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "0003"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "0004"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Crestline",
+    "site_code": "0005"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "0006"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "0008"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "0009"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Phelan-Beekley Road & Phelan Road",
+    "site_code": "0012"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Lucerne Valley-Middle School",
+    "site_code": "0013"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Victorville-Amargosa Road",
+    "site_code": "0014"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Trona-Athol",
+    "site_code": "0015"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Twenty Nine Palms-Adobe",
+    "site_code": "0017"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Ontario Fire Station",
+    "site_code": "0025"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Ontario Near Road (Etiwanda)",
+    "site_code": "0026"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Ontario-Route 60 Near Road",
+    "site_code": "0027"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "0101"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "0102"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "0103"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "0106"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "0107"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "0108"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "APPLE VALLEY SPECIAL PURPOSE MET PROFILER SITE",
+    "site_code": "0109"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "BARSTOW/DAGGETT SPECIAL PURPOSE MET PROFILIER SITE",
+    "site_code": "0110"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "ROVER STUDY FROM SCOS97",
+    "site_code": "0217"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Victorville-Park Avenue",
+    "site_code": "0306"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "TEST SITE FOR DATA ENTRY INVESTIGATION",
+    "site_code": "1000"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Mojave NP & PRES - Kelso Mountains",
+    "site_code": "1001"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Chino",
+    "site_code": "1002"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "1003"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Upland",
+    "site_code": "1004"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "1005"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "1101"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "1201"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Trona - Athol/Telescope #2",
+    "site_code": "1234"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "1301"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "1401"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "SA Recycling",
+    "site_code": "1407"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Chino-Central Ave",
+    "site_code": "2001"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Fontana",
+    "site_code": "2002"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "2003"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "2004"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "3001"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Ontario-Cheffey HS",
+    "site_code": "3002"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Hesperia-Olive Street",
+    "site_code": "4001"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "4002"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Redlands",
+    "site_code": "4003"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "5001"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Chino-Airport",
+    "site_code": "5002"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Ontario-Airport",
+    "site_code": "6001"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "6002"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "7001"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "7002"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Big Bear",
+    "site_code": "8001"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Ludlow",
+    "site_code": "9000"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "9001"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Joshua Tree NP - Black Rock",
+    "site_code": "9002"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "El Mirage-Shadow Mountain relay station",
+    "site_code": "9003"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "San Bernardino",
+    "site_code": "9004"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "SAN BERNADINO AIRPORT (NORTON AFB)",
+    "site_code": "9005"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Cajon-Baldy Mesa",
+    "site_code": "9006"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Hinckley-Jim Doering relay station",
+    "site_code": "9007"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "Helendale-Quartzite Mountain",
+    "site_code": "9008"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "9009"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": null,
+    "site_code": "9010"
+  },
+  {
+    "county": "San Bernardino",
+    "county_code": "071",
+    "site_name": "San Bernardino-Mt. Vernon Ave.",
+    "site_code": "9011"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "Chula Vista",
+    "site_code": "0001"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": null,
+    "site_code": "0002"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "El Cajon",
+    "site_code": "0003"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "Oceanside-Mission Ave",
+    "site_code": "0005"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "Kearny Mesa",
+    "site_code": "0006"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": null,
+    "site_code": "0007"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "San Diego-800 Front St.",
+    "site_code": "0009"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "Campo Indian Reservation",
+    "site_code": "0077"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": null,
+    "site_code": "0078"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "Del Mar",
+    "site_code": "1001"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "Escondido",
+    "site_code": "1002"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "Oceanside-Cleveland St.",
+    "site_code": "1003"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": null,
+    "site_code": "1004"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": null,
+    "site_code": "1005"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "Alpine",
+    "site_code": "1006"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "San Diego-12th Ave",
+    "site_code": "1007"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "Camp Pendleton",
+    "site_code": "1008"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "San Diego-Barrio Logan",
+    "site_code": "1009"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "San Diego - Beardsley Street",
+    "site_code": "1010"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "La Posta Reservation",
+    "site_code": "1011"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": null,
+    "site_code": "1012"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "Donovan",
+    "site_code": "1014"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "San Marcos Peak",
+    "site_code": "1015"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "Kearny Villa Rd.",
+    "site_code": "1016"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "San Diego -Rancho Carmel Drive",
+    "site_code": "1017"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "El Cajon - Floyd Smith Dr.",
+    "site_code": "1018"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "San Ysidro",
+    "site_code": "1019"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "Palomar Airport",
+    "site_code": "1020"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "Gillespie Field",
+    "site_code": "1021"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "El Cajon - Lexington Elementary School",
+    "site_code": "1022"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "Palomar Airport",
+    "site_code": "1023"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "San Ysidro",
+    "site_code": "1024"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "San Ysidro",
+    "site_code": "1025"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "San Diego - Sherman Elementary School",
+    "site_code": "1026"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "Pala Airpad",
+    "site_code": "1201"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "LJA1",
+    "site_code": "1210"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "Manzanita Reservation",
+    "site_code": "2000"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": null,
+    "site_code": "2001"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": null,
+    "site_code": "2002"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": null,
+    "site_code": "2003"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": null,
+    "site_code": "2005"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "Otay Mesa",
+    "site_code": "2007"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": null,
+    "site_code": "3001"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": null,
+    "site_code": "4001"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": null,
+    "site_code": "5001"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "Rincon Daycare Site  (\"RIIR\")",
+    "site_code": "5501"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": null,
+    "site_code": "6001"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "10TH AVENUE MARINE TERMINAL",
+    "site_code": "6500"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "Fire Station #19",
+    "site_code": "6501"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": "Caltrans-Chavez",
+    "site_code": "6502"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": null,
+    "site_code": "7001"
+  },
+  {
+    "county": "San Diego",
+    "county_code": "073",
+    "site_name": null,
+    "site_code": "8001"
+  },
+  {
+    "county": "San Francisco",
+    "county_code": "075",
+    "site_name": "San Francisco-Health Dept.",
+    "site_code": "0001"
+  },
+  {
+    "county": "San Francisco",
+    "county_code": "075",
+    "site_name": "San Francisco-Union Square",
+    "site_code": "0002"
+  },
+  {
+    "county": "San Francisco",
+    "county_code": "075",
+    "site_name": "San Francisco - Ellis St.",
+    "site_code": "0003"
+  },
+  {
+    "county": "San Francisco",
+    "county_code": "075",
+    "site_name": "San Francisco-23rd St.",
+    "site_code": "0004"
+  },
+  {
+    "county": "San Francisco",
+    "county_code": "075",
+    "site_name": "San Francisco",
+    "site_code": "0005"
+  },
+  {
+    "county": "San Francisco",
+    "county_code": "075",
+    "site_name": "San Francisco - Bayview Hunters Point",
+    "site_code": "0006"
+  },
+  {
+    "county": "San Francisco",
+    "county_code": "075",
+    "site_name": "San Francisco-Union Square#2",
+    "site_code": "1001"
+  },
+  {
+    "county": "San Francisco",
+    "county_code": "075",
+    "site_name": "San Francisco-Mission St.",
+    "site_code": "1002"
+  },
+  {
+    "county": "San Francisco",
+    "county_code": "075",
+    "site_name": "Fort Funston",
+    "site_code": "6002"
+  },
+  {
+    "county": "San Joaquin",
+    "county_code": "077",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "San Joaquin",
+    "county_code": "077",
+    "site_name": null,
+    "site_code": "0002"
+  },
+  {
+    "county": "San Joaquin",
+    "county_code": "077",
+    "site_name": null,
+    "site_code": "0003"
+  },
+  {
+    "county": "San Joaquin",
+    "county_code": "077",
+    "site_name": null,
+    "site_code": "0004"
+  },
+  {
+    "county": "San Joaquin",
+    "county_code": "077",
+    "site_name": null,
+    "site_code": "0005"
+  },
+  {
+    "county": "San Joaquin",
+    "county_code": "077",
+    "site_name": null,
+    "site_code": "0006"
+  },
+  {
+    "county": "San Joaquin",
+    "county_code": "077",
+    "site_name": null,
+    "site_code": "0007"
+  },
+  {
+    "county": "San Joaquin",
+    "county_code": "077",
+    "site_name": null,
+    "site_code": "0008"
+  },
+  {
+    "county": "San Joaquin",
+    "county_code": "077",
+    "site_name": null,
+    "site_code": "0009"
+  },
+  {
+    "county": "San Joaquin",
+    "county_code": "077",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "San Joaquin",
+    "county_code": "077",
+    "site_name": "Stockton-Hazelton",
+    "site_code": "1002"
+  },
+  {
+    "county": "San Joaquin",
+    "county_code": "077",
+    "site_name": "Stockton - University Park",
+    "site_code": "1003"
+  },
+  {
+    "county": "San Joaquin",
+    "county_code": "077",
+    "site_name": null,
+    "site_code": "2001"
+  },
+  {
+    "county": "San Joaquin",
+    "county_code": "077",
+    "site_name": "Manteca",
+    "site_code": "2010"
+  },
+  {
+    "county": "San Joaquin",
+    "county_code": "077",
+    "site_name": null,
+    "site_code": "3001"
+  },
+  {
+    "county": "San Joaquin",
+    "county_code": "077",
+    "site_name": "FLAT AGRICULTURAL TERRAIN. INSIDE PG&E GAS PIPELINE MAINTENANCE_YARD",
+    "site_code": "3002"
+  },
+  {
+    "county": "San Joaquin",
+    "county_code": "077",
+    "site_name": "Tracy-Holden farm",
+    "site_code": "3003"
+  },
+  {
+    "county": "San Joaquin",
+    "county_code": "077",
+    "site_name": "Tracy-Airport",
+    "site_code": "3005"
+  },
+  {
+    "county": "San Joaquin",
+    "county_code": "077",
+    "site_name": " STOCKTON-WAGNER/HOLT",
+    "site_code": "3010"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": null,
+    "site_code": "0002"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": null,
+    "site_code": "0003"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": "Paso Robles",
+    "site_code": "0005"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": null,
+    "site_code": "1002"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": null,
+    "site_code": "1004"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": "Arroyo Grande-Ralcoa",
+    "site_code": "1005"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": "Grover Beach",
+    "site_code": "2001"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": "San Luis Obispo-Marsh St.",
+    "site_code": "2002"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": null,
+    "site_code": "2003"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": "Mesa2",
+    "site_code": "2004"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": null,
+    "site_code": "2005"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": "San Luis Obispo",
+    "site_code": "2006"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": "Arroyo Grande CDF",
+    "site_code": "2007"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": "SLO Roberto",
+    "site_code": "2020"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": "Morro Bay",
+    "site_code": "3001"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": null,
+    "site_code": "3002"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": null,
+    "site_code": "4001"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": "Nipomo Regional Park (NRP)",
+    "site_code": "4002"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": "Nipomo-Hillview Road",
+    "site_code": "4003"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": null,
+    "site_code": "5001"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": null,
+    "site_code": "6001"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": null,
+    "site_code": "7001"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": "Atascadero (original site)",
+    "site_code": "8001"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": "Atascadero",
+    "site_code": "8002"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": "Red Hills",
+    "site_code": "8005"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": "Carrizo Plains",
+    "site_code": "8006"
+  },
+  {
+    "county": "San Luis Obispo",
+    "county_code": "079",
+    "site_name": "Oso Flaco Site",
+    "site_code": "9001"
+  },
+  {
+    "county": "San Mateo",
+    "county_code": "081",
+    "site_name": "Burlingame-Bayshore Ave.",
+    "site_code": "0001"
+  },
+  {
+    "county": "San Mateo",
+    "county_code": "081",
+    "site_name": "Burlingame-Burlingame Ave.",
+    "site_code": "0002"
+  },
+  {
+    "county": "San Mateo",
+    "county_code": "081",
+    "site_name": "Redwood City",
+    "site_code": "1001"
+  },
+  {
+    "county": "San Mateo",
+    "county_code": "081",
+    "site_name": null,
+    "site_code": "2001"
+  },
+  {
+    "county": "San Mateo",
+    "county_code": "081",
+    "site_name": "San Carlos Airport",
+    "site_code": "2002"
+  },
+  {
+    "county": "San Mateo",
+    "county_code": "081",
+    "site_name": "Twin Dolphin",
+    "site_code": "2003"
+  },
+  {
+    "county": "San Mateo",
+    "county_code": "081",
+    "site_name": "San Carlos Airport II",
+    "site_code": "2004"
+  },
+  {
+    "county": "San Mateo",
+    "county_code": "081",
+    "site_name": "San Carlos",
+    "site_code": "6001"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "0002"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "0003"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "0004"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "0005"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "0007"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "El Capitan",
+    "site_code": "0008"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "0009"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "Santa Barbara-W. Carrillo St.",
+    "site_code": "0010"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "Santa Barbara",
+    "site_code": "0011"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "1002"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "Santa Maria-S. McClelland St.",
+    "site_code": "1006"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "Santa Maria-500 S. Broadway",
+    "site_code": "1007"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "Santa Maria",
+    "site_code": "1008"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "1009"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "1010"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "1011"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "1012"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "Lompoc HSP",
+    "site_code": "1013"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "Paradise Road",
+    "site_code": "1014"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "1015"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "1016"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "1017"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "Nojoqui",
+    "site_code": "1018"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "1019"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "UCSB West Campus",
+    "site_code": "1020"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "Carpinteria",
+    "site_code": "1021"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "Lompoc Odor",
+    "site_code": "1022"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "1023"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "1024"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "Los Flores Canyon #1",
+    "site_code": "1025"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "1026"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "1027"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "1028"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "1029"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "1030"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "CarpMet",
+    "site_code": "1033"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "Las Flores Canyon Odor",
+    "site_code": "1037"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "1038"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "1039"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "1040"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "2001"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "2002"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "2003"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "Lompoc H Street",
+    "site_code": "2004"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "2005"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "2008"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "2009"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "2010"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "Goleta",
+    "site_code": "2011"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "SANTA ROSA ISLAND - BECHER'S BAY - CHANNEL ISLANDS NATIONAL PARK",
+    "site_code": "2012"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "PAMS PROBE LOCATED ON ROOF ABOVE LAB OF SBCAPCD OFFICE BUILDING",
+    "site_code": "2015"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "Santa Ynez",
+    "site_code": "3001"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "3002"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "4001"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "4002"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "VAFB South Base",
+    "site_code": "4003"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "Pt. Arguello",
+    "site_code": "4004"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": null,
+    "site_code": "5001"
+  },
+  {
+    "county": "Santa Barbara",
+    "county_code": "083",
+    "site_name": "San Rafael Wilderness",
+    "site_code": "9000"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": "Gilroy-Monterey St.",
+    "site_code": "0001"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": "Gilroy",
+    "site_code": "0002"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": "San Jose-Alma Ave.",
+    "site_code": "0003"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": "San Jose - 4th St.",
+    "site_code": "0004"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": "San Jose - Jackson",
+    "site_code": "0005"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": "San Jose - Knox Avenue",
+    "site_code": "0006"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": "San Jose-Alum Rock",
+    "site_code": "0386"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": "Los Gatos",
+    "site_code": "1001"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": "Mountain View - Cuesta",
+    "site_code": "1002"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": null,
+    "site_code": "2001"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": "San Jose-5th St.",
+    "site_code": "2002"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": "San Jose",
+    "site_code": "2003"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": "San Jose-W. San Carlos St.",
+    "site_code": "2004"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": "San Jose - Piedmont",
+    "site_code": "2005"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": "San Martin",
+    "site_code": "2006"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": "Sunnyvale - Ticonderoga",
+    "site_code": "2007"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": "MT VIEW-WHISMAN PARK",
+    "site_code": "2008"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": "Cupertino Monta Vista",
+    "site_code": "2009"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": "Palo Alto Airport",
+    "site_code": "2010"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": "Reid Hillview Airport",
+    "site_code": "2011"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": "San Jose-Moorpark Ave.",
+    "site_code": "3001"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": null,
+    "site_code": "4000"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": "Sunnyvale",
+    "site_code": "4001"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": null,
+    "site_code": "4002"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": "Stevens Creek Elementary School",
+    "site_code": "5506"
+  },
+  {
+    "county": "Santa Clara",
+    "county_code": "085",
+    "site_name": null,
+    "site_code": "6001"
+  },
+  {
+    "county": "Santa Cruz",
+    "county_code": "087",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Santa Cruz",
+    "county_code": "087",
+    "site_name": "Santa Cruz-Frederick St.",
+    "site_code": "0002"
+  },
+  {
+    "county": "Santa Cruz",
+    "county_code": "087",
+    "site_name": "Davenport",
+    "site_code": "0003"
+  },
+  {
+    "county": "Santa Cruz",
+    "county_code": "087",
+    "site_name": "Watsonville Airport",
+    "site_code": "0004"
+  },
+  {
+    "county": "Santa Cruz",
+    "county_code": "087",
+    "site_name": "Scotts Valley-Vine Hill",
+    "site_code": "0005"
+  },
+  {
+    "county": "Santa Cruz",
+    "county_code": "087",
+    "site_name": "Scotts Valley-4",
+    "site_code": "0006"
+  },
+  {
+    "county": "Santa Cruz",
+    "county_code": "087",
+    "site_name": "Santa Cruz",
+    "site_code": "0007"
+  },
+  {
+    "county": "Santa Cruz",
+    "county_code": "087",
+    "site_name": "MET. SITE ONLY",
+    "site_code": "0008"
+  },
+  {
+    "county": "Santa Cruz",
+    "county_code": "087",
+    "site_name": "Santa Cruz-Bostwick Ln.",
+    "site_code": "1001"
+  },
+  {
+    "county": "Santa Cruz",
+    "county_code": "087",
+    "site_name": null,
+    "site_code": "1002"
+  },
+  {
+    "county": "Santa Cruz",
+    "county_code": "087",
+    "site_name": "Scotts Valley High School",
+    "site_code": "1003"
+  },
+  {
+    "county": "Santa Cruz",
+    "county_code": "087",
+    "site_name": "Felton",
+    "site_code": "1004"
+  },
+  {
+    "county": "Santa Cruz",
+    "county_code": "087",
+    "site_name": "San Lorenzo Valley Middle School",
+    "site_code": "1005"
+  },
+  {
+    "county": "Santa Cruz",
+    "county_code": "087",
+    "site_name": null,
+    "site_code": "2001"
+  },
+  {
+    "county": "Santa Cruz",
+    "county_code": "087",
+    "site_name": null,
+    "site_code": "4001"
+  },
+  {
+    "county": "Shasta",
+    "county_code": "089",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Shasta",
+    "county_code": "089",
+    "site_name": null,
+    "site_code": "0002"
+  },
+  {
+    "county": "Shasta",
+    "county_code": "089",
+    "site_name": "Redding - Health Department",
+    "site_code": "0004"
+  },
+  {
+    "county": "Shasta",
+    "county_code": "089",
+    "site_name": null,
+    "site_code": "0005"
+  },
+  {
+    "county": "Shasta",
+    "county_code": "089",
+    "site_name": null,
+    "site_code": "0006"
+  },
+  {
+    "county": "Shasta",
+    "county_code": "089",
+    "site_name": "Anderson - North Street",
+    "site_code": "0007"
+  },
+  {
+    "county": "Shasta",
+    "county_code": "089",
+    "site_name": "Shasta Lake-La Mesa",
+    "site_code": "0008"
+  },
+  {
+    "county": "Shasta",
+    "county_code": "089",
+    "site_name": "Shasta Lake - Lake Blvd",
+    "site_code": "0009"
+  },
+  {
+    "county": "Shasta",
+    "county_code": "089",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Shasta",
+    "county_code": "089",
+    "site_name": null,
+    "site_code": "1002"
+  },
+  {
+    "county": "Shasta",
+    "county_code": "089",
+    "site_name": null,
+    "site_code": "2001"
+  },
+  {
+    "county": "Shasta",
+    "county_code": "089",
+    "site_name": null,
+    "site_code": "2002"
+  },
+  {
+    "county": "Shasta",
+    "county_code": "089",
+    "site_name": null,
+    "site_code": "3001"
+  },
+  {
+    "county": "Shasta",
+    "county_code": "089",
+    "site_name": null,
+    "site_code": "3002"
+  },
+  {
+    "county": "Shasta",
+    "county_code": "089",
+    "site_name": "Lassen Volcanic NP - Manzanita Lake Fire Station",
+    "site_code": "3003"
+  },
+  {
+    "county": "Shasta",
+    "county_code": "089",
+    "site_name": "Redding - Buckeye",
+    "site_code": "3004"
+  },
+  {
+    "county": "Shasta",
+    "county_code": "089",
+    "site_name": "Redding - Toyon",
+    "site_code": "3005"
+  },
+  {
+    "county": "Sierra",
+    "county_code": "091",
+    "site_name": "Loyalton-309 W 3rd Street",
+    "site_code": "0001"
+  },
+  {
+    "county": "Siskiyou",
+    "county_code": "093",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Siskiyou",
+    "county_code": "093",
+    "site_name": null,
+    "site_code": "0002"
+  },
+  {
+    "county": "Siskiyou",
+    "county_code": "093",
+    "site_name": null,
+    "site_code": "0003"
+  },
+  {
+    "county": "Siskiyou",
+    "county_code": "093",
+    "site_name": "Mt. Shasta Hatchery",
+    "site_code": "0004"
+  },
+  {
+    "county": "Siskiyou",
+    "county_code": "093",
+    "site_name": "Lava Beds National Monument",
+    "site_code": "0005"
+  },
+  {
+    "county": "Siskiyou",
+    "county_code": "093",
+    "site_name": "Weed",
+    "site_code": "0007"
+  },
+  {
+    "county": "Siskiyou",
+    "county_code": "093",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Siskiyou",
+    "county_code": "093",
+    "site_name": null,
+    "site_code": "1002"
+  },
+  {
+    "county": "Siskiyou",
+    "county_code": "093",
+    "site_name": "Yreka",
+    "site_code": "2001"
+  },
+  {
+    "county": "Siskiyou",
+    "county_code": "093",
+    "site_name": "SISKIYOU COUNTY AIRPORT, OPEN FLAT TERRAIN.",
+    "site_code": "2002"
+  },
+  {
+    "county": "Solano",
+    "county_code": "095",
+    "site_name": "Benicia",
+    "site_code": "0001"
+  },
+  {
+    "county": "Solano",
+    "county_code": "095",
+    "site_name": "Fairfield - Gregory",
+    "site_code": "0002"
+  },
+  {
+    "county": "Solano",
+    "county_code": "095",
+    "site_name": "Vallejo-400 Tuolumne St.",
+    "site_code": "0003"
+  },
+  {
+    "county": "Solano",
+    "county_code": "095",
+    "site_name": "Vallejo",
+    "site_code": "0004"
+  },
+  {
+    "county": "Solano",
+    "county_code": "095",
+    "site_name": "Fairfield",
+    "site_code": "0005"
+  },
+  {
+    "county": "Solano",
+    "county_code": "095",
+    "site_name": "Benicia - VIP",
+    "site_code": "0006"
+  },
+  {
+    "county": "Solano",
+    "county_code": "095",
+    "site_name": "Fairfield-Lambie Rd.",
+    "site_code": "1001"
+  },
+  {
+    "county": "Solano",
+    "county_code": "095",
+    "site_name": null,
+    "site_code": "1002"
+  },
+  {
+    "county": "Solano",
+    "county_code": "095",
+    "site_name": "Rio Vista",
+    "site_code": "2001"
+  },
+  {
+    "county": "Solano",
+    "county_code": "095",
+    "site_name": "Vallejo-321 Tuolumne St.",
+    "site_code": "2002"
+  },
+  {
+    "county": "Solano",
+    "county_code": "095",
+    "site_name": "Vacaville-Merchant Street",
+    "site_code": "3001"
+  },
+  {
+    "county": "Solano",
+    "county_code": "095",
+    "site_name": "SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT)",
+    "site_code": "3002"
+  },
+  {
+    "county": "Solano",
+    "county_code": "095",
+    "site_name": "Vacaville-Ulatis Drive",
+    "site_code": "3003"
+  },
+  {
+    "county": "Solano",
+    "county_code": "095",
+    "site_name": "Vallejo-228 Broadway",
+    "site_code": "4001"
+  },
+  {
+    "county": "Solano",
+    "county_code": "095",
+    "site_name": "Rio Vista",
+    "site_code": "6001"
+  },
+  {
+    "county": "Sonoma",
+    "county_code": "097",
+    "site_name": "Cloverdale",
+    "site_code": "0001"
+  },
+  {
+    "county": "Sonoma",
+    "county_code": "097",
+    "site_name": "Healdsburg-Matheson",
+    "site_code": "0002"
+  },
+  {
+    "county": "Sonoma",
+    "county_code": "097",
+    "site_name": "Santa Rosa - 5th St",
+    "site_code": "0003"
+  },
+  {
+    "county": "Sonoma",
+    "county_code": "097",
+    "site_name": "Sebastopol",
+    "site_code": "0004"
+  },
+  {
+    "county": "Sonoma",
+    "county_code": "097",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Sonoma",
+    "county_code": "097",
+    "site_name": "Petaluma-Payran St.",
+    "site_code": "1002"
+  },
+  {
+    "county": "Sonoma",
+    "county_code": "097",
+    "site_name": "Healdsburg-Municipal Airport",
+    "site_code": "1003"
+  },
+  {
+    "county": "Sonoma",
+    "county_code": "097",
+    "site_name": "Petaluma-12 N. Petaluma Blvd.",
+    "site_code": "2001"
+  },
+  {
+    "county": "Sonoma",
+    "county_code": "097",
+    "site_name": "Santa Rosa-Humboldt St.",
+    "site_code": "2002"
+  },
+  {
+    "county": "Sonoma",
+    "county_code": "097",
+    "site_name": "Santa Rosa-Old Courthouse Plaza",
+    "site_code": "3001"
+  },
+  {
+    "county": "Sonoma",
+    "county_code": "097",
+    "site_name": "Guerneville-Church and 1st",
+    "site_code": "3002"
+  },
+  {
+    "county": "Sonoma",
+    "county_code": "097",
+    "site_name": "Sonoma",
+    "site_code": "4001"
+  },
+  {
+    "county": "Sonoma",
+    "county_code": "097",
+    "site_name": null,
+    "site_code": "5001"
+  },
+  {
+    "county": "Sonoma",
+    "county_code": "097",
+    "site_name": "Santa Rosa",
+    "site_code": "6001"
+  },
+  {
+    "county": "Sonoma",
+    "county_code": "097",
+    "site_name": "Sonoma Baylands",
+    "site_code": "6002"
+  },
+  {
+    "county": "Stanislaus",
+    "county_code": "099",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Stanislaus",
+    "county_code": "099",
+    "site_name": "Modesto-Courthouse",
+    "site_code": "0002"
+  },
+  {
+    "county": "Stanislaus",
+    "county_code": "099",
+    "site_name": "Modesto-County Center",
+    "site_code": "0003"
+  },
+  {
+    "county": "Stanislaus",
+    "county_code": "099",
+    "site_name": null,
+    "site_code": "0004"
+  },
+  {
+    "county": "Stanislaus",
+    "county_code": "099",
+    "site_name": "Modesto-14th Street",
+    "site_code": "0005"
+  },
+  {
+    "county": "Stanislaus",
+    "county_code": "099",
+    "site_name": "Turlock",
+    "site_code": "0006"
+  },
+  {
+    "county": "Stanislaus",
+    "county_code": "099",
+    "site_name": "Modesto-14th St.",
+    "site_code": "0010"
+  },
+  {
+    "county": "Stanislaus",
+    "county_code": "099",
+    "site_name": null,
+    "site_code": "1002"
+  },
+  {
+    "county": "Stanislaus",
+    "county_code": "099",
+    "site_name": null,
+    "site_code": "1003"
+  },
+  {
+    "county": "Stanislaus",
+    "county_code": "099",
+    "site_name": null,
+    "site_code": "1004"
+  },
+  {
+    "county": "Stanislaus",
+    "county_code": "099",
+    "site_name": "LOCATED IN THE NAS FIRE STATION.",
+    "site_code": "1005"
+  },
+  {
+    "county": "Stanislaus",
+    "county_code": "099",
+    "site_name": null,
+    "site_code": "2001"
+  },
+  {
+    "county": "Stanislaus",
+    "county_code": "099",
+    "site_name": null,
+    "site_code": "2003"
+  },
+  {
+    "county": "Sutter",
+    "county_code": "101",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Sutter",
+    "county_code": "101",
+    "site_name": null,
+    "site_code": "0002"
+  },
+  {
+    "county": "Sutter",
+    "county_code": "101",
+    "site_name": "Yuba City",
+    "site_code": "0003"
+  },
+  {
+    "county": "Sutter",
+    "county_code": "101",
+    "site_name": "Sutter Buttes (seasonal)",
+    "site_code": "0004"
+  },
+  {
+    "county": "Sutter",
+    "county_code": "101",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Sutter",
+    "county_code": "101",
+    "site_name": null,
+    "site_code": "1002"
+  },
+  {
+    "county": "Sutter",
+    "county_code": "101",
+    "site_name": null,
+    "site_code": "2001"
+  },
+  {
+    "county": "Tehama",
+    "county_code": "103",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Tehama",
+    "county_code": "103",
+    "site_name": "MESSER DRIVE, RED BLUFF",
+    "site_code": "0002"
+  },
+  {
+    "county": "Tehama",
+    "county_code": "103",
+    "site_name": null,
+    "site_code": "0003"
+  },
+  {
+    "county": "Tehama",
+    "county_code": "103",
+    "site_name": "Tuscan Butte (seasonal)",
+    "site_code": "0004"
+  },
+  {
+    "county": "Tehama",
+    "county_code": "103",
+    "site_name": "Red Bluff-Oak Street",
+    "site_code": "0005"
+  },
+  {
+    "county": "Tehama",
+    "county_code": "103",
+    "site_name": "RED BLUFF-310 S. MAIN STREET",
+    "site_code": "0006"
+  },
+  {
+    "county": "Tehama",
+    "county_code": "103",
+    "site_name": "Red Bluff-Walnut St. District Office",
+    "site_code": "0007"
+  },
+  {
+    "county": "Tehama",
+    "county_code": "103",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Trinity",
+    "county_code": "105",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Trinity",
+    "county_code": "105",
+    "site_name": "Weaverville-Courthouse",
+    "site_code": "0002"
+  },
+  {
+    "county": "Trinity",
+    "county_code": "105",
+    "site_name": "Trinity",
+    "site_code": "9000"
+  },
+  {
+    "county": "Tulare",
+    "county_code": "107",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Tulare",
+    "county_code": "107",
+    "site_name": "Sequoia NP-Lower Kaweah",
+    "site_code": "0002"
+  },
+  {
+    "county": "Tulare",
+    "county_code": "107",
+    "site_name": "Sequoia NP-Lodgepole Chlorinator",
+    "site_code": "0003"
+  },
+  {
+    "county": "Tulare",
+    "county_code": "107",
+    "site_name": "Sequoia & Kings Canyon NPs - Ash Mountain",
+    "site_code": "0005"
+  },
+  {
+    "county": "Tulare",
+    "county_code": "107",
+    "site_name": "Sequoia & Kings Canyon NPs - Lower Kaweah",
+    "site_code": "0006"
+  },
+  {
+    "county": "Tulare",
+    "county_code": "107",
+    "site_name": "Sequoia & Kings Canyon NPs - Grant Grove",
+    "site_code": "0007"
+  },
+  {
+    "county": "Tulare",
+    "county_code": "107",
+    "site_name": "Sequoia NP-Lookout Point Ranger Station",
+    "site_code": "0008"
+  },
+  {
+    "county": "Tulare",
+    "county_code": "107",
+    "site_name": "Sequoia & Kings Canyon NPs - Ash Mountain",
+    "site_code": "0009"
+  },
+  {
+    "county": "Tulare",
+    "county_code": "107",
+    "site_name": "Sequoia NP-Ash Mountain",
+    "site_code": "1001"
+  },
+  {
+    "county": "Tulare",
+    "county_code": "107",
+    "site_name": null,
+    "site_code": "1002"
+  },
+  {
+    "county": "Tulare",
+    "county_code": "107",
+    "site_name": "Sequoia NP-Generals HWY",
+    "site_code": "1003"
+  },
+  {
+    "county": "Tulare",
+    "county_code": "107",
+    "site_name": null,
+    "site_code": "2001"
+  },
+  {
+    "county": "Tulare",
+    "county_code": "107",
+    "site_name": "Visalia-Church",
+    "site_code": "2002"
+  },
+  {
+    "county": "Tulare",
+    "county_code": "107",
+    "site_name": "Porterville",
+    "site_code": "2010"
+  },
+  {
+    "county": "Tulare",
+    "county_code": "107",
+    "site_name": "Visalia-Airport",
+    "site_code": "3000"
+  },
+  {
+    "county": "Tulare",
+    "county_code": "107",
+    "site_name": null,
+    "site_code": "3001"
+  },
+  {
+    "county": "Tulare",
+    "county_code": "107",
+    "site_name": null,
+    "site_code": "4001"
+  },
+  {
+    "county": "Tuolumne",
+    "county_code": "109",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Tuolumne",
+    "county_code": "109",
+    "site_name": null,
+    "site_code": "0002"
+  },
+  {
+    "county": "Tuolumne",
+    "county_code": "109",
+    "site_name": null,
+    "site_code": "0003"
+  },
+  {
+    "county": "Tuolumne",
+    "county_code": "109",
+    "site_name": "Yosemite NP - Camp Mather",
+    "site_code": "0004"
+  },
+  {
+    "county": "Tuolumne",
+    "county_code": "109",
+    "site_name": "Sonora-Barretta Street",
+    "site_code": "0005"
+  },
+  {
+    "county": "Tuolumne",
+    "county_code": "109",
+    "site_name": "TRANSPORT STUDY - MOUNTAIN TERRAIN, VERY MINIMAL TRAFFIC.",
+    "site_code": "0006"
+  },
+  {
+    "county": "Tuolumne",
+    "county_code": "109",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": null,
+    "site_code": "0002"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": null,
+    "site_code": "0003"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": null,
+    "site_code": "0004"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": null,
+    "site_code": "0005"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": null,
+    "site_code": "0006"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": "Thousand Oaks",
+    "site_code": "0007"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": "SITE IN SIMI VALLEY LANDFILL. NEAREST TRAFFIC HWY 118, SO, 1/2 MI.",
+    "site_code": "0008"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": "Piru - Pacific",
+    "site_code": "0009"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": null,
+    "site_code": "0010"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": null,
+    "site_code": "1002"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": null,
+    "site_code": "1003"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": "Ojai - East Ojai Ave",
+    "site_code": "1004"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": null,
+    "site_code": "1101"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": null,
+    "site_code": "2001"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": "Simi Valley-Cochran Street",
+    "site_code": "2002"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": null,
+    "site_code": "2003"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": "El Rio-Rio Mesa School #2",
+    "site_code": "3001"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": null,
+    "site_code": "3002"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": null,
+    "site_code": "3003"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": null,
+    "site_code": "4001"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": null,
+    "site_code": "4002"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": null,
+    "site_code": "5001"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": null,
+    "site_code": "6001"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": null,
+    "site_code": "7001"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": null,
+    "site_code": "8001"
+  },
+  {
+    "county": "Ventura",
+    "county_code": "111",
+    "site_name": null,
+    "site_code": "9001"
+  },
+  {
+    "county": "Yolo",
+    "county_code": "113",
+    "site_name": null,
+    "site_code": "0001"
+  },
+  {
+    "county": "Yolo",
+    "county_code": "113",
+    "site_name": null,
+    "site_code": "0002"
+  },
+  {
+    "county": "Yolo",
+    "county_code": "113",
+    "site_name": "Davis-Golf Course",
+    "site_code": "0003"
+  },
+  {
+    "county": "Yolo",
+    "county_code": "113",
+    "site_name": "Davis-UCD Campus",
+    "site_code": "0004"
+  },
+  {
+    "county": "Yolo",
+    "county_code": "113",
+    "site_name": "Woodland-Sutter St.",
+    "site_code": "0005"
+  },
+  {
+    "county": "Yolo",
+    "county_code": "113",
+    "site_name": "Davis-Russel Blvd",
+    "site_code": "0006"
+  },
+  {
+    "county": "Yolo",
+    "county_code": "113",
+    "site_name": null,
+    "site_code": "1001"
+  },
+  {
+    "county": "Yolo",
+    "county_code": "113",
+    "site_name": null,
+    "site_code": "1002"
+  },
+  {
+    "county": "Yolo",
+    "county_code": "113",
+    "site_name": "Woodland-Gibson Road",
+    "site_code": "1003"
+  },
+  {
+    "county": "Yolo",
+    "county_code": "113",
+    "site_name": "West Sacramento-15th Street",
+    "site_code": "2001"
+  },
+  {
+    "county": "Yolo",
+    "county_code": "113",
+    "site_name": null,
+    "site_code": "3001"
+  },
+  {
+    "county": "Yolo",
+    "county_code": "113",
+    "site_name": null,
+    "site_code": "4001"
+  },
+  {
+    "county": "Yuba",
+    "county_code": "115",
+    "site_name": null,
+    "site_code": "0002"
+  },
+  {
+    "county": "Yuba",
+    "county_code": "115",
+    "site_name": null,
+    "site_code": "1001"
+  }
+]

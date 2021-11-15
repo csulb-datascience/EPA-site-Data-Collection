@@ -1,0 +1,92 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:25:40-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/parametersByClass?email=david.eaton@student.csulb.edu&key=orangeswift34&pc=UATMP%20CARBONYL",
+      "rows": 20
+    }
+  ],
+  "Data": [
+    {
+      "code": "43329",
+      "value_represented": "Butyraldehyde & isobutyraldehyde"
+    },
+    {
+      "code": "43502",
+      "value_represented": "Formaldehyde"
+    },
+    {
+      "code": "43503",
+      "value_represented": "Acetaldehyde"
+    },
+    {
+      "code": "43504",
+      "value_represented": "Propionaldehyde"
+    },
+    {
+      "code": "43505",
+      "value_represented": "Acrolein - Unverified"
+    },
+    {
+      "code": "43509",
+      "value_represented": "Acrolein - Verified"
+    },
+    {
+      "code": "43510",
+      "value_represented": "Butyraldehyde"
+    },
+    {
+      "code": "43513",
+      "value_represented": "Isovaleraldehyde"
+    },
+    {
+      "code": "43516",
+      "value_represented": "Trans-Crotonaldehyde"
+    },
+    {
+      "code": "43517",
+      "value_represented": "Hexanaldehyde"
+    },
+    {
+      "code": "43518",
+      "value_represented": "Valeraldehyde"
+    },
+    {
+      "code": "43528",
+      "value_represented": "Crotonaldehyde"
+    },
+    {
+      "code": "43551",
+      "value_represented": "Acetone"
+    },
+    {
+      "code": "43552",
+      "value_represented": "Methyl ethyl ketone"
+    },
+    {
+      "code": "45501",
+      "value_represented": "Benzaldehyde"
+    },
+    {
+      "code": "45503",
+      "value_represented": "2,5-Dimethylbenzaldehyde"
+    },
+    {
+      "code": "45504",
+      "value_represented": "Tolualdehydes"
+    },
+    {
+      "code": "45505",
+      "value_represented": "o-Tolualdehyde"
+    },
+    {
+      "code": "45507",
+      "value_represented": "p-Tolualdehyde"
+    },
+    {
+      "code": "45508",
+      "value_represented": "m-Tolualdehyde"
+    }
+  ]
+}

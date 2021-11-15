@@ -1,0 +1,28 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:11-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=049",
+      "rows": 4
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": "Alturas-Fourth St."
+    },
+    {
+      "code": "0002",
+      "value_represented": null
+    },
+    {
+      "code": "0003",
+      "value_represented": "Alturas-Main St."
+    },
+    {
+      "code": "1001",
+      "value_represented": null
+    }
+  ]
+}

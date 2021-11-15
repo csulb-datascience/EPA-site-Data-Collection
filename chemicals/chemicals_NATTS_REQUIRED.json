@@ -1,0 +1,132 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:25:36-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/parametersByClass?email=david.eaton@student.csulb.edu&key=orangeswift34&pc=NATTS%20REQUIRED",
+      "rows": 30
+    }
+  ],
+  "Data": [
+    {
+      "code": "12115",
+      "value_represented": "Chromium VI (TSP) STP"
+    },
+    {
+      "code": "17141",
+      "value_represented": "Naphthalene (TSP) STP"
+    },
+    {
+      "code": "17242",
+      "value_represented": "Benzo[a]pyrene (TSP) STP"
+    },
+    {
+      "code": "43218",
+      "value_represented": "1,3-Butadiene"
+    },
+    {
+      "code": "43502",
+      "value_represented": "Formaldehyde"
+    },
+    {
+      "code": "43503",
+      "value_represented": "Acetaldehyde"
+    },
+    {
+      "code": "43505",
+      "value_represented": "Acrolein - Unverified"
+    },
+    {
+      "code": "43509",
+      "value_represented": "Acrolein - Verified"
+    },
+    {
+      "code": "43803",
+      "value_represented": "Chloroform"
+    },
+    {
+      "code": "43804",
+      "value_represented": "Carbon tetrachloride"
+    },
+    {
+      "code": "43817",
+      "value_represented": "Tetrachloroethylene"
+    },
+    {
+      "code": "43824",
+      "value_represented": "Trichloroethylene"
+    },
+    {
+      "code": "43860",
+      "value_represented": "Vinyl chloride"
+    },
+    {
+      "code": "45201",
+      "value_represented": "Benzene"
+    },
+    {
+      "code": "82103",
+      "value_represented": "Arsenic PM10 STP"
+    },
+    {
+      "code": "82105",
+      "value_represented": "Beryllium PM10 STP"
+    },
+    {
+      "code": "82110",
+      "value_represented": "Cadmium PM10 STP"
+    },
+    {
+      "code": "82128",
+      "value_represented": "Lead PM10 STP"
+    },
+    {
+      "code": "82132",
+      "value_represented": "Manganese PM10 STP"
+    },
+    {
+      "code": "82136",
+      "value_represented": "Nickel PM10 STP"
+    },
+    {
+      "code": "85102",
+      "value_represented": "Antimony PM10 LC"
+    },
+    {
+      "code": "85103",
+      "value_represented": "Arsenic PM10 LC"
+    },
+    {
+      "code": "85105",
+      "value_represented": "Beryllium PM10 LC"
+    },
+    {
+      "code": "85110",
+      "value_represented": "Cadmium PM10 LC"
+    },
+    {
+      "code": "85113",
+      "value_represented": "Cobalt PM10 LC"
+    },
+    {
+      "code": "85128",
+      "value_represented": "Lead PM10 LC"
+    },
+    {
+      "code": "85132",
+      "value_represented": "Manganese PM10 LC"
+    },
+    {
+      "code": "85136",
+      "value_represented": "Nickel PM10 LC"
+    },
+    {
+      "code": "85142",
+      "value_represented": "Mercury PM10 LC"
+    },
+    {
+      "code": "85154",
+      "value_represented": "Selenium PM10 LC"
+    }
+  ]
+}

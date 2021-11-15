@@ -1,0 +1,60 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:07-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=031",
+      "rows": 12
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": null
+    },
+    {
+      "code": "0002",
+      "value_represented": null
+    },
+    {
+      "code": "0003",
+      "value_represented": "Corcoran-Van Dorsten Ave"
+    },
+    {
+      "code": "0004",
+      "value_represented": "Corcoran-Patterson"
+    },
+    {
+      "code": "0100",
+      "value_represented": "AGRICULTURAL SITE APPROX 150 YDS FROM INTERSECTION ARB SITE #16-718"
+    },
+    {
+      "code": "0500",
+      "value_represented": "Santa Rosa Rancheria"
+    },
+    {
+      "code": "1001",
+      "value_represented": "Hanford-Lacy Blvd"
+    },
+    {
+      "code": "1002",
+      "value_represented": "Kettleman City-Brown Ave"
+    },
+    {
+      "code": "1003",
+      "value_represented": "Kettleman City-Caltrans"
+    },
+    {
+      "code": "1004",
+      "value_represented": "Hanford-Irwin"
+    },
+    {
+      "code": "1007",
+      "value_represented": "Hanford- Weather Station"
+    },
+    {
+      "code": "2001",
+      "value_represented": null
+    }
+  ]
+}

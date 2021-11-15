@@ -1,0 +1,44 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:18-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=081",
+      "rows": 8
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": "Burlingame-Bayshore Ave."
+    },
+    {
+      "code": "0002",
+      "value_represented": "Burlingame-Burlingame Ave."
+    },
+    {
+      "code": "1001",
+      "value_represented": "Redwood City"
+    },
+    {
+      "code": "2001",
+      "value_represented": null
+    },
+    {
+      "code": "2002",
+      "value_represented": "San Carlos Airport"
+    },
+    {
+      "code": "2003",
+      "value_represented": "Twin Dolphin"
+    },
+    {
+      "code": "2004",
+      "value_represented": "San Carlos Airport II"
+    },
+    {
+      "code": "6001",
+      "value_represented": "San Carlos"
+    }
+  ]
+}

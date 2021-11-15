@@ -1,0 +1,160 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:25:35-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/parametersByClass?email=david.eaton@student.csulb.edu&key=orangeswift34&pc=MET",
+      "rows": 37
+    }
+  ],
+  "Data": [
+    {
+      "code": "61101",
+      "value_represented": "Wind Speed - Scalar"
+    },
+    {
+      "code": "61102",
+      "value_represented": "Wind Direction - Scalar"
+    },
+    {
+      "code": "61103",
+      "value_represented": "Wind Speed - Resultant"
+    },
+    {
+      "code": "61104",
+      "value_represented": "Wind Direction - Resultant"
+    },
+    {
+      "code": "61105",
+      "value_represented": "Peak Wind Gust"
+    },
+    {
+      "code": "61106",
+      "value_represented": "Std Dev Hz Wind Direction"
+    },
+    {
+      "code": "61107",
+      "value_represented": "Std Dev Vt Wind Direction"
+    },
+    {
+      "code": "61109",
+      "value_represented": "Vertical Wind Speed"
+    },
+    {
+      "code": "61110",
+      "value_represented": "Std Dev Vt Wind Speed"
+    },
+    {
+      "code": "61111",
+      "value_represented": "Std Dev Hz Wind Speed"
+    },
+    {
+      "code": "61112",
+      "value_represented": "Vert Wind Direction"
+    },
+    {
+      "code": "61120",
+      "value_represented": "Atmospheric Stability"
+    },
+    {
+      "code": "61202",
+      "value_represented": "Lapse Rate"
+    },
+    {
+      "code": "61301",
+      "value_represented": "Mixing Height"
+    },
+    {
+      "code": "61302",
+      "value_represented": "Mixing Speed"
+    },
+    {
+      "code": "62101",
+      "value_represented": "Outdoor Temperature"
+    },
+    {
+      "code": "62102",
+      "value_represented": "Virtual Temperature"
+    },
+    {
+      "code": "62103",
+      "value_represented": "Dew Point"
+    },
+    {
+      "code": "62104",
+      "value_represented": "Temperature 24-Hr Max"
+    },
+    {
+      "code": "62105",
+      "value_represented": "Temperature 24-Hr Min"
+    },
+    {
+      "code": "62106",
+      "value_represented": "Temperature Difference"
+    },
+    {
+      "code": "62108",
+      "value_represented": "Soil Temperature"
+    },
+    {
+      "code": "62201",
+      "value_represented": "Relative Humidity "
+    },
+    {
+      "code": "62604",
+      "value_represented": "Ammonia (precip)"
+    },
+    {
+      "code": "63101",
+      "value_represented": "Visibility"
+    },
+    {
+      "code": "63301",
+      "value_represented": "Solar radiation"
+    },
+    {
+      "code": "63302",
+      "value_represented": "Ultraviolet radiation"
+    },
+    {
+      "code": "63303",
+      "value_represented": "Infrared Radiation"
+    },
+    {
+      "code": "63304",
+      "value_represented": "Ultraviolet radiation (type B)"
+    },
+    {
+      "code": "63305",
+      "value_represented": "Net radiation"
+    },
+    {
+      "code": "64101",
+      "value_represented": "Barometric pressure"
+    },
+    {
+      "code": "65101",
+      "value_represented": "Rain 24hr total"
+    },
+    {
+      "code": "65102",
+      "value_represented": "Rain/melt precipitation"
+    },
+    {
+      "code": "65103",
+      "value_represented": "EVAPORATION"
+    },
+    {
+      "code": "66101",
+      "value_represented": "Cloud cover"
+    },
+    {
+      "code": "68105",
+      "value_represented": "Average Ambient Temperature"
+    },
+    {
+      "code": "68108",
+      "value_represented": "Average Ambient Pressure"
+    }
+  ]
+}

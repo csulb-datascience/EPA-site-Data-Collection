@@ -1,0 +1,44 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:03-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=015",
+      "rows": 8
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": "Crescent City"
+    },
+    {
+      "code": "0002",
+      "value_represented": "Redwood NP"
+    },
+    {
+      "code": "0003",
+      "value_represented": "Gasquet"
+    },
+    {
+      "code": "0004",
+      "value_represented": "4 BLKS NO OF OLD SITE/MAJOR INFLUENCES-TRAFFIC,WOOD HEATING,SEA SALT"
+    },
+    {
+      "code": "0005",
+      "value_represented": "OPEN AREA NEXT TO FOREST, AT GASQUEST RANGER DISTRICT OFFICE"
+    },
+    {
+      "code": "0006",
+      "value_represented": "CRESCENT CITY-NORTHCREST"
+    },
+    {
+      "code": "0007",
+      "value_represented": "Crescent City-Crescent Elk School"
+    },
+    {
+      "code": "2003",
+      "value_represented": "Klamath Glen E-BAM"
+    }
+  ]
+}

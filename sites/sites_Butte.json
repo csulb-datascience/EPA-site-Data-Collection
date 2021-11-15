@@ -1,0 +1,64 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:02-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=007",
+      "rows": 13
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": "Chico-Oleander Ave."
+    },
+    {
+      "code": "0002",
+      "value_represented": "Chico-Manzanita Ave."
+    },
+    {
+      "code": "0003",
+      "value_represented": "Chico-Holt Hall, CSU Chico"
+    },
+    {
+      "code": "0004",
+      "value_represented": "GRIDLEY - 608 COWEE AVENUE"
+    },
+    {
+      "code": "0005",
+      "value_represented": "Chico-Salem St."
+    },
+    {
+      "code": "0006",
+      "value_represented": "PARADISE ROVER STUDY"
+    },
+    {
+      "code": "0007",
+      "value_represented": "Paradise - Airport"
+    },
+    {
+      "code": "0008",
+      "value_represented": "Chico-East Avenue"
+    },
+    {
+      "code": "1001",
+      "value_represented": null
+    },
+    {
+      "code": "2001",
+      "value_represented": "Paradise-Birch St."
+    },
+    {
+      "code": "2002",
+      "value_represented": "Paradise - Theater"
+    },
+    {
+      "code": "3001",
+      "value_represented": "Biggs"
+    },
+    {
+      "code": "4001",
+      "value_represented": "TRAFFIC, RURAL PAVED ROAD"
+    }
+  ]
+}

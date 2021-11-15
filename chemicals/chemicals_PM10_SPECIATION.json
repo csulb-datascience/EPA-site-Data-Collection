@@ -1,0 +1,508 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:25:37-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/parametersByClass?email=david.eaton@student.csulb.edu&key=orangeswift34&pc=PM10%20SPECIATION",
+      "rows": 124
+    }
+  ],
+  "Data": [
+    {
+      "code": "81102",
+      "value_represented": "PM10 Total 0-10um STP"
+    },
+    {
+      "code": "82101",
+      "value_represented": "Aluminum PM10 STP"
+    },
+    {
+      "code": "82102",
+      "value_represented": "Antimony PM10 STP"
+    },
+    {
+      "code": "82103",
+      "value_represented": "Arsenic PM10 STP"
+    },
+    {
+      "code": "82105",
+      "value_represented": "Beryllium PM10 STP"
+    },
+    {
+      "code": "82107",
+      "value_represented": "Barium PM10 STP"
+    },
+    {
+      "code": "82109",
+      "value_represented": "Bromide PM10 STP"
+    },
+    {
+      "code": "82110",
+      "value_represented": "Cadmium PM10 STP"
+    },
+    {
+      "code": "82111",
+      "value_represented": "Calcium PM10 STP"
+    },
+    {
+      "code": "82112",
+      "value_represented": "Chromium PM10 STP"
+    },
+    {
+      "code": "82113",
+      "value_represented": "Cobalt PM10 STP"
+    },
+    {
+      "code": "82114",
+      "value_represented": "Copper PM10 STP"
+    },
+    {
+      "code": "82115",
+      "value_represented": "Chlorine PM10 STP"
+    },
+    {
+      "code": "82116",
+      "value_represented": "Total Carbon PM10 STP"
+    },
+    {
+      "code": "82124",
+      "value_represented": "Gallium PM10 STP"
+    },
+    {
+      "code": "82126",
+      "value_represented": "Iron PM10 STP"
+    },
+    {
+      "code": "82127",
+      "value_represented": "Palladium PM10 STP"
+    },
+    {
+      "code": "82128",
+      "value_represented": "Lead PM10 STP"
+    },
+    {
+      "code": "82131",
+      "value_represented": "Indium PM10 STP"
+    },
+    {
+      "code": "82132",
+      "value_represented": "Manganese PM10 STP"
+    },
+    {
+      "code": "82134",
+      "value_represented": "Molybdenum PM10 STP "
+    },
+    {
+      "code": "82136",
+      "value_represented": "Nickel PM10 STP"
+    },
+    {
+      "code": "82140",
+      "value_represented": "Magnesium PM10 STP"
+    },
+    {
+      "code": "82142",
+      "value_represented": "Mercury PM10 STP"
+    },
+    {
+      "code": "82146",
+      "value_represented": "Lanthanum PM10 STP"
+    },
+    {
+      "code": "82151",
+      "value_represented": "Dibenz(A-H)Anthracene PM10 STP"
+    },
+    {
+      "code": "82152",
+      "value_represented": "Phosphorus PM10 STP"
+    },
+    {
+      "code": "82154",
+      "value_represented": "Selenium PM10 STP"
+    },
+    {
+      "code": "82160",
+      "value_represented": "Tin PM10 STP"
+    },
+    {
+      "code": "82161",
+      "value_represented": "Titanium PM10 STP"
+    },
+    {
+      "code": "82164",
+      "value_represented": "Vanadium PM10 STP"
+    },
+    {
+      "code": "82165",
+      "value_represented": "Silicon PM10 STP"
+    },
+    {
+      "code": "82166",
+      "value_represented": "Silver PM10 STP"
+    },
+    {
+      "code": "82167",
+      "value_represented": "Zinc PM10 STP"
+    },
+    {
+      "code": "82168",
+      "value_represented": "Strontium PM10 STP"
+    },
+    {
+      "code": "82169",
+      "value_represented": "Sulfur PM10 STP"
+    },
+    {
+      "code": "82173",
+      "value_represented": "Thallium PM10 STP"
+    },
+    {
+      "code": "82176",
+      "value_represented": "Rubidium PM10 STP"
+    },
+    {
+      "code": "82179",
+      "value_represented": "Uranium PM10 STP"
+    },
+    {
+      "code": "82180",
+      "value_represented": "Potassium PM10 STP"
+    },
+    {
+      "code": "82183",
+      "value_represented": "Yttrium PM10 STP"
+    },
+    {
+      "code": "82184",
+      "value_represented": "Sodium PM10 STP"
+    },
+    {
+      "code": "82185",
+      "value_represented": "Zirconium PM10 STP"
+    },
+    {
+      "code": "82190",
+      "value_represented": "Boron PM10 STP"
+    },
+    {
+      "code": "82202",
+      "value_represented": "Fluoride PM10 STP"
+    },
+    {
+      "code": "82203",
+      "value_represented": "Chloride PM10 STP"
+    },
+    {
+      "code": "82220",
+      "value_represented": "Benzo(b)Fluranthene PM10 STP"
+    },
+    {
+      "code": "82223",
+      "value_represented": "Benzo(k)Fluoranthene PM10 STP"
+    },
+    {
+      "code": "82237",
+      "value_represented": "Benzo(g,h,i)Perylene PM10 STP"
+    },
+    {
+      "code": "82242",
+      "value_represented": "Benzo(a)Pyrene PM10 STP"
+    },
+    {
+      "code": "82243",
+      "value_represented": "Indeno[1,2,3-cd] pyrene PM10 STP"
+    },
+    {
+      "code": "82301",
+      "value_represented": "Ammonium PM10 STP"
+    },
+    {
+      "code": "82305",
+      "value_represented": "Organic carbon PM10 STP"
+    },
+    {
+      "code": "82306",
+      "value_represented": "Nitrate PM10 STP"
+    },
+    {
+      "code": "82307",
+      "value_represented": "Elemental Carbon PM10 STP"
+    },
+    {
+      "code": "82356",
+      "value_represented": "Nitrate PM2.5 STP "
+    },
+    {
+      "code": "82403",
+      "value_represented": "Sulfate PM10 STP"
+    },
+    {
+      "code": "82453",
+      "value_represented": "Sulfate PM2.5 STP "
+    },
+    {
+      "code": "82551",
+      "value_represented": "Silica PM10 STP"
+    },
+    {
+      "code": "85101",
+      "value_represented": "PM10 - LC"
+    },
+    {
+      "code": "85102",
+      "value_represented": "Antimony PM10 LC"
+    },
+    {
+      "code": "85103",
+      "value_represented": "Arsenic PM10 LC"
+    },
+    {
+      "code": "85104",
+      "value_represented": "Aluminum PM10 LC"
+    },
+    {
+      "code": "85105",
+      "value_represented": "Beryllium PM10 LC"
+    },
+    {
+      "code": "85107",
+      "value_represented": "Barium PM10 LC"
+    },
+    {
+      "code": "85109",
+      "value_represented": "Bromine PM10 LC"
+    },
+    {
+      "code": "85110",
+      "value_represented": "Cadmium PM10 LC"
+    },
+    {
+      "code": "85111",
+      "value_represented": "Calcium PM10 LC"
+    },
+    {
+      "code": "85112",
+      "value_represented": "Chromium PM10 LC"
+    },
+    {
+      "code": "85113",
+      "value_represented": "Cobalt PM10 LC"
+    },
+    {
+      "code": "85114",
+      "value_represented": "Copper PM10 LC"
+    },
+    {
+      "code": "85115",
+      "value_represented": "Chlorine PM10 LC"
+    },
+    {
+      "code": "85117",
+      "value_represented": "Cerium Pm10 Lc"
+    },
+    {
+      "code": "85118",
+      "value_represented": "Cesium Pm10 Lc"
+    },
+    {
+      "code": "85119",
+      "value_represented": "Chromium VI PM10 LC"
+    },
+    {
+      "code": "85126",
+      "value_represented": "Iron PM10 LC"
+    },
+    {
+      "code": "85128",
+      "value_represented": "Lead PM10 LC"
+    },
+    {
+      "code": "85129",
+      "value_represented": "Lead PM10 LC FRM/FEM"
+    },
+    {
+      "code": "85131",
+      "value_represented": "Indium Pm10 Lc"
+    },
+    {
+      "code": "85132",
+      "value_represented": "Manganese PM10 LC"
+    },
+    {
+      "code": "85134",
+      "value_represented": "Molybdenum PM10 LC"
+    },
+    {
+      "code": "85136",
+      "value_represented": "Nickel PM10 LC"
+    },
+    {
+      "code": "85140",
+      "value_represented": "Magnesium PM10 LC"
+    },
+    {
+      "code": "85142",
+      "value_represented": "Mercury PM10 LC"
+    },
+    {
+      "code": "85152",
+      "value_represented": "Phosphorus PM10 LC"
+    },
+    {
+      "code": "85154",
+      "value_represented": "Selenium PM10 LC"
+    },
+    {
+      "code": "85160",
+      "value_represented": "Tin PM10 LC"
+    },
+    {
+      "code": "85161",
+      "value_represented": "Titanium PM10 LC"
+    },
+    {
+      "code": "85164",
+      "value_represented": "Vanadium PM10 LC"
+    },
+    {
+      "code": "85165",
+      "value_represented": "Silicon PM10 LC"
+    },
+    {
+      "code": "85166",
+      "value_represented": "Silver PM10 LC"
+    },
+    {
+      "code": "85167",
+      "value_represented": "Zinc PM10 LC"
+    },
+    {
+      "code": "85168",
+      "value_represented": "Strontium PM10 LC"
+    },
+    {
+      "code": "85169",
+      "value_represented": "Sulfur PM10 LC"
+    },
+    {
+      "code": "85173",
+      "value_represented": "Thallium PM10 LC"
+    },
+    {
+      "code": "85174",
+      "value_represented": "Thorium PM10 LC"
+    },
+    {
+      "code": "85176",
+      "value_represented": "Rubidium PM10 LC"
+    },
+    {
+      "code": "85179",
+      "value_represented": "Uranium PM10 LC"
+    },
+    {
+      "code": "85180",
+      "value_represented": "Potassium PM10 LC"
+    },
+    {
+      "code": "85183",
+      "value_represented": "Yttrium PM10 LC"
+    },
+    {
+      "code": "85184",
+      "value_represented": "Sodium PM10 LC"
+    },
+    {
+      "code": "85185",
+      "value_represented": "Zirconium PM10 LC"
+    },
+    {
+      "code": "85301",
+      "value_represented": "Ammonium Ion PM10 LC"
+    },
+    {
+      "code": "85302",
+      "value_represented": "Sodium Ion PM10 LC"
+    },
+    {
+      "code": "85303",
+      "value_represented": "Potassium Ion PM10 LC"
+    },
+    {
+      "code": "85306",
+      "value_represented": "Total Nitrate PM10 LC"
+    },
+    {
+      "code": "85309",
+      "value_represented": "Volatile nitrate PM10 LC"
+    },
+    {
+      "code": "85310",
+      "value_represented": "Non-volatile nitrate PC10 LC"
+    },
+    {
+      "code": "85313",
+      "value_represented": "Black Carbon PM10 LC"
+    },
+    {
+      "code": "85355",
+      "value_represented": "OC CSN_rev Unadjusted PM10 LC TOT"
+    },
+    {
+      "code": "85357",
+      "value_represented": "EC CSN_rev Unadjusted PM10 LC TOT"
+    },
+    {
+      "code": "85370",
+      "value_represented": "OC CSN_rev Unadjusted PM10 LC TOR"
+    },
+    {
+      "code": "85374",
+      "value_represented": "OC1 CSN_rev Unadjusted PM10 LC"
+    },
+    {
+      "code": "85375",
+      "value_represented": "OC2 CSN_rev Unadjusted PM10 LC"
+    },
+    {
+      "code": "85376",
+      "value_represented": "OC3 CSN_rev Unadjusted PM10 LC"
+    },
+    {
+      "code": "85377",
+      "value_represented": "OC4 CSN_rev Unadjusted PM10 LC"
+    },
+    {
+      "code": "85378",
+      "value_represented": "Op CSN_rev Unadjusted PM10 LC TOR"
+    },
+    {
+      "code": "85380",
+      "value_represented": "EC CSN_rev Unadjusted PM10 LC TOR"
+    },
+    {
+      "code": "85383",
+      "value_represented": "EC1 CSN_rev Unadjusted PM10 LC"
+    },
+    {
+      "code": "85384",
+      "value_represented": "EC2 CSN_rev Unadjusted PM10 LC"
+    },
+    {
+      "code": "85385",
+      "value_represented": "EC3 CSN_rev Unadjusted PM10 LC"
+    },
+    {
+      "code": "85388",
+      "value_represented": "Op CSN_rev Unadjusted PM10 LC TOT"
+    },
+    {
+      "code": "85403",
+      "value_represented": "Sulfate PM10 LC"
+    },
+    {
+      "code": "85551",
+      "value_represented": "Silica PM10 LC"
+    }
+  ]
+}

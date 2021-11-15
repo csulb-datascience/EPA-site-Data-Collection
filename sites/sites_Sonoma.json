@@ -1,0 +1,72 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:21-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=097",
+      "rows": 15
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": "Cloverdale"
+    },
+    {
+      "code": "0002",
+      "value_represented": "Healdsburg-Matheson"
+    },
+    {
+      "code": "0003",
+      "value_represented": "Santa Rosa - 5th St"
+    },
+    {
+      "code": "0004",
+      "value_represented": "Sebastopol"
+    },
+    {
+      "code": "1001",
+      "value_represented": null
+    },
+    {
+      "code": "1002",
+      "value_represented": "Petaluma-Payran St."
+    },
+    {
+      "code": "1003",
+      "value_represented": "Healdsburg-Municipal Airport"
+    },
+    {
+      "code": "2001",
+      "value_represented": "Petaluma-12 N. Petaluma Blvd."
+    },
+    {
+      "code": "2002",
+      "value_represented": "Santa Rosa-Humboldt St."
+    },
+    {
+      "code": "3001",
+      "value_represented": "Santa Rosa-Old Courthouse Plaza"
+    },
+    {
+      "code": "3002",
+      "value_represented": "Guerneville-Church and 1st"
+    },
+    {
+      "code": "4001",
+      "value_represented": "Sonoma"
+    },
+    {
+      "code": "5001",
+      "value_represented": null
+    },
+    {
+      "code": "6001",
+      "value_represented": "Santa Rosa"
+    },
+    {
+      "code": "6002",
+      "value_represented": "Sonoma Baylands"
+    }
+  ]
+}

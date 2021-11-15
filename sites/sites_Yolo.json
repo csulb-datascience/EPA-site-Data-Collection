@@ -1,0 +1,60 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:25-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=113",
+      "rows": 12
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": null
+    },
+    {
+      "code": "0002",
+      "value_represented": null
+    },
+    {
+      "code": "0003",
+      "value_represented": "Davis-Golf Course"
+    },
+    {
+      "code": "0004",
+      "value_represented": "Davis-UCD Campus"
+    },
+    {
+      "code": "0005",
+      "value_represented": "Woodland-Sutter St."
+    },
+    {
+      "code": "0006",
+      "value_represented": "Davis-Russel Blvd"
+    },
+    {
+      "code": "1001",
+      "value_represented": null
+    },
+    {
+      "code": "1002",
+      "value_represented": null
+    },
+    {
+      "code": "1003",
+      "value_represented": "Woodland-Gibson Road"
+    },
+    {
+      "code": "2001",
+      "value_represented": "West Sacramento-15th Street"
+    },
+    {
+      "code": "3001",
+      "value_represented": null
+    },
+    {
+      "code": "4001",
+      "value_represented": null
+    }
+  ]
+}

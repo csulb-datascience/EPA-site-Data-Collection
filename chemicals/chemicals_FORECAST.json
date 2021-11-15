@@ -1,0 +1,144 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:25:33-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/parametersByClass?email=david.eaton@student.csulb.edu&key=orangeswift34&pc=FORECAST",
+      "rows": 33
+    }
+  ],
+  "Data": [
+    {
+      "code": "12403",
+      "value_represented": "Sulfate (TSP) STP"
+    },
+    {
+      "code": "42101",
+      "value_represented": "Carbon monoxide"
+    },
+    {
+      "code": "42401",
+      "value_represented": "Sulfur dioxide"
+    },
+    {
+      "code": "42402",
+      "value_represented": "Hydrogen sulfide"
+    },
+    {
+      "code": "42600",
+      "value_represented": "Reactive oxides of nitrogen (NOy)"
+    },
+    {
+      "code": "42601",
+      "value_represented": "Nitric oxide (NO)"
+    },
+    {
+      "code": "42602",
+      "value_represented": "Nitrogen dioxide (NO2)"
+    },
+    {
+      "code": "42603",
+      "value_represented": "Oxides of nitrogen (NOx)"
+    },
+    {
+      "code": "42612",
+      "value_represented": "NOy - NO"
+    },
+    {
+      "code": "43102",
+      "value_represented": "Total NMOC (non-methane organic compound)"
+    },
+    {
+      "code": "44201",
+      "value_represented": "Ozone"
+    },
+    {
+      "code": "61101",
+      "value_represented": "Wind Speed - Scalar"
+    },
+    {
+      "code": "61102",
+      "value_represented": "Wind Direction - Scalar"
+    },
+    {
+      "code": "61103",
+      "value_represented": "Wind Speed - Resultant"
+    },
+    {
+      "code": "61104",
+      "value_represented": "Wind Direction - Resultant"
+    },
+    {
+      "code": "62101",
+      "value_represented": "Outdoor Temperature"
+    },
+    {
+      "code": "62103",
+      "value_represented": "Dew Point"
+    },
+    {
+      "code": "62201",
+      "value_represented": "Relative Humidity "
+    },
+    {
+      "code": "63301",
+      "value_represented": "Solar radiation"
+    },
+    {
+      "code": "64101",
+      "value_represented": "Barometric pressure"
+    },
+    {
+      "code": "65102",
+      "value_represented": "Rain/melt precipitation"
+    },
+    {
+      "code": "81102",
+      "value_represented": "PM10 Total 0-10um STP"
+    },
+    {
+      "code": "84313",
+      "value_represented": "Black carbon PM2.5 STP"
+    },
+    {
+      "code": "85101",
+      "value_represented": "PM10 - LC"
+    },
+    {
+      "code": "86101",
+      "value_represented": "PM10-2.5 - Local Conditions"
+    },
+    {
+      "code": "86502",
+      "value_represented": "Acceptable PM10-2.5 - Local Conditions"
+    },
+    {
+      "code": "88101",
+      "value_represented": "PM2.5 - Local Conditions"
+    },
+    {
+      "code": "88305",
+      "value_represented": "OC CSN Unadjusted PM2.5 LC TOT"
+    },
+    {
+      "code": "88307",
+      "value_represented": "EC CSN PM2.5 LC TOT"
+    },
+    {
+      "code": "88314",
+      "value_represented": "UV Carbon PM2.5 at 370 nm"
+    },
+    {
+      "code": "88500",
+      "value_represented": "PM2.5 Total Atmospheric"
+    },
+    {
+      "code": "88501",
+      "value_represented": "PM2.5 Raw Data"
+    },
+    {
+      "code": "88502",
+      "value_represented": "Acceptable PM2.5 AQI & Speciation Mass"
+    }
+  ]
+}

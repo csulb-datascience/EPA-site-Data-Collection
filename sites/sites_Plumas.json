@@ -1,0 +1,48 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:14-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=063",
+      "rows": 9
+    }
+  ],
+  "Data": [
+    {
+      "code": "0002",
+      "value_represented": null
+    },
+    {
+      "code": "1001",
+      "value_represented": null
+    },
+    {
+      "code": "1003",
+      "value_represented": null
+    },
+    {
+      "code": "1004",
+      "value_represented": "Quincy-W Main St."
+    },
+    {
+      "code": "1006",
+      "value_represented": "Quincy-N Church Street"
+    },
+    {
+      "code": "1007",
+      "value_represented": "Chester-222 First Ave"
+    },
+    {
+      "code": "1008",
+      "value_represented": "MONITOR ON TOP OF PRIMETIME PIZZA BUSINESS"
+    },
+    {
+      "code": "1009",
+      "value_represented": "Portola-161 Nevada Street"
+    },
+    {
+      "code": "1010",
+      "value_represented": "Portola"
+    }
+  ]
+}

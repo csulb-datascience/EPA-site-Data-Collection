@@ -1,0 +1,24 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:25:31-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/parametersByClass?email=david.eaton@student.csulb.edu&key=orangeswift34&pc=AIRNOW%20MAPS",
+      "rows": 3
+    }
+  ],
+  "Data": [
+    {
+      "code": "44201",
+      "value_represented": "Ozone"
+    },
+    {
+      "code": "88101",
+      "value_represented": "PM2.5 - Local Conditions"
+    },
+    {
+      "code": "88502",
+      "value_represented": "Acceptable PM2.5 AQI & Speciation Mass"
+    }
+  ]
+}

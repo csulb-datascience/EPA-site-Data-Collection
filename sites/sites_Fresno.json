@@ -1,0 +1,136 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:04-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=019",
+      "rows": 31
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": null
+    },
+    {
+      "code": "0002",
+      "value_represented": "Huron"
+    },
+    {
+      "code": "0003",
+      "value_represented": null
+    },
+    {
+      "code": "0004",
+      "value_represented": null
+    },
+    {
+      "code": "0005",
+      "value_represented": "Fresno-Olive St."
+    },
+    {
+      "code": "0006",
+      "value_represented": "Fresno-Herndon"
+    },
+    {
+      "code": "0007",
+      "value_represented": "Fresno-Drummond"
+    },
+    {
+      "code": "0008",
+      "value_represented": "3425 N FIRST ST, FRESNO"
+    },
+    {
+      "code": "0009",
+      "value_represented": "FORMERLY FRESNO-OLIVE - LOCATED AT OLIVE AND FISHER STREETS"
+    },
+    {
+      "code": "0010",
+      "value_represented": "SHAVER LAKE SUMMMER OZONE SITE"
+    },
+    {
+      "code": "0011",
+      "value_represented": "Fresno - Garland"
+    },
+    {
+      "code": "0239",
+      "value_represented": null
+    },
+    {
+      "code": "0240",
+      "value_represented": null
+    },
+    {
+      "code": "0241",
+      "value_represented": "Fresno-Cal State#2"
+    },
+    {
+      "code": "0242",
+      "value_represented": "Fresno-Sky Park"
+    },
+    {
+      "code": "0243",
+      "value_represented": null
+    },
+    {
+      "code": "0244",
+      "value_represented": null
+    },
+    {
+      "code": "0500",
+      "value_represented": "Table Mountain Air Monitoring Site"
+    },
+    {
+      "code": "1001",
+      "value_represented": null
+    },
+    {
+      "code": "1002",
+      "value_represented": "Five Points"
+    },
+    {
+      "code": "1003",
+      "value_represented": null
+    },
+    {
+      "code": "2001",
+      "value_represented": null
+    },
+    {
+      "code": "2008",
+      "value_represented": "Huron"
+    },
+    {
+      "code": "2009",
+      "value_represented": "Tranquillity"
+    },
+    {
+      "code": "2016",
+      "value_represented": "Fresno-Foundry"
+    },
+    {
+      "code": "3001",
+      "value_represented": null
+    },
+    {
+      "code": "3002",
+      "value_represented": "PARLIER"
+    },
+    {
+      "code": "4001",
+      "value_represented": "Parlier"
+    },
+    {
+      "code": "5001",
+      "value_represented": "Clovis-Villa"
+    },
+    {
+      "code": "5025",
+      "value_represented": "Fresno-Pacific"
+    },
+    {
+      "code": "9000",
+      "value_represented": "Kaiser Wilderness"
+    }
+  ]
+}

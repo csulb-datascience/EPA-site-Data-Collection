@@ -1,0 +1,72 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:11-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=051",
+      "rows": 15
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": "Mammoth"
+    },
+    {
+      "code": "0002",
+      "value_represented": null
+    },
+    {
+      "code": "0003",
+      "value_represented": null
+    },
+    {
+      "code": "0004",
+      "value_represented": null
+    },
+    {
+      "code": "0005",
+      "value_represented": "Lee Vining"
+    },
+    {
+      "code": "0006",
+      "value_represented": null
+    },
+    {
+      "code": "0007",
+      "value_represented": "Simis Ranch"
+    },
+    {
+      "code": "0008",
+      "value_represented": null
+    },
+    {
+      "code": "0009",
+      "value_represented": "Mono Lake-East Shore"
+    },
+    {
+      "code": "0010",
+      "value_represented": "PLES-HWY 395"
+    },
+    {
+      "code": "0011",
+      "value_represented": "Mono Shore"
+    },
+    {
+      "code": "0012",
+      "value_represented": "Meadowlark Farm"
+    },
+    {
+      "code": "1001",
+      "value_represented": null
+    },
+    {
+      "code": "1002",
+      "value_represented": null
+    },
+    {
+      "code": "9000",
+      "value_represented": "Hoover Wilderness"
+    }
+  ]
+}

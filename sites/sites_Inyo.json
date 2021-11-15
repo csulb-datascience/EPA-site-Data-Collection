@@ -1,0 +1,176 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:06-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=027",
+      "rows": 41
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": null
+    },
+    {
+      "code": "0002",
+      "value_represented": "White Mountain Research Center - Owens Valley Lab"
+    },
+    {
+      "code": "0003",
+      "value_represented": "Darwin-4th Avenue"
+    },
+    {
+      "code": "0004",
+      "value_represented": "Lone Pine PM"
+    },
+    {
+      "code": "0005",
+      "value_represented": "Independnece-DWP#77"
+    },
+    {
+      "code": "0006",
+      "value_represented": null
+    },
+    {
+      "code": "0007",
+      "value_represented": null
+    },
+    {
+      "code": "0008",
+      "value_represented": null
+    },
+    {
+      "code": "0009",
+      "value_represented": null
+    },
+    {
+      "code": "0010",
+      "value_represented": null
+    },
+    {
+      "code": "0011",
+      "value_represented": "Big Pine-Steward's Ranch"
+    },
+    {
+      "code": "0012",
+      "value_represented": "Olancha-Post Office"
+    },
+    {
+      "code": "0014",
+      "value_represented": "Bishop-125 S. Main St."
+    },
+    {
+      "code": "0015",
+      "value_represented": "Bishop-157 Short Street"
+    },
+    {
+      "code": "0016",
+      "value_represented": "Olancha-661 Fall Road"
+    },
+    {
+      "code": "0017",
+      "value_represented": "Bishop-351 N. Main St."
+    },
+    {
+      "code": "0018",
+      "value_represented": "LOCATED BEHIND RESIDENCE ABOUT 100 METERS FROM PEARSON ROAD."
+    },
+    {
+      "code": "0019",
+      "value_represented": "Lone Pine MET"
+    },
+    {
+      "code": "0020",
+      "value_represented": "Coso Gate"
+    },
+    {
+      "code": "0021",
+      "value_represented": "Olancha"
+    },
+    {
+      "code": "0022",
+      "value_represented": "Dirty Socks"
+    },
+    {
+      "code": "0023",
+      "value_represented": "Olancha-Well 404"
+    },
+    {
+      "code": "0024",
+      "value_represented": "Flat Rock"
+    },
+    {
+      "code": "0025",
+      "value_represented": "Shell Cut"
+    },
+    {
+      "code": "0026",
+      "value_represented": "Bill Stanley"
+    },
+    {
+      "code": "0027",
+      "value_represented": "Laws-Joe Smith Road"
+    },
+    {
+      "code": "0028",
+      "value_represented": "Lizard Tail"
+    },
+    {
+      "code": "0029",
+      "value_represented": "North Beach"
+    },
+    {
+      "code": "0030",
+      "value_represented": "Mill Site"
+    },
+    {
+      "code": "0031",
+      "value_represented": "Lone Pine"
+    },
+    {
+      "code": "0101",
+      "value_represented": "Death Valley NP - Park Village"
+    },
+    {
+      "code": "1001",
+      "value_represented": "Coso Junction"
+    },
+    {
+      "code": "1002",
+      "value_represented": null
+    },
+    {
+      "code": "1003",
+      "value_represented": "Keeler"
+    },
+    {
+      "code": "1004",
+      "value_represented": null
+    },
+    {
+      "code": "1014",
+      "value_represented": null
+    },
+    {
+      "code": "1018",
+      "value_represented": "Lone Pine Paiute-Shoshone Reservation"
+    },
+    {
+      "code": "1023",
+      "value_represented": "Bishop Tribe EMO"
+    },
+    {
+      "code": "1028",
+      "value_represented": "Fort Independence Indian Community"
+    },
+    {
+      "code": "1033",
+      "value_represented": "Stn.1 Big Pine Paiute site"
+    },
+    {
+      "code": "2000",
+      "value_represented": "Big Pine Paiute Stn. 2"
+    }
+  ]
+}

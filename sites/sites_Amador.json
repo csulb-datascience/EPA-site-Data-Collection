@@ -1,0 +1,28 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:01-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=005",
+      "rows": 4
+    }
+  ],
+  "Data": [
+    {
+      "code": "0002",
+      "value_represented": "Jackson-Clinton Road"
+    },
+    {
+      "code": "0010",
+      "value_represented": "Jackson-Buena Vista Rd."
+    },
+    {
+      "code": "0011",
+      "value_represented": "Jackson-5730 Buena Vista Rd."
+    },
+    {
+      "code": "1033",
+      "value_represented": "Kirkwood"
+    }
+  ]
+}

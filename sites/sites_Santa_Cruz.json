@@ -1,0 +1,72 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:19-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=087",
+      "rows": 15
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": null
+    },
+    {
+      "code": "0002",
+      "value_represented": "Santa Cruz-Frederick St."
+    },
+    {
+      "code": "0003",
+      "value_represented": "Davenport"
+    },
+    {
+      "code": "0004",
+      "value_represented": "Watsonville Airport"
+    },
+    {
+      "code": "0005",
+      "value_represented": "Scotts Valley-Vine Hill"
+    },
+    {
+      "code": "0006",
+      "value_represented": "Scotts Valley-4"
+    },
+    {
+      "code": "0007",
+      "value_represented": "Santa Cruz"
+    },
+    {
+      "code": "0008",
+      "value_represented": "MET. SITE ONLY"
+    },
+    {
+      "code": "1001",
+      "value_represented": "Santa Cruz-Bostwick Ln."
+    },
+    {
+      "code": "1002",
+      "value_represented": null
+    },
+    {
+      "code": "1003",
+      "value_represented": "Scotts Valley High School"
+    },
+    {
+      "code": "1004",
+      "value_represented": "Felton"
+    },
+    {
+      "code": "1005",
+      "value_represented": "San Lorenzo Valley Middle School"
+    },
+    {
+      "code": "2001",
+      "value_represented": null
+    },
+    {
+      "code": "4001",
+      "value_represented": null
+    }
+  ]
+}

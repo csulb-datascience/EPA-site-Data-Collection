@@ -1,0 +1,28 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:25:38-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/parametersByClass?email=david.eaton@student.csulb.edu&key=orangeswift34&pc=PM2.5%20CONT%20NONREF",
+      "rows": 4
+    }
+  ],
+  "Data": [
+    {
+      "code": "88500",
+      "value_represented": "PM2.5 Total Atmospheric"
+    },
+    {
+      "code": "88501",
+      "value_represented": "PM2.5 Raw Data"
+    },
+    {
+      "code": "88502",
+      "value_represented": "Acceptable PM2.5 AQI & Speciation Mass"
+    },
+    {
+      "code": "88503",
+      "value_represented": "PM2.5 Volatile Channel"
+    }
+  ]
+}

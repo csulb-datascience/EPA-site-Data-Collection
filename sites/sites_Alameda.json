@@ -1,0 +1,132 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:00-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=001",
+      "rows": 30
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": "Berkeley"
+    },
+    {
+      "code": "0002",
+      "value_represented": "Fremont-Union St."
+    },
+    {
+      "code": "0003",
+      "value_represented": "Livermore - Old 1st St."
+    },
+    {
+      "code": "0004",
+      "value_represented": "Oakland-Jackson St."
+    },
+    {
+      "code": "0005",
+      "value_represented": "Oakland - Alice"
+    },
+    {
+      "code": "0006",
+      "value_represented": "San Leandro"
+    },
+    {
+      "code": "0007",
+      "value_represented": "Livermore"
+    },
+    {
+      "code": "0008",
+      "value_represented": "Oakland - Filbert St."
+    },
+    {
+      "code": "0009",
+      "value_represented": "Oakland"
+    },
+    {
+      "code": "0010",
+      "value_represented": "Oakland-International Blvd."
+    },
+    {
+      "code": "0011",
+      "value_represented": "Oakland West"
+    },
+    {
+      "code": "0012",
+      "value_represented": "Laney College"
+    },
+    {
+      "code": "0013",
+      "value_represented": "Berkeley Aquatic Park"
+    },
+    {
+      "code": "0015",
+      "value_represented": "Pleasanton - Owens Ct"
+    },
+    {
+      "code": "1001",
+      "value_represented": "Fremont - Chapel Way"
+    },
+    {
+      "code": "1002",
+      "value_represented": "Livermore - Railroad Ave."
+    },
+    {
+      "code": "1003",
+      "value_represented": "Oakland-17th St."
+    },
+    {
+      "code": "2001",
+      "value_represented": "Hayward"
+    },
+    {
+      "code": "2002",
+      "value_represented": null
+    },
+    {
+      "code": "2003",
+      "value_represented": "Piedmont"
+    },
+    {
+      "code": "2004",
+      "value_represented": "Berkeley"
+    },
+    {
+      "code": "2005",
+      "value_represented": "Patterson Pass"
+    },
+    {
+      "code": "3001",
+      "value_represented": null
+    },
+    {
+      "code": "4001",
+      "value_represented": "Oakland-City HQ"
+    },
+    {
+      "code": "5001",
+      "value_represented": "San Leandro-Thornton Ave."
+    },
+    {
+      "code": "5002",
+      "value_represented": "ROOF OF THE UC BERKELEY SPACE SCIENCE BUILDING"
+    },
+    {
+      "code": "6001",
+      "value_represented": "Chabot"
+    },
+    {
+      "code": "6002",
+      "value_represented": "Sunol"
+    },
+    {
+      "code": "6003",
+      "value_represented": "Pleasanton"
+    },
+    {
+      "code": "6004",
+      "value_represented": "Patterson Pass"
+    }
+  ]
+}

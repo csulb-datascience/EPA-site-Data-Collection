@@ -1,0 +1,484 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:25:39-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/parametersByClass?email=david.eaton@student.csulb.edu&key=orangeswift34&pc=SPECIATION",
+      "rows": 118
+    }
+  ],
+  "Data": [
+    {
+      "code": "63102",
+      "value_represented": "Light Absorption Coeffiecient"
+    },
+    {
+      "code": "68101",
+      "value_represented": "Sample Flow Rate- CV"
+    },
+    {
+      "code": "68102",
+      "value_represented": "Sample Volume"
+    },
+    {
+      "code": "68103",
+      "value_represented": "Ambient Min Temperature"
+    },
+    {
+      "code": "68104",
+      "value_represented": "Ambient Max Temperature"
+    },
+    {
+      "code": "68105",
+      "value_represented": "Average Ambient Temperature"
+    },
+    {
+      "code": "68106",
+      "value_represented": "Sample Min Baro Pressure"
+    },
+    {
+      "code": "68107",
+      "value_represented": "Sample Max Baro Pressure"
+    },
+    {
+      "code": "68108",
+      "value_represented": "Average Ambient Pressure"
+    },
+    {
+      "code": "68111",
+      "value_represented": "Sample Flow Rate CV - Teflon Filter"
+    },
+    {
+      "code": "68112",
+      "value_represented": "Sample Flow Rate CV - Nylon Filter"
+    },
+    {
+      "code": "68113",
+      "value_represented": "Sample Flow Rate CV - Quartz Filter"
+    },
+    {
+      "code": "68114",
+      "value_represented": "Sample Volume - Teflon Filter"
+    },
+    {
+      "code": "68115",
+      "value_represented": "Sample Volume - Nylon Filter"
+    },
+    {
+      "code": "68116",
+      "value_represented": "Sample Volume - Quartz Filter"
+    },
+    {
+      "code": "68117",
+      "value_represented": "Average Ambient Temperature for URG3000N"
+    },
+    {
+      "code": "68118",
+      "value_represented": "Average Ambient Pressure for URG3000N"
+    },
+    {
+      "code": "88101",
+      "value_represented": "PM2.5 - Local Conditions"
+    },
+    {
+      "code": "88102",
+      "value_represented": "Antimony PM2.5 LC"
+    },
+    {
+      "code": "88103",
+      "value_represented": "Arsenic PM2.5 LC"
+    },
+    {
+      "code": "88104",
+      "value_represented": "Aluminum PM2.5 LC"
+    },
+    {
+      "code": "88105",
+      "value_represented": "Beryllium PM2.5 LC"
+    },
+    {
+      "code": "88107",
+      "value_represented": "Barium PM2.5 LC"
+    },
+    {
+      "code": "88109",
+      "value_represented": "Bromine PM2.5 LC"
+    },
+    {
+      "code": "88110",
+      "value_represented": "Cadmium PM2.5 LC"
+    },
+    {
+      "code": "88111",
+      "value_represented": "Calcium PM2.5 LC"
+    },
+    {
+      "code": "88112",
+      "value_represented": "Chromium PM2.5 LC"
+    },
+    {
+      "code": "88113",
+      "value_represented": "Cobalt PM2.5 LC"
+    },
+    {
+      "code": "88114",
+      "value_represented": "Copper PM2.5 LC"
+    },
+    {
+      "code": "88115",
+      "value_represented": "Chlorine PM2.5 LC"
+    },
+    {
+      "code": "88117",
+      "value_represented": "Cerium PM2.5 LC"
+    },
+    {
+      "code": "88118",
+      "value_represented": "Cesium PM2.5 LC"
+    },
+    {
+      "code": "88121",
+      "value_represented": "Europium PM2.5 LC"
+    },
+    {
+      "code": "88124",
+      "value_represented": "Gallium PM2.5 LC"
+    },
+    {
+      "code": "88126",
+      "value_represented": "Iron PM2.5 LC"
+    },
+    {
+      "code": "88127",
+      "value_represented": "Hafnium PM2.5 LC"
+    },
+    {
+      "code": "88128",
+      "value_represented": "Lead PM2.5 LC"
+    },
+    {
+      "code": "88131",
+      "value_represented": "Indium PM2.5 LC"
+    },
+    {
+      "code": "88132",
+      "value_represented": "Manganese PM2.5 LC"
+    },
+    {
+      "code": "88133",
+      "value_represented": "Iridium PM2.5 LC"
+    },
+    {
+      "code": "88134",
+      "value_represented": "Molybdenum PM2.5 LC"
+    },
+    {
+      "code": "88136",
+      "value_represented": "Nickel PM2.5 LC"
+    },
+    {
+      "code": "88140",
+      "value_represented": "Magnesium PM2.5 LC"
+    },
+    {
+      "code": "88142",
+      "value_represented": "Mercury PM2.5 LC"
+    },
+    {
+      "code": "88143",
+      "value_represented": "Gold PM2.5 LC"
+    },
+    {
+      "code": "88146",
+      "value_represented": "Lanthanum PM2.5 LC"
+    },
+    {
+      "code": "88147",
+      "value_represented": "Niobium PM2.5 LC"
+    },
+    {
+      "code": "88152",
+      "value_represented": "Phosphorus PM2.5 LC"
+    },
+    {
+      "code": "88154",
+      "value_represented": "Selenium PM2.5 LC"
+    },
+    {
+      "code": "88160",
+      "value_represented": "Tin PM2.5 LC"
+    },
+    {
+      "code": "88161",
+      "value_represented": "Titanium PM2.5 LC"
+    },
+    {
+      "code": "88162",
+      "value_represented": "Samarium PM2.5 LC"
+    },
+    {
+      "code": "88163",
+      "value_represented": "Scandium PM2.5 LC"
+    },
+    {
+      "code": "88164",
+      "value_represented": "Vanadium PM2.5 LC"
+    },
+    {
+      "code": "88165",
+      "value_represented": "Silicon PM2.5 LC"
+    },
+    {
+      "code": "88166",
+      "value_represented": "Silver PM2.5 LC"
+    },
+    {
+      "code": "88167",
+      "value_represented": "Zinc PM2.5 LC"
+    },
+    {
+      "code": "88168",
+      "value_represented": "Strontium PM2.5 LC"
+    },
+    {
+      "code": "88169",
+      "value_represented": "Sulfur PM2.5 LC"
+    },
+    {
+      "code": "88170",
+      "value_represented": "Tantalum PM2.5 LC"
+    },
+    {
+      "code": "88172",
+      "value_represented": "Terbium PM2.5 LC"
+    },
+    {
+      "code": "88176",
+      "value_represented": "Rubidium PM2.5 LC"
+    },
+    {
+      "code": "88179",
+      "value_represented": "Uranium PM2.5 LC"
+    },
+    {
+      "code": "88180",
+      "value_represented": "Potassium PM2.5 LC"
+    },
+    {
+      "code": "88183",
+      "value_represented": "Yttrium PM2.5 LC"
+    },
+    {
+      "code": "88184",
+      "value_represented": "Sodium PM2.5 LC"
+    },
+    {
+      "code": "88185",
+      "value_represented": "Zirconium PM2.5 LC"
+    },
+    {
+      "code": "88186",
+      "value_represented": "Tungsten PM2.5 LC"
+    },
+    {
+      "code": "88203",
+      "value_represented": "Chloride PM2.5 LC"
+    },
+    {
+      "code": "88301",
+      "value_represented": "Ammonium Ion PM2.5 LC"
+    },
+    {
+      "code": "88302",
+      "value_represented": "Sodium Ion Pm2.5 LC"
+    },
+    {
+      "code": "88303",
+      "value_represented": "Potassium Ion PM2.5 LC"
+    },
+    {
+      "code": "88304",
+      "value_represented": "OCX Carbon PM2.5 LC"
+    },
+    {
+      "code": "88305",
+      "value_represented": "OC CSN Unadjusted PM2.5 LC TOT"
+    },
+    {
+      "code": "88306",
+      "value_represented": "Total Nitrate PM2.5 LC"
+    },
+    {
+      "code": "88307",
+      "value_represented": "EC CSN PM2.5 LC TOT"
+    },
+    {
+      "code": "88308",
+      "value_represented": "Carbonate Carbon CSN PM2.5 LC TOT"
+    },
+    {
+      "code": "88309",
+      "value_represented": "Volatile Nitrate PM2.5 LC"
+    },
+    {
+      "code": "88310",
+      "value_represented": "Non-volatile Nitrate PM2.5 LC"
+    },
+    {
+      "code": "88312",
+      "value_represented": "Total Carbon PM2.5 LC TOT"
+    },
+    {
+      "code": "88313",
+      "value_represented": "Black Carbon PM2.5 at 880 nm"
+    },
+    {
+      "code": "88314",
+      "value_represented": "UV Carbon PM2.5 at 370 nm"
+    },
+    {
+      "code": "88316",
+      "value_represented": "Optical EC PM2.5 LC TOT"
+    },
+    {
+      "code": "88320",
+      "value_represented": "OC PM2.5 LC TOR"
+    },
+    {
+      "code": "88321",
+      "value_represented": "EC PM2.5 LC TOR"
+    },
+    {
+      "code": "88324",
+      "value_represented": "OC1 PM2.5 LC"
+    },
+    {
+      "code": "88325",
+      "value_represented": "OC2 PM2.5 LC"
+    },
+    {
+      "code": "88326",
+      "value_represented": "OC3 PM2.5 LC"
+    },
+    {
+      "code": "88327",
+      "value_represented": "OC4 PM2.5 LC"
+    },
+    {
+      "code": "88328",
+      "value_represented": "OP PM2.5 LC TOR"
+    },
+    {
+      "code": "88329",
+      "value_represented": "EC1 PM2.5 LC"
+    },
+    {
+      "code": "88330",
+      "value_represented": "EC2 PM2.5 LC"
+    },
+    {
+      "code": "88331",
+      "value_represented": "EC3 PM2.5 LC"
+    },
+    {
+      "code": "88332",
+      "value_represented": "OC1 CSN Unadjusted PM2.5 LC TOT"
+    },
+    {
+      "code": "88333",
+      "value_represented": "OC2 CSN Unadjusted PM2.5 LC TOT"
+    },
+    {
+      "code": "88334",
+      "value_represented": "OC3 CSN Unadjusted PM2.5 LC TOT"
+    },
+    {
+      "code": "88335",
+      "value_represented": "OC4 CSN Unadjusted PM2.5 LC TOT"
+    },
+    {
+      "code": "88336",
+      "value_represented": "OP CSN PM2.5 LC TOT"
+    },
+    {
+      "code": "88348",
+      "value_represented": "Soil PM2.5 LC"
+    },
+    {
+      "code": "88355",
+      "value_represented": "OC CSN_Rev Unadjusted PM2.5 LC TOT"
+    },
+    {
+      "code": "88357",
+      "value_represented": "EC CSN_Rev Unadjusted PM2.5 LC TOT"
+    },
+    {
+      "code": "88370",
+      "value_represented": "OC CSN_Rev Unadjusted PM2.5 LC TOR"
+    },
+    {
+      "code": "88374",
+      "value_represented": "OC1 CSN_Rev Unadjusted PM2.5 LC"
+    },
+    {
+      "code": "88375",
+      "value_represented": "OC2 CSN_Rev Unadjusted PM2.5 LC"
+    },
+    {
+      "code": "88376",
+      "value_represented": "OC3 CSN_Rev Unadjusted PM2.5 LC"
+    },
+    {
+      "code": "88377",
+      "value_represented": "OC4 CSN_Rev Unadjusted PM2.5 LC"
+    },
+    {
+      "code": "88378",
+      "value_represented": "OP CSN_Rev Unadjusted PM2.5 LC TOR"
+    },
+    {
+      "code": "88379",
+      "value_represented": "OP PM2.5 LC TOT"
+    },
+    {
+      "code": "88380",
+      "value_represented": "EC CSN_Rev Unadjusted PM2.5 LC TOR"
+    },
+    {
+      "code": "88381",
+      "value_represented": "EC PM2.5 LC TOT"
+    },
+    {
+      "code": "88382",
+      "value_represented": "OC PM2.5 LC TOT"
+    },
+    {
+      "code": "88383",
+      "value_represented": "EC1 CSN_Rev Unadjusted PM2.5 LC"
+    },
+    {
+      "code": "88384",
+      "value_represented": "EC2 CSN_Rev Unadjusted PM2.5 LC"
+    },
+    {
+      "code": "88385",
+      "value_represented": "EC3 CSN_Rev Unadjusted PM2.5 LC"
+    },
+    {
+      "code": "88388",
+      "value_represented": "OP CSN_Rev Unadjusted PM2.5 LC TOT"
+    },
+    {
+      "code": "88401",
+      "value_represented": "Reconstructed Mass PM2.5 LC"
+    },
+    {
+      "code": "88403",
+      "value_represented": "Sulfate PM2.5 LC"
+    },
+    {
+      "code": "88502",
+      "value_represented": "Acceptable PM2.5 AQI & Speciation Mass"
+    }
+  ]
+}

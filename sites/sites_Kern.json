@@ -1,0 +1,188 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:06-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=029",
+      "rows": 44
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": null
+    },
+    {
+      "code": "0002",
+      "value_represented": null
+    },
+    {
+      "code": "0003",
+      "value_represented": "Bakersfield-Health Dept."
+    },
+    {
+      "code": "0004",
+      "value_represented": "Bakersfield-Chester Ave."
+    },
+    {
+      "code": "0005",
+      "value_represented": null
+    },
+    {
+      "code": "0006",
+      "value_represented": "McKittrick"
+    },
+    {
+      "code": "0007",
+      "value_represented": "Edison"
+    },
+    {
+      "code": "0008",
+      "value_represented": "Maricopa"
+    },
+    {
+      "code": "0009",
+      "value_represented": null
+    },
+    {
+      "code": "0010",
+      "value_represented": "Bakersfield-Golden / M St"
+    },
+    {
+      "code": "0011",
+      "value_represented": "Mojave"
+    },
+    {
+      "code": "0012",
+      "value_represented": "Ridgecrest"
+    },
+    {
+      "code": "0013",
+      "value_represented": "LOCATED SOUTHEAST OF INYOKERN AIRPORT."
+    },
+    {
+      "code": "0014",
+      "value_represented": "Bakersfield-California"
+    },
+    {
+      "code": "0015",
+      "value_represented": "Ridgecrest-California Ave"
+    },
+    {
+      "code": "0016",
+      "value_represented": "Bakersfield-Airport (Planz)"
+    },
+    {
+      "code": "0017",
+      "value_represented": "Canebrake"
+    },
+    {
+      "code": "0018",
+      "value_represented": "Ridgecrest-Ward"
+    },
+    {
+      "code": "0019",
+      "value_represented": "Mojave - CA 58 Business"
+    },
+    {
+      "code": "0230",
+      "value_represented": "Oildale-Universe Ave"
+    },
+    {
+      "code": "0231",
+      "value_represented": "Oildale-3021 Manor St."
+    },
+    {
+      "code": "0232",
+      "value_represented": "Oildale"
+    },
+    {
+      "code": "1001",
+      "value_represented": "China Lake"
+    },
+    {
+      "code": "1002",
+      "value_represented": null
+    },
+    {
+      "code": "1003",
+      "value_represented": null
+    },
+    {
+      "code": "1004",
+      "value_represented": null
+    },
+    {
+      "code": "1005",
+      "value_represented": "SPECIAL OZONE STUDY - TEHACHAPI CA - (WEST OF CABLE TV ANTENNAS)"
+    },
+    {
+      "code": "2001",
+      "value_represented": "Kern Wildlife Refuge"
+    },
+    {
+      "code": "2003",
+      "value_represented": "Taft-10th St"
+    },
+    {
+      "code": "2004",
+      "value_represented": "Taft-College"
+    },
+    {
+      "code": "2009",
+      "value_represented": "Lebec"
+    },
+    {
+      "code": "2012",
+      "value_represented": "Bakersfield-Muni"
+    },
+    {
+      "code": "2019",
+      "value_represented": "Bakersfield-Westwind"
+    },
+    {
+      "code": "3001",
+      "value_represented": "Mojave-Kern Co Fire Dept"
+    },
+    {
+      "code": "3002",
+      "value_represented": "Mojave - Airport Bldg 58"
+    },
+    {
+      "code": "4001",
+      "value_represented": null
+    },
+    {
+      "code": "5001",
+      "value_represented": "Arvin-Bear Mtn"
+    },
+    {
+      "code": "5002",
+      "value_represented": "Arvin-Di Giorgio"
+    },
+    {
+      "code": "6001",
+      "value_represented": "Shafter"
+    },
+    {
+      "code": "9000",
+      "value_represented": "Boron"
+    },
+    {
+      "code": "9001",
+      "value_represented": "Lebec-Peace Valley/Frazier Park Roads"
+    },
+    {
+      "code": "9002",
+      "value_represented": "Lebec-Peace Valley Road"
+    },
+    {
+      "code": "9901",
+      "value_represented": null
+    },
+    {
+      "code": "9902",
+      "value_represented": "Dome Lands Wilderness"
+    }
+  ]
+}

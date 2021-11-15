@@ -1,0 +1,24 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:23-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=105",
+      "rows": 3
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": null
+    },
+    {
+      "code": "0002",
+      "value_represented": "Weaverville-Courthouse"
+    },
+    {
+      "code": "9000",
+      "value_represented": "Trinity"
+    }
+  ]
+}

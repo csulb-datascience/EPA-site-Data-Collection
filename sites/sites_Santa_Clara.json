@@ -1,0 +1,116 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:19-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=085",
+      "rows": 26
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": "Gilroy-Monterey St."
+    },
+    {
+      "code": "0002",
+      "value_represented": "Gilroy"
+    },
+    {
+      "code": "0003",
+      "value_represented": "San Jose-Alma Ave."
+    },
+    {
+      "code": "0004",
+      "value_represented": "San Jose - 4th St."
+    },
+    {
+      "code": "0005",
+      "value_represented": "San Jose - Jackson"
+    },
+    {
+      "code": "0006",
+      "value_represented": "San Jose - Knox Avenue"
+    },
+    {
+      "code": "0386",
+      "value_represented": "San Jose-Alum Rock"
+    },
+    {
+      "code": "1001",
+      "value_represented": "Los Gatos"
+    },
+    {
+      "code": "1002",
+      "value_represented": "Mountain View - Cuesta"
+    },
+    {
+      "code": "2001",
+      "value_represented": null
+    },
+    {
+      "code": "2002",
+      "value_represented": "San Jose-5th St."
+    },
+    {
+      "code": "2003",
+      "value_represented": "San Jose"
+    },
+    {
+      "code": "2004",
+      "value_represented": "San Jose-W. San Carlos St."
+    },
+    {
+      "code": "2005",
+      "value_represented": "San Jose - Piedmont"
+    },
+    {
+      "code": "2006",
+      "value_represented": "San Martin"
+    },
+    {
+      "code": "2007",
+      "value_represented": "Sunnyvale - Ticonderoga"
+    },
+    {
+      "code": "2008",
+      "value_represented": "MT VIEW-WHISMAN PARK"
+    },
+    {
+      "code": "2009",
+      "value_represented": "Cupertino Monta Vista"
+    },
+    {
+      "code": "2010",
+      "value_represented": "Palo Alto Airport"
+    },
+    {
+      "code": "2011",
+      "value_represented": "Reid Hillview Airport"
+    },
+    {
+      "code": "3001",
+      "value_represented": "San Jose-Moorpark Ave."
+    },
+    {
+      "code": "4000",
+      "value_represented": null
+    },
+    {
+      "code": "4001",
+      "value_represented": "Sunnyvale"
+    },
+    {
+      "code": "4002",
+      "value_represented": null
+    },
+    {
+      "code": "5506",
+      "value_represented": "Stevens Creek Elementary School"
+    },
+    {
+      "code": "6001",
+      "value_represented": null
+    }
+  ]
+}

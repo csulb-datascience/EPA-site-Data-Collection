@@ -1,0 +1,220 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:16-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=073",
+      "rows": 52
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": "Chula Vista"
+    },
+    {
+      "code": "0002",
+      "value_represented": null
+    },
+    {
+      "code": "0003",
+      "value_represented": "El Cajon"
+    },
+    {
+      "code": "0005",
+      "value_represented": "Oceanside-Mission Ave"
+    },
+    {
+      "code": "0006",
+      "value_represented": "Kearny Mesa"
+    },
+    {
+      "code": "0007",
+      "value_represented": null
+    },
+    {
+      "code": "0009",
+      "value_represented": "San Diego-800 Front St."
+    },
+    {
+      "code": "0077",
+      "value_represented": "Campo Indian Reservation"
+    },
+    {
+      "code": "0078",
+      "value_represented": null
+    },
+    {
+      "code": "1001",
+      "value_represented": "Del Mar"
+    },
+    {
+      "code": "1002",
+      "value_represented": "Escondido"
+    },
+    {
+      "code": "1003",
+      "value_represented": "Oceanside-Cleveland St."
+    },
+    {
+      "code": "1004",
+      "value_represented": null
+    },
+    {
+      "code": "1005",
+      "value_represented": null
+    },
+    {
+      "code": "1006",
+      "value_represented": "Alpine"
+    },
+    {
+      "code": "1007",
+      "value_represented": "San Diego-12th Ave"
+    },
+    {
+      "code": "1008",
+      "value_represented": "Camp Pendleton"
+    },
+    {
+      "code": "1009",
+      "value_represented": "San Diego-Barrio Logan"
+    },
+    {
+      "code": "1010",
+      "value_represented": "San Diego - Beardsley Street"
+    },
+    {
+      "code": "1011",
+      "value_represented": "La Posta Reservation"
+    },
+    {
+      "code": "1012",
+      "value_represented": null
+    },
+    {
+      "code": "1014",
+      "value_represented": "Donovan"
+    },
+    {
+      "code": "1015",
+      "value_represented": "San Marcos Peak"
+    },
+    {
+      "code": "1016",
+      "value_represented": "Kearny Villa Rd."
+    },
+    {
+      "code": "1017",
+      "value_represented": "San Diego -Rancho Carmel Drive"
+    },
+    {
+      "code": "1018",
+      "value_represented": "El Cajon - Floyd Smith Dr."
+    },
+    {
+      "code": "1019",
+      "value_represented": "San Ysidro"
+    },
+    {
+      "code": "1020",
+      "value_represented": "Palomar Airport"
+    },
+    {
+      "code": "1021",
+      "value_represented": "Gillespie Field"
+    },
+    {
+      "code": "1022",
+      "value_represented": "El Cajon - Lexington Elementary School"
+    },
+    {
+      "code": "1023",
+      "value_represented": "Palomar Airport"
+    },
+    {
+      "code": "1024",
+      "value_represented": "San Ysidro"
+    },
+    {
+      "code": "1025",
+      "value_represented": "San Ysidro"
+    },
+    {
+      "code": "1026",
+      "value_represented": "San Diego - Sherman Elementary School"
+    },
+    {
+      "code": "1201",
+      "value_represented": "Pala Airpad"
+    },
+    {
+      "code": "1210",
+      "value_represented": "LJA1"
+    },
+    {
+      "code": "2000",
+      "value_represented": "Manzanita Reservation"
+    },
+    {
+      "code": "2001",
+      "value_represented": null
+    },
+    {
+      "code": "2002",
+      "value_represented": null
+    },
+    {
+      "code": "2003",
+      "value_represented": null
+    },
+    {
+      "code": "2005",
+      "value_represented": null
+    },
+    {
+      "code": "2007",
+      "value_represented": "Otay Mesa"
+    },
+    {
+      "code": "3001",
+      "value_represented": null
+    },
+    {
+      "code": "4001",
+      "value_represented": null
+    },
+    {
+      "code": "5001",
+      "value_represented": null
+    },
+    {
+      "code": "5501",
+      "value_represented": "Rincon Daycare Site  (\"RIIR\")"
+    },
+    {
+      "code": "6001",
+      "value_represented": null
+    },
+    {
+      "code": "6500",
+      "value_represented": "10TH AVENUE MARINE TERMINAL"
+    },
+    {
+      "code": "6501",
+      "value_represented": "Fire Station #19"
+    },
+    {
+      "code": "6502",
+      "value_represented": "Caltrans-Chavez"
+    },
+    {
+      "code": "7001",
+      "value_represented": null
+    },
+    {
+      "code": "8001",
+      "value_represented": null
+    }
+  ]
+}

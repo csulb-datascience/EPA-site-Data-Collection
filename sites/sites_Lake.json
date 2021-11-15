@@ -1,0 +1,52 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:07-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=033",
+      "rows": 10
+    }
+  ],
+  "Data": [
+    {
+      "code": "0002",
+      "value_represented": null
+    },
+    {
+      "code": "0003",
+      "value_represented": null
+    },
+    {
+      "code": "1001",
+      "value_represented": null
+    },
+    {
+      "code": "2001",
+      "value_represented": "Lakeport-Forbes St."
+    },
+    {
+      "code": "3001",
+      "value_represented": "Lakeport-Lakeport Blvd."
+    },
+    {
+      "code": "3002",
+      "value_represented": "Lakeport-S. Main Street"
+    },
+    {
+      "code": "3010",
+      "value_represented": "ANDERSON SPRINGS"
+    },
+    {
+      "code": "3011",
+      "value_represented": "GLENBROOK"
+    },
+    {
+      "code": "3012",
+      "value_represented": "HOBERG-PINE SUMMIT"
+    },
+    {
+      "code": "3013",
+      "value_represented": "TRAILER AT RESIDENCE.  RURAL COMMUNITY."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:17-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=079",
+      "rows": 29
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": null
+    },
+    {
+      "code": "0002",
+      "value_represented": null
+    },
+    {
+      "code": "0003",
+      "value_represented": null
+    },
+    {
+      "code": "0005",
+      "value_represented": "Paso Robles"
+    },
+    {
+      "code": "1001",
+      "value_represented": null
+    },
+    {
+      "code": "1002",
+      "value_represented": null
+    },
+    {
+      "code": "1004",
+      "value_represented": null
+    },
+    {
+      "code": "1005",
+      "value_represented": "Arroyo Grande-Ralcoa"
+    },
+    {
+      "code": "2001",
+      "value_represented": "Grover Beach"
+    },
+    {
+      "code": "2002",
+      "value_represented": "San Luis Obispo-Marsh St."
+    },
+    {
+      "code": "2003",
+      "value_represented": null
+    },
+    {
+      "code": "2004",
+      "value_represented": "Mesa2"
+    },
+    {
+      "code": "2005",
+      "value_represented": null
+    },
+    {
+      "code": "2006",
+      "value_represented": "San Luis Obispo"
+    },
+    {
+      "code": "2007",
+      "value_represented": "Arroyo Grande CDF"
+    },
+    {
+      "code": "2020",
+      "value_represented": "SLO Roberto"
+    },
+    {
+      "code": "3001",
+      "value_represented": "Morro Bay"
+    },
+    {
+      "code": "3002",
+      "value_represented": null
+    },
+    {
+      "code": "4001",
+      "value_represented": null
+    },
+    {
+      "code": "4002",
+      "value_represented": "Nipomo Regional Park (NRP)"
+    },
+    {
+      "code": "4003",
+      "value_represented": "Nipomo-Hillview Road"
+    },
+    {
+      "code": "5001",
+      "value_represented": null
+    },
+    {
+      "code": "6001",
+      "value_represented": null
+    },
+    {
+      "code": "7001",
+      "value_represented": null
+    },
+    {
+      "code": "8001",
+      "value_represented": "Atascadero (original site)"
+    },
+    {
+      "code": "8002",
+      "value_represented": "Atascadero"
+    },
+    {
+      "code": "8005",
+      "value_represented": "Red Hills"
+    },
+    {
+      "code": "8006",
+      "value_represented": "Carrizo Plains"
+    },
+    {
+      "code": "9001",
+      "value_represented": "Oso Flaco Site"
+    }
+  ]
+}

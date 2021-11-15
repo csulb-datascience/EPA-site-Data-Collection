@@ -1,0 +1,24 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:05-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=021",
+      "rows": 3
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": "Willows-N. Villa Ave"
+    },
+    {
+      "code": "0002",
+      "value_represented": "420 E. LAUREL ST."
+    },
+    {
+      "code": "0003",
+      "value_represented": "Willows-Colusa Street"
+    }
+  ]
+}

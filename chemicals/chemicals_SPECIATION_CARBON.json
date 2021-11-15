@@ -1,0 +1,172 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:25:39-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/parametersByClass?email=david.eaton@student.csulb.edu&key=orangeswift34&pc=SPECIATION%20CARBON",
+      "rows": 40
+    }
+  ],
+  "Data": [
+    {
+      "code": "63102",
+      "value_represented": "Light Absorption Coeffiecient"
+    },
+    {
+      "code": "88304",
+      "value_represented": "OCX Carbon PM2.5 LC"
+    },
+    {
+      "code": "88305",
+      "value_represented": "OC CSN Unadjusted PM2.5 LC TOT"
+    },
+    {
+      "code": "88307",
+      "value_represented": "EC CSN PM2.5 LC TOT"
+    },
+    {
+      "code": "88308",
+      "value_represented": "Carbonate Carbon CSN PM2.5 LC TOT"
+    },
+    {
+      "code": "88312",
+      "value_represented": "Total Carbon PM2.5 LC TOT"
+    },
+    {
+      "code": "88313",
+      "value_represented": "Black Carbon PM2.5 at 880 nm"
+    },
+    {
+      "code": "88314",
+      "value_represented": "UV Carbon PM2.5 at 370 nm"
+    },
+    {
+      "code": "88315",
+      "value_represented": "Delta Carbon PM2.5 LC"
+    },
+    {
+      "code": "88320",
+      "value_represented": "OC PM2.5 LC TOR"
+    },
+    {
+      "code": "88321",
+      "value_represented": "EC PM2.5 LC TOR"
+    },
+    {
+      "code": "88324",
+      "value_represented": "OC1 PM2.5 LC"
+    },
+    {
+      "code": "88325",
+      "value_represented": "OC2 PM2.5 LC"
+    },
+    {
+      "code": "88326",
+      "value_represented": "OC3 PM2.5 LC"
+    },
+    {
+      "code": "88327",
+      "value_represented": "OC4 PM2.5 LC"
+    },
+    {
+      "code": "88328",
+      "value_represented": "OP PM2.5 LC TOR"
+    },
+    {
+      "code": "88329",
+      "value_represented": "EC1 PM2.5 LC"
+    },
+    {
+      "code": "88330",
+      "value_represented": "EC2 PM2.5 LC"
+    },
+    {
+      "code": "88331",
+      "value_represented": "EC3 PM2.5 LC"
+    },
+    {
+      "code": "88332",
+      "value_represented": "OC1 CSN Unadjusted PM2.5 LC TOT"
+    },
+    {
+      "code": "88333",
+      "value_represented": "OC2 CSN Unadjusted PM2.5 LC TOT"
+    },
+    {
+      "code": "88334",
+      "value_represented": "OC3 CSN Unadjusted PM2.5 LC TOT"
+    },
+    {
+      "code": "88335",
+      "value_represented": "OC4 CSN Unadjusted PM2.5 LC TOT"
+    },
+    {
+      "code": "88336",
+      "value_represented": "OP CSN PM2.5 LC TOT"
+    },
+    {
+      "code": "88355",
+      "value_represented": "OC CSN_Rev Unadjusted PM2.5 LC TOT"
+    },
+    {
+      "code": "88357",
+      "value_represented": "EC CSN_Rev Unadjusted PM2.5 LC TOT"
+    },
+    {
+      "code": "88370",
+      "value_represented": "OC CSN_Rev Unadjusted PM2.5 LC TOR"
+    },
+    {
+      "code": "88374",
+      "value_represented": "OC1 CSN_Rev Unadjusted PM2.5 LC"
+    },
+    {
+      "code": "88375",
+      "value_represented": "OC2 CSN_Rev Unadjusted PM2.5 LC"
+    },
+    {
+      "code": "88376",
+      "value_represented": "OC3 CSN_Rev Unadjusted PM2.5 LC"
+    },
+    {
+      "code": "88377",
+      "value_represented": "OC4 CSN_Rev Unadjusted PM2.5 LC"
+    },
+    {
+      "code": "88378",
+      "value_represented": "OP CSN_Rev Unadjusted PM2.5 LC TOR"
+    },
+    {
+      "code": "88379",
+      "value_represented": "OP PM2.5 LC TOT"
+    },
+    {
+      "code": "88380",
+      "value_represented": "EC CSN_Rev Unadjusted PM2.5 LC TOR"
+    },
+    {
+      "code": "88381",
+      "value_represented": "EC PM2.5 LC TOT"
+    },
+    {
+      "code": "88382",
+      "value_represented": "OC PM2.5 LC TOT"
+    },
+    {
+      "code": "88383",
+      "value_represented": "EC1 CSN_Rev Unadjusted PM2.5 LC"
+    },
+    {
+      "code": "88384",
+      "value_represented": "EC2 CSN_Rev Unadjusted PM2.5 LC"
+    },
+    {
+      "code": "88385",
+      "value_represented": "EC3 CSN_Rev Unadjusted PM2.5 LC"
+    },
+    {
+      "code": "88388",
+      "value_represented": "OP CSN_Rev Unadjusted PM2.5 LC TOT"
+    }
+  ]
+}

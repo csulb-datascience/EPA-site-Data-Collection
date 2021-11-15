@@ -1,0 +1,68 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:05-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=023",
+      "rows": 14
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": null
+    },
+    {
+      "code": "0002",
+      "value_represented": null
+    },
+    {
+      "code": "0003",
+      "value_represented": null
+    },
+    {
+      "code": "0005",
+      "value_represented": "Eureka-Union St."
+    },
+    {
+      "code": "0006",
+      "value_represented": "Hoopa Valley Reservation"
+    },
+    {
+      "code": "0010",
+      "value_represented": "Blue Lake"
+    },
+    {
+      "code": "1001",
+      "value_represented": null
+    },
+    {
+      "code": "1002",
+      "value_represented": "Eureka I Street"
+    },
+    {
+      "code": "1003",
+      "value_represented": "Trinidad"
+    },
+    {
+      "code": "1004",
+      "value_represented": "Jacobs"
+    },
+    {
+      "code": "1005",
+      "value_represented": "Humboldt Hill"
+    },
+    {
+      "code": "2001",
+      "value_represented": null
+    },
+    {
+      "code": "2002",
+      "value_represented": "Weitchpec E-BAM"
+    },
+    {
+      "code": "7001",
+      "value_represented": "Blue Lake Rancheria"
+    }
+  ]
+}

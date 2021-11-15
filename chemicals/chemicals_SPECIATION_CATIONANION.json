@@ -1,0 +1,44 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:25:40-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/parametersByClass?email=david.eaton@student.csulb.edu&key=orangeswift34&pc=SPECIATION%20CATION/ANION",
+      "rows": 8
+    }
+  ],
+  "Data": [
+    {
+      "code": "88203",
+      "value_represented": "Chloride PM2.5 LC"
+    },
+    {
+      "code": "88301",
+      "value_represented": "Ammonium Ion PM2.5 LC"
+    },
+    {
+      "code": "88302",
+      "value_represented": "Sodium Ion Pm2.5 LC"
+    },
+    {
+      "code": "88303",
+      "value_represented": "Potassium Ion PM2.5 LC"
+    },
+    {
+      "code": "88306",
+      "value_represented": "Total Nitrate PM2.5 LC"
+    },
+    {
+      "code": "88309",
+      "value_represented": "Volatile Nitrate PM2.5 LC"
+    },
+    {
+      "code": "88310",
+      "value_represented": "Non-volatile Nitrate PM2.5 LC"
+    },
+    {
+      "code": "88403",
+      "value_represented": "Sulfate PM2.5 LC"
+    }
+  ]
+}

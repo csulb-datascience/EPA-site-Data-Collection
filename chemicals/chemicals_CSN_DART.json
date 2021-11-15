@@ -1,0 +1,176 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:25:33-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/parametersByClass?email=david.eaton@student.csulb.edu&key=orangeswift34&pc=CSN%20DART",
+      "rows": 41
+    }
+  ],
+  "Data": [
+    {
+      "code": "88102",
+      "value_represented": "Antimony PM2.5 LC"
+    },
+    {
+      "code": "88103",
+      "value_represented": "Arsenic PM2.5 LC"
+    },
+    {
+      "code": "88104",
+      "value_represented": "Aluminum PM2.5 LC"
+    },
+    {
+      "code": "88107",
+      "value_represented": "Barium PM2.5 LC"
+    },
+    {
+      "code": "88109",
+      "value_represented": "Bromine PM2.5 LC"
+    },
+    {
+      "code": "88110",
+      "value_represented": "Cadmium PM2.5 LC"
+    },
+    {
+      "code": "88111",
+      "value_represented": "Calcium PM2.5 LC"
+    },
+    {
+      "code": "88112",
+      "value_represented": "Chromium PM2.5 LC"
+    },
+    {
+      "code": "88113",
+      "value_represented": "Cobalt PM2.5 LC"
+    },
+    {
+      "code": "88114",
+      "value_represented": "Copper PM2.5 LC"
+    },
+    {
+      "code": "88115",
+      "value_represented": "Chlorine PM2.5 LC"
+    },
+    {
+      "code": "88117",
+      "value_represented": "Cerium PM2.5 LC"
+    },
+    {
+      "code": "88118",
+      "value_represented": "Cesium PM2.5 LC"
+    },
+    {
+      "code": "88126",
+      "value_represented": "Iron PM2.5 LC"
+    },
+    {
+      "code": "88128",
+      "value_represented": "Lead PM2.5 LC"
+    },
+    {
+      "code": "88131",
+      "value_represented": "Indium PM2.5 LC"
+    },
+    {
+      "code": "88132",
+      "value_represented": "Manganese PM2.5 LC"
+    },
+    {
+      "code": "88136",
+      "value_represented": "Nickel PM2.5 LC"
+    },
+    {
+      "code": "88140",
+      "value_represented": "Magnesium PM2.5 LC"
+    },
+    {
+      "code": "88152",
+      "value_represented": "Phosphorus PM2.5 LC"
+    },
+    {
+      "code": "88154",
+      "value_represented": "Selenium PM2.5 LC"
+    },
+    {
+      "code": "88160",
+      "value_represented": "Tin PM2.5 LC"
+    },
+    {
+      "code": "88161",
+      "value_represented": "Titanium PM2.5 LC"
+    },
+    {
+      "code": "88164",
+      "value_represented": "Vanadium PM2.5 LC"
+    },
+    {
+      "code": "88165",
+      "value_represented": "Silicon PM2.5 LC"
+    },
+    {
+      "code": "88166",
+      "value_represented": "Silver PM2.5 LC"
+    },
+    {
+      "code": "88167",
+      "value_represented": "Zinc PM2.5 LC"
+    },
+    {
+      "code": "88168",
+      "value_represented": "Strontium PM2.5 LC"
+    },
+    {
+      "code": "88169",
+      "value_represented": "Sulfur PM2.5 LC"
+    },
+    {
+      "code": "88176",
+      "value_represented": "Rubidium PM2.5 LC"
+    },
+    {
+      "code": "88180",
+      "value_represented": "Potassium PM2.5 LC"
+    },
+    {
+      "code": "88184",
+      "value_represented": "Sodium PM2.5 LC"
+    },
+    {
+      "code": "88185",
+      "value_represented": "Zirconium PM2.5 LC"
+    },
+    {
+      "code": "88203",
+      "value_represented": "Chloride PM2.5 LC"
+    },
+    {
+      "code": "88301",
+      "value_represented": "Ammonium Ion PM2.5 LC"
+    },
+    {
+      "code": "88302",
+      "value_represented": "Sodium Ion Pm2.5 LC"
+    },
+    {
+      "code": "88303",
+      "value_represented": "Potassium Ion PM2.5 LC"
+    },
+    {
+      "code": "88306",
+      "value_represented": "Total Nitrate PM2.5 LC"
+    },
+    {
+      "code": "88320",
+      "value_represented": "OC PM2.5 LC TOR"
+    },
+    {
+      "code": "88321",
+      "value_represented": "EC PM2.5 LC TOR"
+    },
+    {
+      "code": "88403",
+      "value_represented": "Sulfate PM2.5 LC"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:25:37-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/parametersByClass?email=david.eaton@student.csulb.edu&key=orangeswift34&pc=PM%20COARSE",
+      "rows": 2
+    }
+  ],
+  "Data": [
+    {
+      "code": "86101",
+      "value_represented": "PM10-2.5 - Local Conditions"
+    },
+    {
+      "code": "86502",
+      "value_represented": "Acceptable PM10-2.5 - Local Conditions"
+    }
+  ]
+}

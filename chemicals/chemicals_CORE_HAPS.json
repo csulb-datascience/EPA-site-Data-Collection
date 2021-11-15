@@ -1,0 +1,180 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:25:32-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/parametersByClass?email=david.eaton@student.csulb.edu&key=orangeswift34&pc=CORE_HAPS",
+      "rows": 42
+    }
+  ],
+  "Data": [
+    {
+      "code": "12103",
+      "value_represented": "Arsenic (TSP) STP"
+    },
+    {
+      "code": "12105",
+      "value_represented": "Beryllium (TSP) STP"
+    },
+    {
+      "code": "12110",
+      "value_represented": "Cadmium (TSP) STP"
+    },
+    {
+      "code": "12112",
+      "value_represented": "Chromium (TSP) STP"
+    },
+    {
+      "code": "12115",
+      "value_represented": "Chromium VI (TSP) STP"
+    },
+    {
+      "code": "12128",
+      "value_represented": "Lead (TSP) STP"
+    },
+    {
+      "code": "12132",
+      "value_represented": "Manganese (TSP) STP"
+    },
+    {
+      "code": "12136",
+      "value_represented": "Nickel (TSP) STP"
+    },
+    {
+      "code": "14115",
+      "value_represented": "Chromium VI (TSP) LC"
+    },
+    {
+      "code": "43218",
+      "value_represented": "1,3-Butadiene"
+    },
+    {
+      "code": "43502",
+      "value_represented": "Formaldehyde"
+    },
+    {
+      "code": "43503",
+      "value_represented": "Acetaldehyde"
+    },
+    {
+      "code": "43505",
+      "value_represented": "Acrolein - Unverified"
+    },
+    {
+      "code": "43509",
+      "value_represented": "Acrolein - Verified"
+    },
+    {
+      "code": "43802",
+      "value_represented": "Dichloromethane"
+    },
+    {
+      "code": "43803",
+      "value_represented": "Chloroform"
+    },
+    {
+      "code": "43804",
+      "value_represented": "Carbon tetrachloride"
+    },
+    {
+      "code": "43815",
+      "value_represented": "Ethylene dichloride"
+    },
+    {
+      "code": "43817",
+      "value_represented": "Tetrachloroethylene"
+    },
+    {
+      "code": "43818",
+      "value_represented": "1,1,2,2-Tetrachloroethane"
+    },
+    {
+      "code": "43824",
+      "value_represented": "Trichloroethylene"
+    },
+    {
+      "code": "43829",
+      "value_represented": "1,2-Dichloropropane"
+    },
+    {
+      "code": "43830",
+      "value_represented": "trans-1,3-Dichloropropene"
+    },
+    {
+      "code": "43831",
+      "value_represented": "cis-1,3-Dichloropropene"
+    },
+    {
+      "code": "43843",
+      "value_represented": "Ethylene dibromide"
+    },
+    {
+      "code": "43860",
+      "value_represented": "Vinyl chloride"
+    },
+    {
+      "code": "45201",
+      "value_represented": "Benzene"
+    },
+    {
+      "code": "82103",
+      "value_represented": "Arsenic PM10 STP"
+    },
+    {
+      "code": "82105",
+      "value_represented": "Beryllium PM10 STP"
+    },
+    {
+      "code": "82110",
+      "value_represented": "Cadmium PM10 STP"
+    },
+    {
+      "code": "82112",
+      "value_represented": "Chromium PM10 STP"
+    },
+    {
+      "code": "82128",
+      "value_represented": "Lead PM10 STP"
+    },
+    {
+      "code": "82132",
+      "value_represented": "Manganese PM10 STP"
+    },
+    {
+      "code": "82136",
+      "value_represented": "Nickel PM10 STP"
+    },
+    {
+      "code": "82142",
+      "value_represented": "Mercury PM10 STP"
+    },
+    {
+      "code": "88103",
+      "value_represented": "Arsenic PM2.5 LC"
+    },
+    {
+      "code": "88105",
+      "value_represented": "Beryllium PM2.5 LC"
+    },
+    {
+      "code": "88110",
+      "value_represented": "Cadmium PM2.5 LC"
+    },
+    {
+      "code": "88112",
+      "value_represented": "Chromium PM2.5 LC"
+    },
+    {
+      "code": "88128",
+      "value_represented": "Lead PM2.5 LC"
+    },
+    {
+      "code": "88132",
+      "value_represented": "Manganese PM2.5 LC"
+    },
+    {
+      "code": "88136",
+      "value_represented": "Nickel PM2.5 LC"
+    }
+  ]
+}

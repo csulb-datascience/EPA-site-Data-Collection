@@ -1,0 +1,84 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:04-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=017",
+      "rows": 18
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": null
+    },
+    {
+      "code": "0002",
+      "value_represented": "Placerville Library"
+    },
+    {
+      "code": "0004",
+      "value_represented": null
+    },
+    {
+      "code": "0005",
+      "value_represented": null
+    },
+    {
+      "code": "0006",
+      "value_represented": null
+    },
+    {
+      "code": "0007",
+      "value_represented": null
+    },
+    {
+      "code": "0008",
+      "value_represented": null
+    },
+    {
+      "code": "0009",
+      "value_represented": "South Lake Tahoe-Tahoe Blvd"
+    },
+    {
+      "code": "0010",
+      "value_represented": "Placerville-Gold Nugget Way"
+    },
+    {
+      "code": "0011",
+      "value_represented": "South Lake Tahoe-Sandy Way"
+    },
+    {
+      "code": "0012",
+      "value_represented": "Echo Summit"
+    },
+    {
+      "code": "0013",
+      "value_represented": "South Lake Tahoe-Airport"
+    },
+    {
+      "code": "0020",
+      "value_represented": "Cool"
+    },
+    {
+      "code": "1002",
+      "value_represented": null
+    },
+    {
+      "code": "2002",
+      "value_represented": "Shingle Springs-Ponderosa HS"
+    },
+    {
+      "code": "2003",
+      "value_represented": null
+    },
+    {
+      "code": "9000",
+      "value_represented": "Bliss SP"
+    },
+    {
+      "code": "9001",
+      "value_represented": "Lake Tahoe Community College"
+    }
+  ]
+}

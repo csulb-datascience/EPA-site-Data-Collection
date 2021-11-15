@@ -1,0 +1,272 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:05:15-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/sitesByCounty?email=david.eaton@student.csulb.edu&key=orangeswift34&state=06&county=071",
+      "rows": 65
+    }
+  ],
+  "Data": [
+    {
+      "code": "0001",
+      "value_represented": "Barstow"
+    },
+    {
+      "code": "0003",
+      "value_represented": null
+    },
+    {
+      "code": "0004",
+      "value_represented": null
+    },
+    {
+      "code": "0005",
+      "value_represented": "Crestline"
+    },
+    {
+      "code": "0006",
+      "value_represented": null
+    },
+    {
+      "code": "0008",
+      "value_represented": null
+    },
+    {
+      "code": "0009",
+      "value_represented": null
+    },
+    {
+      "code": "0012",
+      "value_represented": "Phelan-Beekley Road & Phelan Road"
+    },
+    {
+      "code": "0013",
+      "value_represented": "Lucerne Valley-Middle School"
+    },
+    {
+      "code": "0014",
+      "value_represented": "Victorville-Amargosa Road"
+    },
+    {
+      "code": "0015",
+      "value_represented": "Trona-Athol"
+    },
+    {
+      "code": "0017",
+      "value_represented": "Twenty Nine Palms-Adobe"
+    },
+    {
+      "code": "0025",
+      "value_represented": "Ontario Fire Station"
+    },
+    {
+      "code": "0026",
+      "value_represented": "Ontario Near Road (Etiwanda)"
+    },
+    {
+      "code": "0027",
+      "value_represented": "Ontario-Route 60 Near Road"
+    },
+    {
+      "code": "0101",
+      "value_represented": null
+    },
+    {
+      "code": "0102",
+      "value_represented": null
+    },
+    {
+      "code": "0103",
+      "value_represented": null
+    },
+    {
+      "code": "0106",
+      "value_represented": null
+    },
+    {
+      "code": "0107",
+      "value_represented": null
+    },
+    {
+      "code": "0108",
+      "value_represented": null
+    },
+    {
+      "code": "0109",
+      "value_represented": "APPLE VALLEY SPECIAL PURPOSE MET PROFILER SITE"
+    },
+    {
+      "code": "0110",
+      "value_represented": "BARSTOW/DAGGETT SPECIAL PURPOSE MET PROFILIER SITE"
+    },
+    {
+      "code": "0217",
+      "value_represented": "ROVER STUDY FROM SCOS97"
+    },
+    {
+      "code": "0306",
+      "value_represented": "Victorville-Park Avenue"
+    },
+    {
+      "code": "1000",
+      "value_represented": "TEST SITE FOR DATA ENTRY INVESTIGATION"
+    },
+    {
+      "code": "1001",
+      "value_represented": "Mojave NP & PRES - Kelso Mountains"
+    },
+    {
+      "code": "1002",
+      "value_represented": "Chino"
+    },
+    {
+      "code": "1003",
+      "value_represented": null
+    },
+    {
+      "code": "1004",
+      "value_represented": "Upland"
+    },
+    {
+      "code": "1005",
+      "value_represented": null
+    },
+    {
+      "code": "1101",
+      "value_represented": null
+    },
+    {
+      "code": "1201",
+      "value_represented": null
+    },
+    {
+      "code": "1234",
+      "value_represented": "Trona - Athol/Telescope #2"
+    },
+    {
+      "code": "1301",
+      "value_represented": null
+    },
+    {
+      "code": "1401",
+      "value_represented": null
+    },
+    {
+      "code": "1407",
+      "value_represented": "SA Recycling"
+    },
+    {
+      "code": "2001",
+      "value_represented": "Chino-Central Ave"
+    },
+    {
+      "code": "2002",
+      "value_represented": "Fontana"
+    },
+    {
+      "code": "2003",
+      "value_represented": null
+    },
+    {
+      "code": "2004",
+      "value_represented": null
+    },
+    {
+      "code": "3001",
+      "value_represented": null
+    },
+    {
+      "code": "3002",
+      "value_represented": "Ontario-Cheffey HS"
+    },
+    {
+      "code": "4001",
+      "value_represented": "Hesperia-Olive Street"
+    },
+    {
+      "code": "4002",
+      "value_represented": null
+    },
+    {
+      "code": "4003",
+      "value_represented": "Redlands"
+    },
+    {
+      "code": "5001",
+      "value_represented": null
+    },
+    {
+      "code": "5002",
+      "value_represented": "Chino-Airport"
+    },
+    {
+      "code": "6001",
+      "value_represented": "Ontario-Airport"
+    },
+    {
+      "code": "6002",
+      "value_represented": null
+    },
+    {
+      "code": "7001",
+      "value_represented": null
+    },
+    {
+      "code": "7002",
+      "value_represented": null
+    },
+    {
+      "code": "8001",
+      "value_represented": "Big Bear"
+    },
+    {
+      "code": "9000",
+      "value_represented": "Ludlow"
+    },
+    {
+      "code": "9001",
+      "value_represented": null
+    },
+    {
+      "code": "9002",
+      "value_represented": "Joshua Tree NP - Black Rock"
+    },
+    {
+      "code": "9003",
+      "value_represented": "El Mirage-Shadow Mountain relay station"
+    },
+    {
+      "code": "9004",
+      "value_represented": "San Bernardino"
+    },
+    {
+      "code": "9005",
+      "value_represented": "SAN BERNADINO AIRPORT (NORTON AFB)"
+    },
+    {
+      "code": "9006",
+      "value_represented": "Cajon-Baldy Mesa"
+    },
+    {
+      "code": "9007",
+      "value_represented": "Hinckley-Jim Doering relay station"
+    },
+    {
+      "code": "9008",
+      "value_represented": "Helendale-Quartzite Mountain"
+    },
+    {
+      "code": "9009",
+      "value_represented": null
+    },
+    {
+      "code": "9010",
+      "value_represented": null
+    },
+    {
+      "code": "9011",
+      "value_represented": "San Bernardino-Mt. Vernon Ave."
+    }
+  ]
+}

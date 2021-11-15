@@ -1,0 +1,516 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2021-11-03T20:25:38-04:00",
+      "url": "https://aqs.epa.gov/data/api/list/parametersByClass?email=david.eaton@student.csulb.edu&key=orangeswift34&pc=SCHOOL%20AIR%20TOXICS",
+      "rows": 126
+    }
+  ],
+  "Data": [
+    {
+      "code": "14102",
+      "value_represented": "Antimony (TSP) LC"
+    },
+    {
+      "code": "14103",
+      "value_represented": "Arsenic (TSP) LC"
+    },
+    {
+      "code": "14105",
+      "value_represented": "Beryllium (TSP) LC"
+    },
+    {
+      "code": "14110",
+      "value_represented": "Cadmium (TSP) LC"
+    },
+    {
+      "code": "14112",
+      "value_represented": "Chromium (TSP) LC"
+    },
+    {
+      "code": "14113",
+      "value_represented": "Cobalt (TSP) LC"
+    },
+    {
+      "code": "14115",
+      "value_represented": "Chromium VI (TSP) LC"
+    },
+    {
+      "code": "14128",
+      "value_represented": "Lead (TSP) LC Non-FRM/FEM"
+    },
+    {
+      "code": "14132",
+      "value_represented": "Manganese (TSP) LC"
+    },
+    {
+      "code": "14136",
+      "value_represented": "Nickel (TSP) LC"
+    },
+    {
+      "code": "14142",
+      "value_represented": "Mercury (TSP) LC"
+    },
+    {
+      "code": "14154",
+      "value_represented": "Selenium (TSP) LC"
+    },
+    {
+      "code": "16714",
+      "value_represented": "Hexamethylene diisocyanate"
+    },
+    {
+      "code": "17141",
+      "value_represented": "Naphthalene (TSP) STP"
+    },
+    {
+      "code": "17147",
+      "value_represented": "Acenaphthene (TSP) STP"
+    },
+    {
+      "code": "17148",
+      "value_represented": "Acenaphthylene (TSP) STP"
+    },
+    {
+      "code": "17149",
+      "value_represented": "Fluorene (TSP) STP"
+    },
+    {
+      "code": "17150",
+      "value_represented": "Phenanthrene (TSP) STP"
+    },
+    {
+      "code": "17151",
+      "value_represented": "Anthracene (TSP) STP"
+    },
+    {
+      "code": "17158",
+      "value_represented": "Retene (TSP) STP"
+    },
+    {
+      "code": "17159",
+      "value_represented": "9-fluorenone (TSP) STP"
+    },
+    {
+      "code": "17160",
+      "value_represented": "Cyclopenta[cd]pyrene (TSP) STP"
+    },
+    {
+      "code": "17201",
+      "value_represented": "Fluoranthene (TSP) STP"
+    },
+    {
+      "code": "17204",
+      "value_represented": "Pyrene (TSP) STP"
+    },
+    {
+      "code": "17208",
+      "value_represented": "Chrysene (TSP) STP"
+    },
+    {
+      "code": "17211",
+      "value_represented": "Coronene (TSP) STP"
+    },
+    {
+      "code": "17212",
+      "value_represented": "Perylene (TSP) STP"
+    },
+    {
+      "code": "17215",
+      "value_represented": "Benzo[a]anthracene (TSP) STP"
+    },
+    {
+      "code": "17220",
+      "value_represented": "Benzo[b]fluoranthene (TSP) STP"
+    },
+    {
+      "code": "17223",
+      "value_represented": "Benzo[k]fluoranthene (TSP) STP"
+    },
+    {
+      "code": "17224",
+      "value_represented": "Benzo[e]pyrene (TSP) STP"
+    },
+    {
+      "code": "17231",
+      "value_represented": "Dibenzo[a,h]anthracene (TSP) STP"
+    },
+    {
+      "code": "17237",
+      "value_represented": "Benzo[g,h,i]perylene (TSP) STP"
+    },
+    {
+      "code": "17242",
+      "value_represented": "Benzo[a]pyrene (TSP) STP"
+    },
+    {
+      "code": "17243",
+      "value_represented": "Indeno[1,2,3-cd]pyrene (TSP) STP"
+    },
+    {
+      "code": "17906",
+      "value_represented": "2,4-Toluene Diisocyanate"
+    },
+    {
+      "code": "17911",
+      "value_represented": "2-6-TOLUENEDIISOCYANATE"
+    },
+    {
+      "code": "42153",
+      "value_represented": "Carbon disulfide"
+    },
+    {
+      "code": "43205",
+      "value_represented": "Propylene"
+    },
+    {
+      "code": "43206",
+      "value_represented": "Acetylene"
+    },
+    {
+      "code": "43218",
+      "value_represented": "1,3-Butadiene"
+    },
+    {
+      "code": "43233",
+      "value_represented": "n-Octane"
+    },
+    {
+      "code": "43372",
+      "value_represented": "Methyl tert-butyl ether"
+    },
+    {
+      "code": "43373",
+      "value_represented": "Tert-amyl methyl ether"
+    },
+    {
+      "code": "43396",
+      "value_represented": "tert-Butyl ethyl ether"
+    },
+    {
+      "code": "43438",
+      "value_represented": "Ethyl acrylate"
+    },
+    {
+      "code": "43441",
+      "value_represented": "Methyl methacrylate"
+    },
+    {
+      "code": "43502",
+      "value_represented": "Formaldehyde"
+    },
+    {
+      "code": "43503",
+      "value_represented": "Acetaldehyde"
+    },
+    {
+      "code": "43504",
+      "value_represented": "Propionaldehyde"
+    },
+    {
+      "code": "43505",
+      "value_represented": "Acrolein - Unverified"
+    },
+    {
+      "code": "43509",
+      "value_represented": "Acrolein - Verified"
+    },
+    {
+      "code": "43510",
+      "value_represented": "Butyraldehyde"
+    },
+    {
+      "code": "43513",
+      "value_represented": "Isovaleraldehyde"
+    },
+    {
+      "code": "43516",
+      "value_represented": "Trans-Crotonaldehyde"
+    },
+    {
+      "code": "43517",
+      "value_represented": "Hexanaldehyde"
+    },
+    {
+      "code": "43518",
+      "value_represented": "Valeraldehyde"
+    },
+    {
+      "code": "43551",
+      "value_represented": "Acetone"
+    },
+    {
+      "code": "43552",
+      "value_represented": "Methyl ethyl ketone"
+    },
+    {
+      "code": "43560",
+      "value_represented": "Methyl isobutyl ketone"
+    },
+    {
+      "code": "43702",
+      "value_represented": "Acetonitrile"
+    },
+    {
+      "code": "43704",
+      "value_represented": "Acrylonitrile"
+    },
+    {
+      "code": "43801",
+      "value_represented": "Chloromethane"
+    },
+    {
+      "code": "43802",
+      "value_represented": "Dichloromethane"
+    },
+    {
+      "code": "43803",
+      "value_represented": "Chloroform"
+    },
+    {
+      "code": "43804",
+      "value_represented": "Carbon tetrachloride"
+    },
+    {
+      "code": "43806",
+      "value_represented": "Bromoform"
+    },
+    {
+      "code": "43811",
+      "value_represented": "Trichlorofluoromethane"
+    },
+    {
+      "code": "43812",
+      "value_represented": "Chloroethane"
+    },
+    {
+      "code": "43813",
+      "value_represented": "1,1-Dichloroethane"
+    },
+    {
+      "code": "43814",
+      "value_represented": "Methyl chloroform"
+    },
+    {
+      "code": "43815",
+      "value_represented": "Ethylene dichloride"
+    },
+    {
+      "code": "43817",
+      "value_represented": "Tetrachloroethylene"
+    },
+    {
+      "code": "43818",
+      "value_represented": "1,1,2,2-Tetrachloroethane"
+    },
+    {
+      "code": "43819",
+      "value_represented": "Bromomethane"
+    },
+    {
+      "code": "43820",
+      "value_represented": "1,1,2-Trichloroethane"
+    },
+    {
+      "code": "43823",
+      "value_represented": "Dichlorodifluoromethane"
+    },
+    {
+      "code": "43824",
+      "value_represented": "Trichloroethylene"
+    },
+    {
+      "code": "43826",
+      "value_represented": "1,1-Dichloroethylene"
+    },
+    {
+      "code": "43828",
+      "value_represented": "Bromodichloromethane"
+    },
+    {
+      "code": "43829",
+      "value_represented": "1,2-Dichloropropane"
+    },
+    {
+      "code": "43830",
+      "value_represented": "trans-1,3-Dichloropropene"
+    },
+    {
+      "code": "43831",
+      "value_represented": "cis-1,3-Dichloropropene"
+    },
+    {
+      "code": "43832",
+      "value_represented": "Dibromochloromethane"
+    },
+    {
+      "code": "43835",
+      "value_represented": "Chloroprene"
+    },
+    {
+      "code": "43836",
+      "value_represented": "Bromochloromethane"
+    },
+    {
+      "code": "43838",
+      "value_represented": "trans-1,2-Dichloroethylene"
+    },
+    {
+      "code": "43839",
+      "value_represented": "cis-1,2-Dichloroethene"
+    },
+    {
+      "code": "43843",
+      "value_represented": "Ethylene dibromide"
+    },
+    {
+      "code": "43844",
+      "value_represented": "Hexachlorobutadiene"
+    },
+    {
+      "code": "43851",
+      "value_represented": "Trichlorotrifluoroethane"
+    },
+    {
+      "code": "43852",
+      "value_represented": "Dichlorotetrafluoroethane"
+    },
+    {
+      "code": "43860",
+      "value_represented": "Vinyl chloride"
+    },
+    {
+      "code": "45109",
+      "value_represented": "m/p Xylene"
+    },
+    {
+      "code": "45201",
+      "value_represented": "Benzene"
+    },
+    {
+      "code": "45202",
+      "value_represented": "Toluene"
+    },
+    {
+      "code": "45203",
+      "value_represented": "Ethylbenzene"
+    },
+    {
+      "code": "45204",
+      "value_represented": "o-Xylene"
+    },
+    {
+      "code": "45207",
+      "value_represented": "1,3,5-Trimethylbenzene"
+    },
+    {
+      "code": "45208",
+      "value_represented": "1,2,4-Trimethylbenzene"
+    },
+    {
+      "code": "45220",
+      "value_represented": "Styrene"
+    },
+    {
+      "code": "45501",
+      "value_represented": "Benzaldehyde"
+    },
+    {
+      "code": "45503",
+      "value_represented": "2,5-Dimethylbenzaldehyde"
+    },
+    {
+      "code": "45505",
+      "value_represented": "o-Tolualdehyde"
+    },
+    {
+      "code": "45507",
+      "value_represented": "p-Tolualdehyde"
+    },
+    {
+      "code": "45508",
+      "value_represented": "m-Tolualdehyde"
+    },
+    {
+      "code": "45704",
+      "value_represented": "4,4-Methylenedianiline"
+    },
+    {
+      "code": "45732",
+      "value_represented": "4,4-Methylenediphenyl Diisocyanate (MDI)"
+    },
+    {
+      "code": "45801",
+      "value_represented": "Chlorobenzene"
+    },
+    {
+      "code": "45805",
+      "value_represented": "1,2-Dichlorobenzene"
+    },
+    {
+      "code": "45806",
+      "value_represented": "1,3-Dichlorobenzene"
+    },
+    {
+      "code": "45807",
+      "value_represented": "1,4-Dichlorobenzene"
+    },
+    {
+      "code": "45809",
+      "value_represented": "Benzyl chloride"
+    },
+    {
+      "code": "45810",
+      "value_represented": "1,2,4-Trichlorobenzene"
+    },
+    {
+      "code": "85102",
+      "value_represented": "Antimony PM10 LC"
+    },
+    {
+      "code": "85103",
+      "value_represented": "Arsenic PM10 LC"
+    },
+    {
+      "code": "85105",
+      "value_represented": "Beryllium PM10 LC"
+    },
+    {
+      "code": "85110",
+      "value_represented": "Cadmium PM10 LC"
+    },
+    {
+      "code": "85112",
+      "value_represented": "Chromium PM10 LC"
+    },
+    {
+      "code": "85113",
+      "value_represented": "Cobalt PM10 LC"
+    },
+    {
+      "code": "85115",
+      "value_represented": "Chlorine PM10 LC"
+    },
+    {
+      "code": "85128",
+      "value_represented": "Lead PM10 LC"
+    },
+    {
+      "code": "85132",
+      "value_represented": "Manganese PM10 LC"
+    },
+    {
+      "code": "85136",
+      "value_represented": "Nickel PM10 LC"
+    },
+    {
+      "code": "85142",
+      "value_represented": "Mercury PM10 LC"
+    },
+    {
+      "code": "85154",
+      "value_represented": "Selenium PM10 LC"
+    }
+  ]
+}

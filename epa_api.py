@@ -99,3 +99,24 @@ class epa_api:
             if reading["time_local"] in times:
                 result.append(reading)
         return result
+
+    def get_site_coordinates(self, sites, chemicals):
+        result = []
+        for s in sites:
+            county = s["county_code"]
+            site = s["site_code"]
+            for c in chemicals:
+                response = requests.get(f"https://aqs.epa.gov/data/api/sampleData/bySite?email=david.eaton@student.csulb.edu&key=orangeswift34&param={c}&bdate=20200101&edate=20201231&state=06&county={county}&site={site}")
+                raw_data = json.loads(response.text)
+                for reading in raw_data["Data"]:
+                    site_info = {
+                        "state_code": reading["state_code"],
+                        "county_code": reading["county_code"],
+                        "county": reading["county"],
+                        "site_number": reading["site_number"],
+                        "latitude": reading["latitude"],
+                        "longitude": reading["longitude"]
+                    }
+                    if not any(r["county_code"] == site_info["county_code"] and r["site_number"] == site_info["site_number"] for r in result):
+                        result.append(site_info)
+        return result

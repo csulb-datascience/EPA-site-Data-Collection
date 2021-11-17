@@ -106,7 +106,7 @@ class epa_api:
             county = s["county_code"]
             site = s["site_code"]
             for c in chemicals:
-                response = requests.get(f"https://aqs.epa.gov/data/api/sampleData/bySite?email=david.eaton@student.csulb.edu&key=orangeswift34&param={c}&bdate=20200101&edate=20201231&state=06&county={county}&site={site}")
+                response = requests.get(f"https://aqs.epa.gov/data/api/sampleData/bySite?email=david.eaton@student.csulb.edu&key=orangeswift34&param={c}&bdate=20200101&edate=20200131&state=06&county={county}&site={site}")
                 raw_data = json.loads(response.text)
                 for reading in raw_data["Data"]:
                     site_info = {

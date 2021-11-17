@@ -1,0 +1,858 @@
+[
+  {
+    "state_code": "06",
+    "county_code": "001",
+    "county": "Alameda",
+    "site_number": "0007",
+    "latitude": 37.687526,
+    "longitude": -121.784217
+  },
+  {
+    "state_code": "06",
+    "county_code": "001",
+    "county": "Alameda",
+    "site_number": "0009",
+    "latitude": 37.743065,
+    "longitude": -122.169935
+  },
+  {
+    "state_code": "06",
+    "county_code": "001",
+    "county": "Alameda",
+    "site_number": "0011",
+    "latitude": 37.814781,
+    "longitude": -122.282347
+  },
+  {
+    "state_code": "06",
+    "county_code": "001",
+    "county": "Alameda",
+    "site_number": "0012",
+    "latitude": 37.793624,
+    "longitude": -122.263376
+  },
+  {
+    "state_code": "06",
+    "county_code": "001",
+    "county": "Alameda",
+    "site_number": "0013",
+    "latitude": 37.864767,
+    "longitude": -122.302741
+  },
+  {
+    "state_code": "06",
+    "county_code": "001",
+    "county": "Alameda",
+    "site_number": "0015",
+    "latitude": 37.701222,
+    "longitude": -121.903019
+  },
+  {
+    "state_code": "06",
+    "county_code": "007",
+    "county": "Butte",
+    "site_number": "0008",
+    "latitude": 39.76168,
+    "longitude": -121.84047
+  },
+  {
+    "state_code": "06",
+    "county_code": "013",
+    "county": "Contra Costa",
+    "site_number": "0002",
+    "latitude": 37.936013,
+    "longitude": -122.026154
+  },
+  {
+    "state_code": "06",
+    "county_code": "013",
+    "county": "Contra Costa",
+    "site_number": "0006",
+    "latitude": 37.948172,
+    "longitude": -122.364852
+  },
+  {
+    "state_code": "06",
+    "county_code": "013",
+    "county": "Contra Costa",
+    "site_number": "1001",
+    "latitude": 38.05492,
+    "longitude": -122.233229
+  },
+  {
+    "state_code": "06",
+    "county_code": "013",
+    "county": "Contra Costa",
+    "site_number": "1002",
+    "latitude": 38.006311,
+    "longitude": -121.641918
+  },
+  {
+    "state_code": "06",
+    "county_code": "013",
+    "county": "Contra Costa",
+    "site_number": "1004",
+    "latitude": 37.9604,
+    "longitude": -122.356811
+  },
+  {
+    "state_code": "06",
+    "county_code": "013",
+    "county": "Contra Costa",
+    "site_number": "2001",
+    "latitude": 38.012816,
+    "longitude": -122.134467
+  },
+  {
+    "state_code": "06",
+    "county_code": "013",
+    "county": "Contra Costa",
+    "site_number": "2007",
+    "latitude": 37.743649,
+    "longitude": -121.934188
+  },
+  {
+    "state_code": "06",
+    "county_code": "019",
+    "county": "Fresno",
+    "site_number": "0007",
+    "latitude": 36.705474,
+    "longitude": -119.741332
+  },
+  {
+    "state_code": "06",
+    "county_code": "019",
+    "county": "Fresno",
+    "site_number": "0011",
+    "latitude": 36.78538,
+    "longitude": -119.77321
+  },
+  {
+    "state_code": "06",
+    "county_code": "019",
+    "county": "Fresno",
+    "site_number": "0242",
+    "latitude": 36.841592,
+    "longitude": -119.874739
+  },
+  {
+    "state_code": "06",
+    "county_code": "019",
+    "county": "Fresno",
+    "site_number": "2016",
+    "latitude": 36.710833,
+    "longitude": -119.7775
+  },
+  {
+    "state_code": "06",
+    "county_code": "019",
+    "county": "Fresno",
+    "site_number": "4001",
+    "latitude": 36.597442,
+    "longitude": -119.503659
+  },
+  {
+    "state_code": "06",
+    "county_code": "019",
+    "county": "Fresno",
+    "site_number": "5001",
+    "latitude": 36.819449,
+    "longitude": -119.716433
+  },
+  {
+    "state_code": "06",
+    "county_code": "023",
+    "county": "Humboldt",
+    "site_number": "1004",
+    "latitude": 40.77678,
+    "longitude": -124.17949
+  },
+  {
+    "state_code": "06",
+    "county_code": "025",
+    "county": "Imperial",
+    "site_number": "0005",
+    "latitude": 32.67618,
+    "longitude": -115.48307
+  },
+  {
+    "state_code": "06",
+    "county_code": "025",
+    "county": "Imperial",
+    "site_number": "1003",
+    "latitude": 32.79222,
+    "longitude": -115.56306
+  },
+  {
+    "state_code": "06",
+    "county_code": "027",
+    "county": "Inyo",
+    "site_number": "0002",
+    "latitude": 37.360684,
+    "longitude": -118.330783
+  },
+  {
+    "state_code": "06",
+    "county_code": "029",
+    "county": "Kern",
+    "site_number": "0007",
+    "latitude": 35.345607,
+    "longitude": -118.851825
+  },
+  {
+    "state_code": "06",
+    "county_code": "029",
+    "county": "Kern",
+    "site_number": "0014",
+    "latitude": 35.356615,
+    "longitude": -119.062613
+  },
+  {
+    "state_code": "06",
+    "county_code": "029",
+    "county": "Kern",
+    "site_number": "2012",
+    "latitude": 35.331612,
+    "longitude": -118.999961
+  },
+  {
+    "state_code": "06",
+    "county_code": "029",
+    "county": "Kern",
+    "site_number": "6001",
+    "latitude": 35.503587,
+    "longitude": -119.272606
+  },
+  {
+    "state_code": "06",
+    "county_code": "031",
+    "county": "Kings",
+    "site_number": "1004",
+    "latitude": 36.31567,
+    "longitude": -119.643447
+  },
+  {
+    "state_code": "06",
+    "county_code": "037",
+    "county": "Los Angeles",
+    "site_number": "0002",
+    "latitude": 34.1365,
+    "longitude": -117.92391
+  },
+  {
+    "state_code": "06",
+    "county_code": "037",
+    "county": "Los Angeles",
+    "site_number": "0016",
+    "latitude": 34.14435,
+    "longitude": -117.85036
+  },
+  {
+    "state_code": "06",
+    "county_code": "037",
+    "county": "Los Angeles",
+    "site_number": "0113",
+    "latitude": 34.05111,
+    "longitude": -118.45636
+  },
+  {
+    "state_code": "06",
+    "county_code": "037",
+    "county": "Los Angeles",
+    "site_number": "1103",
+    "latitude": 34.06659,
+    "longitude": -118.22688
+  },
+  {
+    "state_code": "06",
+    "county_code": "037",
+    "county": "Los Angeles",
+    "site_number": "1201",
+    "latitude": 34.19925,
+    "longitude": -118.53276
+  },
+  {
+    "state_code": "06",
+    "county_code": "037",
+    "county": "Los Angeles",
+    "site_number": "1302",
+    "latitude": 33.901389,
+    "longitude": -118.205
+  },
+  {
+    "state_code": "06",
+    "county_code": "037",
+    "county": "Los Angeles",
+    "site_number": "1602",
+    "latitude": 34.01029,
+    "longitude": -118.0685
+  },
+  {
+    "state_code": "06",
+    "county_code": "037",
+    "county": "Los Angeles",
+    "site_number": "1701",
+    "latitude": 34.06703,
+    "longitude": -117.7514
+  },
+  {
+    "state_code": "06",
+    "county_code": "037",
+    "county": "Los Angeles",
+    "site_number": "2005",
+    "latitude": 34.1326,
+    "longitude": -118.1272
+  },
+  {
+    "state_code": "06",
+    "county_code": "037",
+    "county": "Los Angeles",
+    "site_number": "4008",
+    "latitude": 33.859662,
+    "longitude": -118.200707
+  },
+  {
+    "state_code": "06",
+    "county_code": "037",
+    "county": "Los Angeles",
+    "site_number": "4009",
+    "latitude": 33.793713,
+    "longitude": -118.171019
+  },
+  {
+    "state_code": "06",
+    "county_code": "037",
+    "county": "Los Angeles",
+    "site_number": "4010",
+    "latitude": 34.181977,
+    "longitude": -118.363036
+  },
+  {
+    "state_code": "06",
+    "county_code": "037",
+    "county": "Los Angeles",
+    "site_number": "5005",
+    "latitude": 33.95507,
+    "longitude": -118.43049
+  },
+  {
+    "state_code": "06",
+    "county_code": "037",
+    "county": "Los Angeles",
+    "site_number": "6012",
+    "latitude": 34.38344,
+    "longitude": -118.5284
+  },
+  {
+    "state_code": "06",
+    "county_code": "037",
+    "county": "Los Angeles",
+    "site_number": "9033",
+    "latitude": 34.669739,
+    "longitude": -118.130511
+  },
+  {
+    "state_code": "06",
+    "county_code": "039",
+    "county": "Madera",
+    "site_number": "0004",
+    "latitude": 36.867125,
+    "longitude": -120.010158
+  },
+  {
+    "state_code": "06",
+    "county_code": "041",
+    "county": "Marin",
+    "site_number": "0001",
+    "latitude": 37.97231,
+    "longitude": -122.520004
+  },
+  {
+    "state_code": "06",
+    "county_code": "047",
+    "county": "Merced",
+    "site_number": "0003",
+    "latitude": 37.281853,
+    "longitude": -120.433671
+  },
+  {
+    "state_code": "06",
+    "county_code": "053",
+    "county": "Monterey",
+    "site_number": "1003",
+    "latitude": 36.694261,
+    "longitude": -121.623271
+  },
+  {
+    "state_code": "06",
+    "county_code": "055",
+    "county": "Napa",
+    "site_number": "0004",
+    "latitude": 38.278849,
+    "longitude": -122.275024
+  },
+  {
+    "state_code": "06",
+    "county_code": "059",
+    "county": "Orange",
+    "site_number": "0007",
+    "latitude": 33.83062,
+    "longitude": -117.93845
+  },
+  {
+    "state_code": "06",
+    "county_code": "059",
+    "county": "Orange",
+    "site_number": "0008",
+    "latitude": 33.819305,
+    "longitude": -117.918759
+  },
+  {
+    "state_code": "06",
+    "county_code": "059",
+    "county": "Orange",
+    "site_number": "2022",
+    "latitude": 33.63003,
+    "longitude": -117.67593
+  },
+  {
+    "state_code": "06",
+    "county_code": "059",
+    "county": "Orange",
+    "site_number": "5001",
+    "latitude": 33.92513,
+    "longitude": -117.95264
+  },
+  {
+    "state_code": "06",
+    "county_code": "061",
+    "county": "Placer",
+    "site_number": "0006",
+    "latitude": 38.74643,
+    "longitude": -121.26498
+  },
+  {
+    "state_code": "06",
+    "county_code": "065",
+    "county": "Riverside",
+    "site_number": "0009",
+    "latitude": 33.447867,
+    "longitude": -117.088649
+  },
+  {
+    "state_code": "06",
+    "county_code": "065",
+    "county": "Riverside",
+    "site_number": "0012",
+    "latitude": 33.92086,
+    "longitude": -116.85841
+  },
+  {
+    "state_code": "06",
+    "county_code": "065",
+    "county": "Riverside",
+    "site_number": "1016",
+    "latitude": 33.944713,
+    "longitude": -116.830074
+  },
+  {
+    "state_code": "06",
+    "county_code": "065",
+    "county": "Riverside",
+    "site_number": "5001",
+    "latitude": 33.85275,
+    "longitude": -116.54101
+  },
+  {
+    "state_code": "06",
+    "county_code": "065",
+    "county": "Riverside",
+    "site_number": "8001",
+    "latitude": 33.99958,
+    "longitude": -117.41601
+  },
+  {
+    "state_code": "06",
+    "county_code": "065",
+    "county": "Riverside",
+    "site_number": "8005",
+    "latitude": 33.99636,
+    "longitude": -117.4924
+  },
+  {
+    "state_code": "06",
+    "county_code": "065",
+    "county": "Riverside",
+    "site_number": "9001",
+    "latitude": 33.67649,
+    "longitude": -117.33098
+  },
+  {
+    "state_code": "06",
+    "county_code": "067",
+    "county": "Sacramento",
+    "site_number": "0002",
+    "latitude": 38.71209,
+    "longitude": -121.38109
+  },
+  {
+    "state_code": "06",
+    "county_code": "067",
+    "county": "Sacramento",
+    "site_number": "0006",
+    "latitude": 38.613779,
+    "longitude": -121.368014
+  },
+  {
+    "state_code": "06",
+    "county_code": "067",
+    "county": "Sacramento",
+    "site_number": "0010",
+    "latitude": 38.56844,
+    "longitude": -121.49311
+  },
+  {
+    "state_code": "06",
+    "county_code": "067",
+    "county": "Sacramento",
+    "site_number": "0011",
+    "latitude": 38.302591,
+    "longitude": -121.420838
+  },
+  {
+    "state_code": "06",
+    "county_code": "067",
+    "county": "Sacramento",
+    "site_number": "0015",
+    "latitude": 38.593322,
+    "longitude": -121.503795
+  },
+  {
+    "state_code": "06",
+    "county_code": "071",
+    "county": "San Bernardino",
+    "site_number": "0001",
+    "latitude": 34.89398,
+    "longitude": -117.024804
+  },
+  {
+    "state_code": "06",
+    "county_code": "071",
+    "county": "San Bernardino",
+    "site_number": "0026",
+    "latitude": 34.06812,
+    "longitude": -117.52579
+  },
+  {
+    "state_code": "06",
+    "county_code": "071",
+    "county": "San Bernardino",
+    "site_number": "0027",
+    "latitude": 34.030833,
+    "longitude": -117.61722
+  },
+  {
+    "state_code": "06",
+    "county_code": "071",
+    "county": "San Bernardino",
+    "site_number": "0306",
+    "latitude": 34.510961,
+    "longitude": -117.32554
+  },
+  {
+    "state_code": "06",
+    "county_code": "071",
+    "county": "San Bernardino",
+    "site_number": "1004",
+    "latitude": 34.10374,
+    "longitude": -117.62914
+  },
+  {
+    "state_code": "06",
+    "county_code": "071",
+    "county": "San Bernardino",
+    "site_number": "1234",
+    "latitude": 35.77417,
+    "longitude": -117.3714
+  },
+  {
+    "state_code": "06",
+    "county_code": "071",
+    "county": "San Bernardino",
+    "site_number": "2002",
+    "latitude": 34.10002,
+    "longitude": -117.49201
+  },
+  {
+    "state_code": "06",
+    "county_code": "071",
+    "county": "San Bernardino",
+    "site_number": "9004",
+    "latitude": 34.106678,
+    "longitude": -117.274063
+  },
+  {
+    "state_code": "06",
+    "county_code": "073",
+    "county": "San Diego",
+    "site_number": "0001",
+    "latitude": 32.631242,
+    "longitude": -117.059088
+  },
+  {
+    "state_code": "06",
+    "county_code": "073",
+    "county": "San Diego",
+    "site_number": "1006",
+    "latitude": 32.842318,
+    "longitude": -116.768293
+  },
+  {
+    "state_code": "06",
+    "county_code": "073",
+    "county": "San Diego",
+    "site_number": "1008",
+    "latitude": 33.217055,
+    "longitude": -117.396177
+  },
+  {
+    "state_code": "06",
+    "county_code": "073",
+    "county": "San Diego",
+    "site_number": "1014",
+    "latitude": 32.57816,
+    "longitude": -116.92135
+  },
+  {
+    "state_code": "06",
+    "county_code": "073",
+    "county": "San Diego",
+    "site_number": "1016",
+    "latitude": 32.845709,
+    "longitude": -117.123964
+  },
+  {
+    "state_code": "06",
+    "county_code": "073",
+    "county": "San Diego",
+    "site_number": "1017",
+    "latitude": 32.985442,
+    "longitude": -117.08218
+  },
+  {
+    "state_code": "06",
+    "county_code": "073",
+    "county": "San Diego",
+    "site_number": "1022",
+    "latitude": 32.789565,
+    "longitude": -116.944308
+  },
+  {
+    "state_code": "06",
+    "county_code": "073",
+    "county": "San Diego",
+    "site_number": "1026",
+    "latitude": 32.710177,
+    "longitude": -117.142665
+  },
+  {
+    "state_code": "06",
+    "county_code": "075",
+    "county": "San Francisco",
+    "site_number": "0005",
+    "latitude": 37.765946,
+    "longitude": -122.399044
+  },
+  {
+    "state_code": "06",
+    "county_code": "077",
+    "county": "San Joaquin",
+    "site_number": "1002",
+    "latitude": 37.950741,
+    "longitude": -121.268523
+  },
+  {
+    "state_code": "06",
+    "county_code": "077",
+    "county": "San Joaquin",
+    "site_number": "3005",
+    "latitude": 37.682635,
+    "longitude": -121.442495
+  },
+  {
+    "state_code": "06",
+    "county_code": "079",
+    "county": "San Luis Obispo",
+    "site_number": "2004",
+    "latitude": 35.02083,
+    "longitude": -120.56388
+  },
+  {
+    "state_code": "06",
+    "county_code": "079",
+    "county": "San Luis Obispo",
+    "site_number": "4002",
+    "latitude": 35.03146,
+    "longitude": -120.50103
+  },
+  {
+    "state_code": "06",
+    "county_code": "079",
+    "county": "San Luis Obispo",
+    "site_number": "8002",
+    "latitude": 35.49453,
+    "longitude": -120.66617
+  },
+  {
+    "state_code": "06",
+    "county_code": "081",
+    "county": "San Mateo",
+    "site_number": "1001",
+    "latitude": 37.482934,
+    "longitude": -122.20337
+  },
+  {
+    "state_code": "06",
+    "county_code": "083",
+    "county": "Santa Barbara",
+    "site_number": "1008",
+    "latitude": 34.942872,
+    "longitude": -120.435611
+  },
+  {
+    "state_code": "06",
+    "county_code": "083",
+    "county": "Santa Barbara",
+    "site_number": "1013",
+    "latitude": 34.725352,
+    "longitude": -120.428717
+  },
+  {
+    "state_code": "06",
+    "county_code": "083",
+    "county": "Santa Barbara",
+    "site_number": "1014",
+    "latitude": 34.54166,
+    "longitude": -119.79146
+  },
+  {
+    "state_code": "06",
+    "county_code": "083",
+    "county": "Santa Barbara",
+    "site_number": "1020",
+    "latitude": 34.414942,
+    "longitude": -119.879511
+  },
+  {
+    "state_code": "06",
+    "county_code": "083",
+    "county": "Santa Barbara",
+    "site_number": "1021",
+    "latitude": 34.403052,
+    "longitude": -119.457914
+  },
+  {
+    "state_code": "06",
+    "county_code": "083",
+    "county": "Santa Barbara",
+    "site_number": "1025",
+    "latitude": 34.48974,
+    "longitude": -120.04692
+  },
+  {
+    "state_code": "06",
+    "county_code": "083",
+    "county": "Santa Barbara",
+    "site_number": "2004",
+    "latitude": 34.63782,
+    "longitude": -120.4575
+  },
+  {
+    "state_code": "06",
+    "county_code": "085",
+    "county": "Santa Clara",
+    "site_number": "0005",
+    "latitude": 37.348497,
+    "longitude": -121.894898
+  },
+  {
+    "state_code": "06",
+    "county_code": "085",
+    "county": "Santa Clara",
+    "site_number": "0006",
+    "latitude": 37.338135,
+    "longitude": -121.849783
+  },
+  {
+    "state_code": "06",
+    "county_code": "095",
+    "county": "Solano",
+    "site_number": "0004",
+    "latitude": 38.102507,
+    "longitude": -122.237976
+  },
+  {
+    "state_code": "06",
+    "county_code": "097",
+    "county": "Sonoma",
+    "site_number": "0004",
+    "latitude": 38.403765,
+    "longitude": -122.818294
+  },
+  {
+    "state_code": "06",
+    "county_code": "099",
+    "county": "Stanislaus",
+    "site_number": "0005",
+    "latitude": 37.642165,
+    "longitude": -120.994212
+  },
+  {
+    "state_code": "06",
+    "county_code": "099",
+    "county": "Stanislaus",
+    "site_number": "0006",
+    "latitude": 37.488317,
+    "longitude": -120.836008
+  },
+  {
+    "state_code": "06",
+    "county_code": "101",
+    "county": "Sutter",
+    "site_number": "0003",
+    "latitude": 39.138773,
+    "longitude": -121.618549
+  },
+  {
+    "state_code": "06",
+    "county_code": "107",
+    "county": "Tulare",
+    "site_number": "2002",
+    "latitude": 36.332179,
+    "longitude": -119.291228
+  },
+  {
+    "state_code": "06",
+    "county_code": "111",
+    "county": "Ventura",
+    "site_number": "2002",
+    "latitude": 34.276316,
+    "longitude": -118.683685
+  },
+  {
+    "state_code": "06",
+    "county_code": "111",
+    "county": "Ventura",
+    "site_number": "3001",
+    "latitude": 34.25239,
+    "longitude": -119.143182
+  },
+  {
+    "state_code": "06",
+    "county_code": "113",
+    "county": "Yolo",
+    "site_number": "0004",
+    "latitude": 38.53445,
+    "longitude": -121.7734
+  }
+]

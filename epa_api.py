@@ -1,7 +1,11 @@
+from collections import defaultdict
+
 import requests
 import json
 
+
 class epa_api:
+
     # Use EPA API to retrieve list of different categories of chemicals measured by EPA
     def get_chemical_classes(self):
         response = requests.get("https://aqs.epa.gov/data/api/list/classes?email=david.eaton@student.csulb.edu&key=orangeswift34")
@@ -89,15 +93,32 @@ class epa_api:
                     result.append(site_info)
         return result
 
-    def get_data(self, county, site, date, times, chemicals):
-        result = []
+    def get_data(self, county, site, bdate, edate, times, chemicals):
+        result = {}
         chemicals_list = ",".join(chemicals)
-        response = requests.get(f"https://aqs.epa.gov/data/api/sampleData/bySite?email=david.eaton@student.csulb.edu&key=orangeswift34&param={chemicals_list}&bdate={date}&edate={date}&state=06&county={county}&site={site}")
+        response = requests.get(f"https://aqs.epa.gov/data/api/sampleData/bySite?email=david.eaton@student.csulb.edu&key=orangeswift34&param={chemicals_list}&bdate={bdate}&edate={edate}&state=06&county={county}&site={site}")
         raw_data = json.loads(response.text)
         print(raw_data["Header"])
-        for reading in raw_data["Data"]:
-            if reading["time_local"] in times:
-                result.append(reading)
+        header = raw_data["Header"][0]
+
+        if header["status"] == "Success":
+            for reading in raw_data["Data"]:
+                if reading["time_local"] in times:
+
+                    if reading["sample_measurement"] is None:
+                        continue
+
+                    t = reading["time_local"]
+                    date = reading["date_local"]
+
+                    if date not in result:
+                        result[date] = {}
+
+                    date_dict = result[date]
+                    if t not in date_dict:
+                        date_dict[t] = defaultdict(str)
+
+                    date_dict[t][reading["parameter_code"]] = reading["sample_measurement"]
         return result
 
     def get_site_coordinates(self, sites, chemicals):

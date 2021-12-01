@@ -62,17 +62,8 @@ class Intersection:
         circle = p.buffer(radius)
         return list(circle.exterior.coords)
 
-        # positions = []
-        # step_size = 5
-        # for i in range(0, 361, step_size):
-        #     positions.append((radius * math.cos(2 * math.pi / 360 * i) + lon, radius * math.sin(2 * math.pi / 360 * i) + lat))
-        #
-        # return positions
-
     def get_intersection_area(self, lat: float, lon: float, radius: float, zipcode: int, show_graph = False):
-
-        # convert radius
-        radius /= 100
+        radius /= 100   # convert radius
 
         # get circle coordinates
         circle_coordinates = self.get_circle_coordinates(lat, lon, radius)
@@ -101,7 +92,6 @@ class Intersection:
             intersection = circle.intersection(zipcode_boundary)
             intersection_area = intersection.area * (10 ** 4)
 
-
             if show_graph:
                 plt.plot(*circle.exterior.xy)
                 plt.plot(*zipcode_boundary.exterior.xy)
@@ -122,7 +112,6 @@ class Intersection:
 
             intersection = circle.intersection(zipcode_boundary)
             intersection_area = intersection.area * (10 ** 4)
-
 
             if show_graph:
                 fig, axs = plt.subplots()

@@ -98,7 +98,7 @@ class epa_api:
         chemicals_list = ",".join(chemicals)
         response = requests.get(f"https://aqs.epa.gov/data/api/sampleData/bySite?email=david.eaton@student.csulb.edu&key=orangeswift34&param={chemicals_list}&bdate={bdate}&edate={edate}&state=06&county={county}&site={site}")
         raw_data = json.loads(response.text)
-        print(raw_data["Header"])
+        # print(raw_data["Header"])
         header = raw_data["Header"][0]
 
         if header["status"] == "Success":

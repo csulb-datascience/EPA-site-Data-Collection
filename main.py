@@ -2,7 +2,7 @@ from Intersection import Intersection
 import csv
 import os
 import json
-
+from datetime import datetime
 from epa_api import epa_api
 
 file_format = "epa_zipcode_intersection_radius_{}.json"
@@ -99,25 +99,21 @@ def get_data(radius):
         epa_zipcode_data = []
 
         for epa_zipcode_intersection in epa_zipcode_intersection_list:
-            print(epa_zipcode_intersection)
+            # print(epa_zipcode_intersection)
 
             county_code = epa_zipcode_intersection["COUNTY_CODE"]
             county = epa_zipcode_intersection["COUNTY"]
             site_id = epa_zipcode_intersection["EPA_ID"]
 
             epa_data = []
+            # date range: 01/01/2020 to present
+            current_year = datetime.today().year
+            while current_year >= 2020:
+                bdate, edate = str(current_year)+"0101", str(current_year)+"1231"
+                get_site_chemical_details(county_code, county, site_id, bdate, edate, epa_data)
+                current_year -= 1
 
-            # date range: 01/01/2020 to present so need to make 2 api call to get data
-            bdate = "20200101"
-            edate = "20201231"
-
-            get_site_chemical_details(county_code, county, site_id, bdate, edate, epa_data)
-
-            bdate = "20210101"
-            edate = "20211231"
-            get_site_chemical_details(county_code, county, site_id, bdate, edate, epa_data)
-
-            print("epa_data len:", len(epa_data))
+            print("County:", county, "site_id:", site_id, "epa_data len:", len(epa_data), "zipcode count:", len(epa_zipcode_intersection["zipcode_intersections"]))
 
             for zipcode_intersection in epa_zipcode_intersection["zipcode_intersections"]:
 

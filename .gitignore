@@ -1,1 +1,6 @@
 /.idea/
+zipcode_boundaries/us_zip_codes_geo.json.zip
+zipcode_boundaries/us_zip_codes_geo.json
+result/.DS_Store
+.DS_Store
+*.pyc

@@ -19,7 +19,7 @@ def get_epa_sites():
         return list(data)
 
 
-def get_epa_zipcode_intersection(radius):
+def get_epa_zipcode_intersection(radius, generate_csv=False):
     o = Intersection()
     zipcode_list = get_zipcodes()
     epa_site_list = get_epa_sites()
@@ -48,6 +48,30 @@ def get_epa_zipcode_intersection(radius):
     file_name = file_format.format(radius)
     with open(os.path.join("./intersection_details", file_name), mode='w') as jsonfile:
         json.dump(epa_site_list, jsonfile)
+
+    if generate_csv:
+        epa_zipcode_intersection_data = []
+
+        for epa_details in epa_site_list:
+            county = epa_details["COUNTY"]
+            epa_id = epa_details["EPA_ID"]
+            for zipcode_details in epa_details["zipcode_intersections"]:
+                epa_zipcode_intersection_data.append({
+                    "County": county,
+                    "EPA ID": epa_id,
+                    "Zipcode": zipcode_details["zipcode"],
+                    "Circle Area": zipcode_details["circle_area"],
+                    "Zipcode Area": zipcode_details["zipcode_area"],
+                    "Intersection Area": zipcode_details["intersection_area"]
+                })
+
+        with open(f'./result/epa_zipcode_intersection_radius_{radius}.csv', 'w', newline='') as csvfile:
+            fieldnames = ['County', 'EPA ID', 'Zipcode', 'Circle Area', 'Zipcode Area', 'Intersection Area']
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+            writer.writeheader()
+            for d in epa_zipcode_intersection_data:
+                writer.writerow(d)
 
 
 times = ["05:00", "06:00", "07:00", "08:00", "09:00", "10:00", "11:00"]  # time range: 5:00 - 11:00 AM
@@ -86,12 +110,12 @@ def get_site_chemical_details(county_code, county, site_id, bdate, edate, epa_da
             })
 
 
-def get_data(radius):
+def generate_data(radius):
     file_name = file_format.format(radius)
     # check if intersection file exists
     file = os.path.join("./intersection_details", file_name)
     if not os.path.exists(file):
-        get_epa_zipcode_intersection(radius)
+        get_epa_zipcode_intersection(radius, True)
 
     with open(file) as f:
         epa_zipcode_intersection_list = json.load(f)
@@ -118,11 +142,13 @@ def get_data(radius):
             for zipcode_intersection in epa_zipcode_intersection["zipcode_intersections"]:
 
                 for data in epa_data:
-                    c = {key: value for (key, value) in (data.items() | zipcode_intersection.items())}
+                    # c = {key: value for (key, value) in (data.items() | zipcode_intersection.items())}
+                    c = data.copy()
+                    c["zipcode"] = zipcode_intersection["zipcode"]
                     epa_zipcode_data.append(c)
 
-        with open(f'./result/epa_zipcode_intersection_radius_{radius}_details.csv', 'w', newline='') as csvfile:
-            fieldnames = ['Date', 'Time', 'County', 'EPA_ID', 'zipcode', 'zipcode_area', 'circle_area', 'intersection_area', 'NO', 'NO2', 'SO2', 'CO', 'CO2', 'O3', 'PM2.5', 'PM10']
+        with open(f'./result/epa_zipcode_intersection_radius_{radius}_chemical_details.csv', 'w', newline='') as csvfile:
+            fieldnames = ['Date', 'Time', 'County', 'EPA_ID', 'zipcode', 'NO', 'NO2', 'SO2', 'CO', 'CO2', 'O3', 'PM2.5', 'PM10']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
             writer.writeheader()
@@ -131,4 +157,4 @@ def get_data(radius):
 
 
 if __name__ == '__main__':
-    get_data(5)
+    generate_data(10)
